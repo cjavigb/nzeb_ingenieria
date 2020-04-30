@@ -5,6 +5,31 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
+  path: content/es
+  label: Español
+  create: all
+  match: "**/*"
+  templates:
+  - autor
+  - blog-post
+  - miembro-de-equipo
+  - proyecto
+  - servicio
+- type: directory
+  path: content/es/project
+  label: Proyectos
+  create: all
+  match: "**/*"
+  templates:
+  - proyecto
+- type: directory
+  path: content/es/team
+  label: Miembros del equipo
+  create: all
+  match: "**/*"
+  templates:
+  - miembro-de-equipo
+- type: directory
   path: content/es/service
   label: Servicio
   create: all
@@ -16,11 +41,6 @@ sections:
   label: Pages
   create: all
   match: "*"
-- type: directory
-  path: content/es
-  label: Es
-  create: all
-  match: "**/*"
 upload_dir: static/images
 public_path: "/uploads"
 front_matter_path: ''
