@@ -20,6 +20,8 @@ fields:
 - type: text
   name: icon
   label: icon
+  description: Escribir el texto del listado de iconos de <a href="https://themify.me/themify-icons"
+    title="https://themify.me/themify-icons" target="_blank">https://themify.me/themify-icons</a>
 - type: text
   name: brochure
   label: brochure
