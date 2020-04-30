@@ -10,6 +10,10 @@ sections:
   path: data/es/homepage.yml
   label: Homepage
   match: "**/*"
+- type: document
+  path: data/es/about.yml
+  label: Sobre nosotros
+  match: "**/*"
 - type: heading
   label: Contenido
 - type: directory
