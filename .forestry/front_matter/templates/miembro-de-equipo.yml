@@ -1,0 +1,74 @@
+---
+label: Miembro de equipo
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: description
+  label: description
+- type: text
+  name: designation
+  label: designation
+- type: file
+  name: image
+  label: image
+- type: file
+  name: bg_image
+  label: bg_image
+- type: text
+  name: cv
+  label: cv
+- type: textarea
+  name: bio
+  label: bio
+- type: field_group_list
+  name: information
+  label: information
+  fields:
+  - type: text
+    name: label
+    label: label
+  - type: text
+    name: icon
+    label: icon
+  - type: number
+    name: data
+    label: data
+- type: field_group_list
+  name: contacts
+  label: contacts
+  fields:
+  - type: text
+    name: icon
+    label: icon
+  - type: text
+    name: id
+    label: id
+- type: field_group_list
+  name: skill
+  label: skill
+  fields:
+  - type: text
+    name: label
+    label: label
+  - type: text
+    name: percentage
+    label: percentage
+- type: field_group_list
+  name: social
+  label: social
+  fields:
+  - type: text
+    name: icon
+    label: icon
+  - type: text
+    name: link
+    label: link
+- type: text
+  name: type
+  label: type
