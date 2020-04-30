@@ -3,15 +3,14 @@ bg_image = "images/background/page-title.jpg"
 brochure = "#"
 date = 2018-09-29T05:51:17Z
 description = "This is meta description"
-draft = false
 halfDay = ""
 halfTime = 2020-04-30T10:59:58Z
-icon = "ti-thought"
+icon = "ti-medall"
 image = "images/service/service-2.jpg"
 offDay = ""
 regularDay = ""
 regularTime = 2020-04-30T10:59:44Z
-title = "Licencias de actividad"
+title = "Investigación y docencia"
 
 +++
 ### Marketing Oriented To The Targated Customers
