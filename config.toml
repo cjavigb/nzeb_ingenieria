@@ -8,8 +8,10 @@ paginate = "6"
 summaryLength = "10"
 # disqus short name
 disqusShortname = "" # get your shortname form here : https://disqus.com
+# Site's default language, which will load first with your site load.
+DefaultContentLanguage = "es"
 # disable language
-disableLanguages = [""] # disable language from here
+disableLanguages = ["en"] # disable language from here
 
 ############################# Plugins ##############################
 [params.plugins]
