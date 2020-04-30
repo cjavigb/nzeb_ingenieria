@@ -1,9 +1,9 @@
 ---
-title: "Steve Woah"
-date: 2018-09-29T14:42:07+06:00
+title: "Claudio Javier García Ballano"
+date: 2018-09-29T14:41:38+06:00
 description : "This is meta description"
 designation: CEO
-image : images/team/team-page-6.jpg
+image : images/Screenshot_2020-04-23 Jitsi Meet.png
 bg_image: images/background/page-title.jpg
 cv : "#"
 bio : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat irure dolor in reprehender.
@@ -32,7 +32,7 @@ contacts:
     id : +88 525 325 22
     
   - icon : ti-email
-    id : philipwilson@biztrox.com
+    id : cjgarcia@nzebingenieria.es
     
   - icon : ti-location-pin
     id : 2/A Southampton, Sandiago, USA.
@@ -50,17 +50,8 @@ skill:
 
 # social links
 social:
-  - icon : ti-facebook
-    link : "#"
-    
-  - icon : ti-twitter-alt
-    link : "#"
-    
-  - icon : ti-vimeo-alt
-    link : "#"
-    
   - icon : ti-linkedin
-    link : "#"
+    link : "https://www.linkedin.com/in/cjgarciaballano/"
 
 # type
 type : team
