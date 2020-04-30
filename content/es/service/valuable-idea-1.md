@@ -4,14 +4,14 @@ brochure = "#"
 date = 2018-09-29T05:51:17Z
 description = "This is meta description"
 draft = true
-halfDay = "Thursday"
-halfTime = 2020-04-30T00:00:08Z
+halfDay = ""
+halfTime = 2020-04-30T10:59:58Z
 icon = "ti-thought"
 image = "images/service/service-2.jpg"
-offDay = "Friday"
-regularDay = "Sun-Tues"
-regularTime = 2020-04-30T00:00:08Z
-title = "Valuable Idea"
+offDay = ""
+regularDay = ""
+regularTime = 2020-04-30T10:59:44Z
+title = "Licencias de actividad"
 
 +++
 ### Marketing Oriented To The Targated Customers
