@@ -48,12 +48,12 @@ disableLanguages = [""] # disable language from here
     
   # main menu
   [[menu.main]]
-  name = "About"
+  name = "Acerca de"
   URL = "about"
   weight = 1
   
   [[menu.main]]
-  name = "Service"
+  name = "Servicios"
   URL = "service"
   weight = 2
   
@@ -63,17 +63,17 @@ disableLanguages = [""] # disable language from here
   weight = 3
   
   [[menu.main]]
-  name = "Team"
+  name = "Equipo"
   URL = "team"
   weight = 4
   
   [[menu.main]]
-  name = "Pricing"
+  name = "Precios"
   URL = "pricing"
   weight = 5
   
   [[menu.main]]
-  name = "Contact"
+  name = "Contacto"
   URL = "contact"
   weight = 6
 
@@ -113,10 +113,10 @@ disableLanguages = [""] # disable language from here
 [params]
 logo = "images/logo-nzeb.png"
 logo_white = "images/logo-nzeb-footer.png"
-mail = "info@companyname.com"
+mail = "info@nzebingenieria.es"
 mobile = "1234565523"
 # Meta data
-description = "Airspace Hugo theme"
+description = "NZEB Ingeniería"
 author = "themefisher"
 # contact form
 contact_form_action = "#"
