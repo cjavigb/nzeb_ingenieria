@@ -1,0 +1,41 @@
+---
+label: Proyecto
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: description
+  label: description
+- type: file
+  name: bg_image
+  label: bg_image
+- type: file
+  name: image
+  label: image
+- type: text
+  name: live_demo
+  label: live_demo
+- type: text
+  name: case_study
+  label: case_study
+- type: text
+  name: category
+  label: category
+- type: field_group_list
+  name: overview
+  label: overview
+  fields:
+  - type: text
+    name: label
+    label: label
+  - type: text
+    name: data
+    label: data
+- type: text
+  name: type
+  label: type
