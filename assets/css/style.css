@@ -2413,3 +2413,8 @@ blockquote{
 }
 
 /*# sourceMappingURL=maps/style.css.map */
+
+
+.container img {
+  max-width: 100%;
+}
