@@ -9,7 +9,7 @@ summaryLength = "10"
 # disqus short name
 disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language
-disableLanguages = ["en"] # disable language from here
+disableLanguages = [""] # disable language from here
 
 ############################# Plugins ##############################
 [params.plugins]
@@ -238,7 +238,7 @@ link = "https://www.linkedin.com/in/cjgarciaballano/"
   [Languages.es]
   languageName = "Es"
   languageCode = "es-es"
-  contentDir = "content/french"
+  contentDir = "content/es"
   weight = 1
   home = "Home"
 
