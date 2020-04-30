@@ -249,3 +249,5 @@ fields:
   - type: boolean
     name: enable
     label: enable
+pages:
+- data/es/homepage.yml
