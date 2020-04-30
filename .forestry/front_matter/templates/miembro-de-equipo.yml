@@ -72,3 +72,5 @@ fields:
 - type: text
   name: type
   label: type
+pages:
+- content/es/team/claudio-javier-garcía-ballano.md
