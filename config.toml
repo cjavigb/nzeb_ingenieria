@@ -1,5 +1,5 @@
 ######################### default configuration ###############################
-baseURL = "http://nzebingenieria.es"
+baseURL = "/"
 title = "NZEB Ingenería"
 theme = "biztrox-hugo"
 # post pagination
