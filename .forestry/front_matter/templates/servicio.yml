@@ -43,3 +43,5 @@ fields:
 - type: text
   name: type
   label: type
+pages:
+- content/es/service/solar-fotovoltaica.md
