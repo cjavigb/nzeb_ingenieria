@@ -1,0 +1,43 @@
+---
+label: Servicio
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: description
+  label: description
+- type: file
+  name: image
+  label: image
+- type: file
+  name: bg_image
+  label: bg_image
+- type: text
+  name: icon
+  label: icon
+- type: text
+  name: brochure
+  label: brochure
+- type: text
+  name: regularDay
+  label: regularDay
+- type: datetime
+  name: regularTime
+  label: regularTime
+- type: text
+  name: halfDay
+  label: halfDay
+- type: datetime
+  name: halfTime
+  label: halfTime
+- type: text
+  name: offDay
+  label: offDay
+- type: text
+  name: type
+  label: type
