@@ -16,6 +16,13 @@ sections:
   - proyecto
   - servicio
 - type: directory
+  path: content/es/service
+  label: Servicio
+  create: all
+  match: "**/*"
+  templates:
+  - servicio
+- type: directory
   path: content/es/project
   label: Proyectos
   create: all
@@ -30,12 +37,12 @@ sections:
   templates:
   - miembro-de-equipo
 - type: directory
-  path: content/es/service
-  label: Servicio
+  path: content/es/author
+  label: Autor
   create: all
   match: "**/*"
   templates:
-  - servicio
+  - autor
 - type: directory
   path: content
   label: Pages
