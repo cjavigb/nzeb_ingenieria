@@ -1,0 +1,251 @@
+---
+label: Homepage
+hide_body: true
+fields:
+- type: field_group
+  name: slider
+  label: slider
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: field_group_list
+    name: slider_Item
+    label: slider_Item
+    fields:
+    - type: file
+      name: bg_image
+      label: bg_image
+    - type: text
+      name: animation_from
+      label: animation_from
+    - type: text
+      name: subtitle
+      label: subtitle
+    - type: text
+      name: title
+      label: title
+    - type: textarea
+      name: content
+      label: content
+    - type: text
+      name: pagination_icon
+      label: pagination_icon
+    - type: text
+      name: pagination_name
+      label: pagination_name
+    - type: field_group
+      name: button
+      label: button
+      fields:
+      - type: boolean
+        name: enable
+        label: enable
+      - type: text
+        name: label
+        label: label
+      - type: text
+        name: link
+        label: link
+- type: field_group
+  name: service
+  label: service
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+- type: field_group
+  name: about
+  label: about
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: file
+    name: bg_image
+    label: bg_image
+  - type: text
+    name: title
+    label: title
+  - type: textarea
+    name: content
+    label: content
+  - type: list
+    name: bullet_point
+    label: bullet_point
+  - type: field_group
+    name: button
+    label: button
+    fields:
+    - type: boolean
+      name: enable
+      label: enable
+    - type: text
+      name: label
+      label: label
+    - type: text
+      name: link
+      label: link
+- type: field_group
+  name: skill
+  label: skill
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: text
+    name: subtitle
+    label: subtitle
+  - type: text
+    name: title
+    label: title
+  - type: textarea
+    name: content
+    label: content
+  - type: field_group_list
+    name: funfacts
+    label: funfacts
+    fields:
+    - type: text
+      name: icon
+      label: icon
+    - type: text
+      name: title
+      label: title
+    - type: number
+      name: count
+      label: count
+  - type: field_group_list
+    name: progressbar
+    label: progressbar
+    fields:
+    - type: text
+      name: title
+      label: title
+    - type: text
+      name: progress
+      label: progress
+- type: field_group
+  name: project
+  label: project
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+- type: field_group
+  name: mission
+  label: mission
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: text
+    name: subtitle
+    label: subtitle
+  - type: text
+    name: title
+    label: title
+  - type: textarea
+    name: content
+    label: content
+  - type: file
+    name: image
+    label: image
+  - type: field_group_list
+    name: accordion
+    label: accordion
+    fields:
+    - type: text
+      name: title
+      label: title
+    - type: textarea
+      name: description
+      label: description
+- type: field_group
+  name: promo_video
+  label: promo_video
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: text
+    name: title
+    label: title
+  - type: file
+    name: bg_image
+    label: bg_image
+  - type: text
+    name: video_URL
+    label: video_URL
+  - type: text
+    name: video_title
+    label: video_title
+- type: field_group
+  name: testimonial
+  label: testimonial
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: text
+    name: subtitle
+    label: subtitle
+  - type: text
+    name: title
+    label: title
+  - type: file
+    name: image
+    label: image
+  - type: field_group_list
+    name: testimonial_item
+    label: testimonial_item
+    fields:
+    - type: text
+      name: name
+      label: name
+    - type: textarea
+      name: content
+      label: content
+    - type: text
+      name: designation
+      label: designation
+- type: field_group
+  name: cta
+  label: cta
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: file
+    name: bg_image
+    label: bg_image
+  - type: text
+    name: title
+    label: title
+  - type: field_group
+    name: button
+    label: button
+    fields:
+    - type: boolean
+      name: enable
+      label: enable
+    - type: text
+      name: label
+      label: label
+    - type: text
+      name: link
+      label: link
+- type: field_group
+  name: blog
+  label: blog
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+- type: field_group
+  name: clients_logo_slider
+  label: clients_logo_slider
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
