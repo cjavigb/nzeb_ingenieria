@@ -1,6 +1,6 @@
 +++
 bg_image = "images/background/page-title.jpg"
-brochure = "#"
+brochure = ""
 date = 2018-09-29T05:51:17Z
 description = "This is meta description"
 halfDay = ""
