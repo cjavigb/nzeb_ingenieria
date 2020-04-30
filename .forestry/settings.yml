@@ -4,10 +4,6 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: document
-  path: config.toml
-  label: Configuración
-  match: "**/*"
 - type: heading
   label: Páginas especiales
 - type: document
@@ -16,6 +12,9 @@ sections:
 - type: document
   path: data/es/about.yml
   label: Sobre nosotros
+- type: document
+  path: config.toml
+  label: Configuración
 - type: heading
   label: Contenido
 - type: directory
