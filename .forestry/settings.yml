@@ -9,11 +9,9 @@ sections:
 - type: document
   path: data/es/homepage.yml
   label: Homepage
-  match: "**/*"
 - type: document
   path: data/es/about.yml
   label: Sobre nosotros
-  match: "**/*"
 - type: heading
   label: Contenido
 - type: directory
@@ -29,7 +27,7 @@ sections:
   - servicio
 - type: directory
   path: content/es/service
-  label: Servicio
+  label: Servicios
   create: all
   match: "**/*"
   templates:
