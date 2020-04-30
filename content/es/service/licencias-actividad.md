@@ -3,7 +3,6 @@ bg_image = "images/background/page-title.jpg"
 brochure = "#"
 date = 2018-09-29T05:51:17Z
 description = "This is meta description"
-draft = true
 halfDay = ""
 halfTime = 2020-04-30T10:59:58Z
 icon = "ti-thought"
