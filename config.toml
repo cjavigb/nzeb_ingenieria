@@ -1,15 +1,15 @@
 ######################### default configuration ###############################
-baseURL = "http://examplesite.com"
-title = "Biztrox"
+baseURL = "http://nzebingenieria.es"
+title = "NZEB Ingenería"
 theme = "biztrox-hugo"
 # post pagination
 paginate = "6"
 # post excerpt
 summaryLength = "10"
 # disqus short name
-disqusShortname = "biztrox" # get your shortname form here : https://disqus.com
+disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language
-disableLanguages = [] # desable language from here
+disableLanguages = ["en"] # disable language from here
 
 ############################# Plugins ##############################
 [params.plugins]
@@ -111,8 +111,8 @@ disableLanguages = [] # desable language from here
 
 ########################### default parameters #################################
 [params]
-logo = "images/logo.png"
-logo_white = "images/logo-footer.png"
+logo = "images/logo-nzeb.png"
+logo_white = "images/logo-nzeb-footer.png"
 mail = "info@companyname.com"
 mobile = "1234565523"
 # Meta data
@@ -210,7 +210,7 @@ link = "#"
 
 [[params.social]]
 icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+link = "https://www.linkedin.com/in/cjgarciaballano/"
 
 
 [Languages]
@@ -219,8 +219,8 @@ link = "#"
   [Languages.en]
   languageName = "En"
   languageCode = "en-us"
-  contentDir = "content/english"
-  weight = 1
+  contentDir = "content/en"
+  weight = 2
   home = "Home"
 
   # footer
@@ -234,22 +234,20 @@ link = "#"
   # copyright
   copyright = "Copyright &copy; 2019 a hugo theme by [themefisher.com](https://themefisher.com)"
 
-
-
-################################ Franch language ################################
-  [Languages.fr]
-  languageName = "Fr"
-  languageCode = "fr-fr"
+  ################################### Spanish language #####################################
+  [Languages.es]
+  languageName = "Es"
+  languageCode = "es-es"
   contentDir = "content/french"
-  weight = 2
-  home = "Accueil"
+  weight = 1
+  home = "Home"
 
   # footer
-  [Languages.fr.params.footer]
-  content = "Lorem ipsum dolor amet consectetur adipisicing elit sed eiusm tempor incididunt labore dolore magna aliqua enim."
+  [Languages.es.params.footer]
+  content = "Este es el footer en español"
 
   # subscribe
-  subscribe = "Subscribe Us"
+  subscribe = "Suscríbete"
   subscribe_content = "Lorem ipsum dolor sit amet, consect etur adipisicing. elit sed do eiusmod."
 
   # copyright
