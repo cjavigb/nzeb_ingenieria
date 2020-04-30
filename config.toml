@@ -66,10 +66,6 @@ URL = "about"
 name = "Acerca de"
 weight = 1
 [[menu.main]]
-hasChildren = true
-name = "Pages"
-weight = 7
-[[menu.main]]
 URL = "blog"
 name = "Blog"
 weight = 4
