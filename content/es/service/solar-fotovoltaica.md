@@ -22,6 +22,8 @@ Monitorizamos las instalaciones con reportes de producción y consumo, intensida
 
 ![](/images/Imagen1G.jpg)
 
+asdasd
+
 ![Gráfica producción solar 5 de julio de 2019](/images/20190705.JPG "Gráfica producción solar")
 
 ![Gráfica producción solar 16 de julio de 2019](/images/20190716.JPG "Gráfica producción solar")
