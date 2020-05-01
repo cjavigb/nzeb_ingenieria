@@ -20,9 +20,9 @@ Aportamos soluciones rentables y sostenibles justificado el retorno de inversió
 
 Monitorizamos las instalaciones con reportes de producción, consumo, intensidad máxima, corriente, etc.
 
-![](/images/Imagen1G.jpg)
+![](/images/Graficas.jpg)
 
-asdasd
+Prueba
 
 ![Gráfica producción solar 5 de julio de 2019](/images/20190705.JPG "Gráfica producción solar")
 
