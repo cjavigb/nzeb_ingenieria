@@ -14,7 +14,7 @@ title = "Solar fotovoltaica"
 type = ""
 
 +++
-### Instalaciones solares fotovoltaicas
+### Instalaciones solares fotovoltaicas.
 
 Nuestro equipo dará respuesta a cualquier necesidad en materia de energía solar y eficiencia energética.
 
