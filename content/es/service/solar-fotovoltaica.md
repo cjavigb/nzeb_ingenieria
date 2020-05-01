@@ -18,7 +18,7 @@ Nuestro equipo dará respuesta a cualquier necesidad en materia de energía sola
 
 Aportamos soluciones rentables y sostenibles justificado el retorno de inversión a nuestros clientes.
 
-Monitorizamos las instalaciones con reportes de producción y consumo, intensidad máxima, corriente, etc.
+Monitorizamos las instalaciones con reportes de producción, consumo, intensidad máxima, corriente, etc.
 
 ![](/images/Imagen1G.jpg)
 
