@@ -1,15 +1,15 @@
 +++
 bg_image = "/images/Cariñena 1-1.jpg"
-brochure = "#"
+brochure = ""
 date = 2018-09-29T05:51:17Z
-description = "This is meta description"
+description = ""
 halfDay = ""
-halfTime = 2020-04-30T10:59:58Z
+halfTime = ""
 icon = "ti-bar-chart"
 image = "/images/Sotogrande PNG.png"
 offDay = ""
 regularDay = ""
-regularTime = 2020-04-30T10:59:44Z
+regularTime = ""
 title = "Cumplimiento HE0 y HE1. HULC."
 
 +++
