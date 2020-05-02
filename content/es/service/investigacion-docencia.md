@@ -1,11 +1,11 @@
 +++
-bg_image = ""
+bg_image = "/images/Cariñena 1-1.jpg"
 brochure = "#"
 date = 2018-09-29T05:51:17Z
 description = "This is meta description"
 halfDay = ""
 halfTime = 2020-04-30T10:59:58Z
-icon = "ti-info-alt"
+icon = "ti-bar-chart"
 image = "/images/Sotogrande PNG.png"
 offDay = ""
 regularDay = ""
