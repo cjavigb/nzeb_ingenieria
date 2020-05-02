@@ -6,7 +6,7 @@ description = "This is meta description"
 halfDay = ""
 halfTime = 2020-04-30T10:59:58Z
 icon = "ti-credit-card"
-image = "/images/KN_web-1.jpg"
+image = "/images/KN_1-1.jpg"
 offDay = ""
 regularDay = ""
 regularTime = 2020-04-30T10:59:44Z
@@ -30,5 +30,7 @@ Ante el Ayuntamiento u organismo competente gestionaremos tu licencia de Apertur
 #### Gestión.
 
 También ofrecemos los servicios de gestión de contratación de la obra así como la dirección de la misma, de manera que tu sólo te dediques a preparar el arranque del negocio.
+
+![](/images/Filadelfia_web.jpg)
 
 ![Tienda de ropa Filadelfia (Zaragoza).](/images/Filadelfia web.jpg "Filadelfia. Tu ropa americana.")
