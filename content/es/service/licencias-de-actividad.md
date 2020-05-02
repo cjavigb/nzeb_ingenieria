@@ -23,7 +23,7 @@ La licencia de apertura y actividad es una **licencia municipal** obligatoria pa
 
 [Centros Kids and Nits y adiós piojitos en Zaragoza.](https://www.kidsandnits.com/nuestros-centros/tratamiento-para-eliminar-piojos-en-zaragoza "Centros Kids and Nits y adiós piojitos en Zaragoza.")
 
-![](/images/Casa_Puyuelo.jpg)
+![Foto del Hotel Rural Casa Puyuelo en Tierrantona. (Huesca)](/images/Casa_Puyuelo-1.jpg "Hotel Rural Casa Puyuelo Tierrantona.")
 
 [Hotel Rural Casa Puyuelo](http://www.hotelruralcasapuyuelo.com/ "Hotel Rural Casa Puyuelo") en Tierrantona (Huesca)
 
