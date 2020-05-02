@@ -6,27 +6,19 @@ description = "This is meta description"
 halfDay = ""
 halfTime = 2020-04-30T10:59:58Z
 icon = "ti-info-alt"
-image = ""
+image = "/images/Sotogrande PNG.png"
 offDay = ""
 regularDay = ""
 regularTime = 2020-04-30T10:59:44Z
-title = "Investigación. Difusión del conocimiento."
+title = "Cumplimiento HE0 y HE1. HULC."
 
 +++
-### El saber es poder
+### 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Mediante la Herramienta Unificada Líder Calener ( HULC ) en NZEB Ingeniería justificamos el cumplimiento del DB-HE del CTE ofreciendo un **completo informe**.
 
-> Excepteur sint occaecat cupidatat non proident sunt culpa officia deserunt mollit anim id est laborum.Sed ut perspiciatis unde omnis.
+El [Documento Básico de Ahorro de Energía (DB-HE) del Código Técnico de la Edificación](https://www.codigotecnico.org/index.php/menu-ahorro-energia.html "CTE DB HE")  tiene por objeto establecer reglas y procedimientos que permiten cumplir las exigencias básicas de ahorro de energía.
 
-1. Business Services
-2. Audit & Assurance
-3. IT Control Solutions
+_“Es obligatorio, para todos los edificios de nueva construcción, así como para reformas en las que se renueven de forma conjunta las instalaciones de generación térmica y más del 25% de la superficie total de la envolvente térmica final del edificio, llevar a cabo la justificación de los apartados HE0 y HE1.”_
 
-#### Marketing Improvement Strategy
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco [laboris ]()nisi ut aliquip ex.Commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt.
-
-![Esto es el campus de la USJ](/images/1200px-Campus_Villanueva_1.jpg "Título de la foto")
-
-asdfasfd
+Trabajamos todo tipo de edificaciones: colegios, hoteles, clubes deportivos, viviendas, etc. ofreciendo a nuestro cliente, además de la justificación, una serie de pautas para conseguir que su edificio llegue a ser un **Edificio de Consumo Casi Nulo** (ECCN)
