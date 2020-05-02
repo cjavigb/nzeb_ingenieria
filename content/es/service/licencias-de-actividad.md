@@ -1,30 +1,28 @@
 +++
-bg_image = "images/background/page-title.jpg"
+bg_image = "/images/Fondo-1.JPG"
 brochure = ""
 date = 2018-09-29T05:51:17Z
 description = "This is meta description"
 halfDay = ""
 halfTime = 2020-04-30T10:59:58Z
-icon = "ti-medall"
-image = "/images/transmision_licencias.jpg"
+icon = "ti-credit-card"
+image = "/images/KN_1.jpg"
 offDay = ""
 regularDay = ""
 regularTime = 2020-04-30T10:59:44Z
-title = "Licencias de actividad"
+title = "Licencias de apertura y de actividad"
 
 +++
-### Título de licencia de actividad
+### ¿Quieres abrir un negocio?
 
-Lorem ipsum dolor sit amet, **consectetur** adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore[ magna aliqu](https://usj.es "título")a. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+En NZEB Ingeniería realizamos todos tipo de trámites para poder conseguirlo.
 
-> Excepteur sint occaecat cupidatat non proident sunt culpa officia deserunt mollit anim id est laborum.Sed ut perspiciatis unde omnis.
+La licencia de apertura y actividad es una **licencia municipal** obligatoria para que en una nave, oficina o local se pueda ejercer la actividad correspondiente. Consiste en un documento que acredita el cumplimiento de las condiciones de habitabilidad y uso de esa actividad determinada. Es concedida por el Ayuntamiento de la localidad.
 
-1. Business Services
-2. Audit & Assurance
-3. IT Control Solutions
+#### Tramitación.
 
-#### Marketing Improvement Strategy
+Ante el Ayuntamiento u organismo competente gestionaremos tu licencia de Apertura y de Actividad. Nos encargamos de toda la tramitación para conseguir poner en marcha tu negocio.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex.Commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt.
+#### Gestión.
 
-![](/images/transmision_licencias.jpg)
+También ofrecemos los servicios de gestión de contratación de la obra así como la dirección de la misma, de manera que tu sólo te dediques a preparar el arranque del negocio.
