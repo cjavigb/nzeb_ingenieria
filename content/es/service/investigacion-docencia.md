@@ -1,12 +1,12 @@
 +++
-bg_image = "images/1200px-Campus_Villanueva_1.jpg"
+bg_image = ""
 brochure = "#"
 date = 2018-09-29T05:51:17Z
 description = "This is meta description"
 halfDay = ""
 halfTime = 2020-04-30T10:59:58Z
 icon = "ti-info-alt"
-image = "/images/III Congreso ECCN 2.JPG"
+image = ""
 offDay = ""
 regularDay = ""
 regularTime = 2020-04-30T10:59:44Z
