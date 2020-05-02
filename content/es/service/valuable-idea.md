@@ -1,29 +1,46 @@
 ---
-title: "Valuable Idea"
-date: 2018-09-29T11:51:17+06:00
-description : "This is meta description"
-image: images/service/service-2.jpg
+title: Investigación. Difusión del conocimiento.
+date: 2018-09-29T05:51:17+00:00
+description: This is meta description
+image: "/images/III Congreso ECCN 2.JPG"
 bg_image: images/background/page-title.jpg
 icon: ti-thought
-brochure: '#'
+brochure: "#"
 regularDay: Sun-Tues
 regularTime: 08.00am - 06.00pm
 halfDay: Thursday
 halfTime: 08.00am - 01.00pm
 offDay: Friday
-type : service
+
 ---
+### 
 
-### Marketing Oriented To The Targated Customers
+La importancia de diseminar el conocimiento científico y tecnológico se hace cada vez mayor.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+![](/images/III Congreso ECCN 3.JPG)
 
+III Congreos de Edificios de Energía Casi Nula.
 
-> Excepteur sint occaecat cupidatat non proident sunt culpa officia deserunt mollit anim id est laborum.Sed ut perspiciatis unde omnis.
+[Vídeo de la presentación](https://www.construible.es/videoteca/m-sanchez-energy-manafer-y-c-j-garcia-usj-3-congreso-eecn "Vídeo de la presentación"); [Actas de congreso: (pág. 179-184)](https://www.construible.es/biblioteca/libro-comunicaciones-3-congreso-edificios-energia-casi-nula "Actas de congreso: (pág. 179-184)")
 
-1. Business Services
-2. Audit & Assurance
-3. IT Control Solutions
+#### Congresos y publicaciones.
 
-#### Marketing Improvement Strategy
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex.Commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt.
+Los congresos son los lugares donde se comparte el conocimiento. Nuestro equipo participando en ello consigue mantenerse al día. Invertimos parte de nuestros beneficios en I+D+I con el fin de poder realizar los proyectos de nuestros clientes con mejores resultados.
+
+![](/images/Soria.jpg)
+
+II Congreso Iberoamericano de Ciudades Inteligentes (ICSC-CITIES 2019). Soria.
+
+Comparativa a nivel de barrio de los porcentajes de ahorro energético como resultado de transformar los edificios de viviendas a NZEB en Zaragoza.
+
+[Programa de las jornadas.](http://icsc-cities2019.com/files/Congress_Program_v2.pdf "Programa de las jornadas.")
+
+![](/images/E&B.JPG)
+
+![](/images/E&B_WEB.jpg)
+
+[Artículo publicado.](https://www.sciencedirect.com/science/article/abs/pii/S0378778819332888?via%3Dihub "Artículo publicado.")
+
+Los miembros del equipo participamos en los Festivales del Pint of Science.
+
+![](/images/pint-of-science-WEB.jpg)
