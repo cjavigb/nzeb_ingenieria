@@ -17,9 +17,9 @@ offDay: Friday
 
 La importancia de diseminar el conocimiento científico y tecnológico se hace cada vez mayor.
 
-![](/images/III Congreso ECCN 3.JPG)
+![](/images/III Congreso ECCN 3-1.JPG)
 
-III Congreos de Edificios de Energía Casi Nula.
+III Congreso de Edificios de Energía Casi Nula.
 
 [Vídeo de la presentación](https://www.construible.es/videoteca/m-sanchez-energy-manafer-y-c-j-garcia-usj-3-congreso-eecn "Vídeo de la presentación"); [Actas de congreso: (pág. 179-184)](https://www.construible.es/biblioteca/libro-comunicaciones-3-congreso-edificios-energia-casi-nula "Actas de congreso: (pág. 179-184)")
 
