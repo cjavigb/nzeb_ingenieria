@@ -3,7 +3,7 @@ title: Investigación. Difusión del conocimiento.
 date: 2018-09-29T05:51:17+00:00
 description: This is meta description
 image: "/images/III Congreso ECCN 2.JPG"
-bg_image: images/background/page-title.jpg
+bg_image: "/images/Fondo.jpg"
 icon: ti-thought
 brochure: "#"
 regularDay: Sun-Tues
