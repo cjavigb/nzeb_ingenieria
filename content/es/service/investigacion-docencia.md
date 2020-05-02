@@ -13,8 +13,6 @@ regularTime = 2020-04-30T10:59:44Z
 title = "Cumplimiento HE0 y HE1. HULC."
 
 +++
-### 
-
 Mediante la Herramienta Unificada Líder Calener ( HULC ) en NZEB Ingeniería justificamos el cumplimiento del DB-HE del CTE ofreciendo un **completo informe**.
 
 El [Documento Básico de Ahorro de Energía (DB-HE) del Código Técnico de la Edificación](https://www.codigotecnico.org/index.php/menu-ahorro-energia.html "CTE DB HE")  tiene por objeto establecer reglas y procedimientos que permiten cumplir las exigencias básicas de ahorro de energía.
