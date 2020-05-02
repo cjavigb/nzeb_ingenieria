@@ -19,10 +19,16 @@ En NZEB Ingeniería realizamos todos tipo de trámites para poder conseguirlo.
 
 La licencia de apertura y actividad es una **licencia municipal** obligatoria para que en una nave, oficina o local se pueda ejercer la actividad correspondiente. Consiste en un documento que acredita el cumplimiento de las condiciones de habitabilidad y uso de esa actividad determinada. Es concedida por el Ayuntamiento de la localidad.
 
+![Centro Kids and Nits y adiós piojitos en Zaragoza](/images/KN_2.jpg "Kids and Nits y adiós piojitos")
+
 #### Tramitación.
 
 Ante el Ayuntamiento u organismo competente gestionaremos tu licencia de Apertura y de Actividad. Nos encargamos de toda la tramitación para conseguir poner en marcha tu negocio.
 
+![Molino harina ecológica de Ecotambo en Sádaba (Zaragoza)](/images/Ecotambo_web.jpg "Molino Ecotambo")
+
 #### Gestión.
 
 También ofrecemos los servicios de gestión de contratación de la obra así como la dirección de la misma, de manera que tu sólo te dediques a preparar el arranque del negocio.
+
+![Tienda de ropa Filadelfia (Zaragoza).](/images/Filadelfia web.jpg "Filadelfia. Tu ropa americana.")
