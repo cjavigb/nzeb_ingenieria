@@ -19,6 +19,8 @@ En NZEB Ingeniería realizamos todos tipo de trámites para poder conseguirlo.
 
 La licencia de apertura y actividad es una **licencia municipal** obligatoria para que en una nave, oficina o local se pueda ejercer la actividad correspondiente. Consiste en un documento que acredita el cumplimiento de las condiciones de habitabilidad y uso de esa actividad determinada. Es concedida por el Ayuntamiento de la localidad.
 
+![](/images/KN_web.jpg)
+
 ![Centro Kids and Nits y adiós piojitos en Zaragoza](/images/KN_2.jpg "Kids and Nits y adiós piojitos")
 
 #### Tramitación.
