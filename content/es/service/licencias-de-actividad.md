@@ -10,7 +10,7 @@ image = "/images/KN_1-1.jpg"
 offDay = ""
 regularDay = ""
 regularTime = 2020-04-30T10:59:44Z
-title = "Licencias de apertura y de actividad"
+title = "Licencias de apertura y actividad"
 
 +++
 ### ¿Quieres abrir un negocio?
@@ -20,6 +20,12 @@ En NZEB Ingeniería realizamos todos tipo de trámites para poder conseguirlo.
 La licencia de apertura y actividad es una **licencia municipal** obligatoria para que en una nave, oficina o local se pueda ejercer la actividad correspondiente. Consiste en un documento que acredita el cumplimiento de las condiciones de habitabilidad y uso de esa actividad determinada. Es concedida por el Ayuntamiento de la localidad.
 
 ![Centro Kids and Nits y adiós piojitos Zaragoza.](/images/KN_web-1.jpg "Kids and Nits y adiós piojitos")
+
+[Centros Kids and Nits y adiós piojitos en Zaragoza.](https://www.kidsandnits.com/nuestros-centros/tratamiento-para-eliminar-piojos-en-zaragoza "Centros Kids and Nits y adiós piojitos en Zaragoza.")
+
+![](/images/Casa_Puyuelo.jpg)
+
+[Hotel Rural Casa Puyuelo](http://www.hotelruralcasapuyuelo.com/ "Hotel Rural Casa Puyuelo") en Tierrantona (Huesca)
 
 #### Tramitación.
 
