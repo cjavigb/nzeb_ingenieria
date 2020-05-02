@@ -21,10 +21,4 @@ El [Documento Básico de Ahorro de Energía (DB-HE) del Código Técnico de la E
 
 _“Es obligatorio, para todos los edificios de nueva construcción, así como para reformas en las que se renueven de forma conjunta las instalaciones de generación térmica y más del 25% de la superficie total de la envolvente térmica final del edificio, llevar a cabo la justificación de los apartados HE0 y HE1.”_
 
-![](/images/Malaga PNG.png)
-
-![](/images/Cariñena 1.jpg)
-
 Trabajamos todo tipo de edificaciones: colegios, hoteles, clubes deportivos, viviendas, etc. ofreciendo a nuestro cliente, además de la justificación, una serie de pautas para conseguir que su edificio llegue a ser un **Edificio de Consumo Casi Nulo** (ECCN)
-
-![](/images/Valencia PNG.png)
