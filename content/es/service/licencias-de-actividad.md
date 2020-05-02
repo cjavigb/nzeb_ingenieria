@@ -31,6 +31,4 @@ Ante el Ayuntamiento u organismo competente gestionaremos tu licencia de Apertur
 
 También ofrecemos los servicios de gestión de contratación de la obra así como la dirección de la misma, de manera que tu sólo te dediques a preparar el arranque del negocio.
 
-![](/images/Filadelfia_web.jpg)
-
-![Tienda de ropa Filadelfia (Zaragoza).](/images/Filadelfia web.jpg "Filadelfia. Tu ropa americana.")
+![Tienda de ropa Filadelfia (Zaragoza).](/images/Filadelfia_web.jpg "Filadelfia. Tu ropa americana.")
