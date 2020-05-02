@@ -6,11 +6,11 @@ description = "This is meta description"
 halfDay = ""
 halfTime = 2020-04-30T10:59:58Z
 icon = "ti-info-alt"
-image = "images/service/1295837_1.jpg"
+image = "/images/III Congreso ECCN 2.JPG"
 offDay = ""
 regularDay = ""
 regularTime = 2020-04-30T10:59:44Z
-title = "Investigación y docencia"
+title = "Investigación. Difusión del conocimiento."
 
 +++
 ### El saber es poder
