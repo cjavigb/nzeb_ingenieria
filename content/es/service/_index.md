@@ -7,4 +7,4 @@ description: This is meta description
 ---
 ## ¿Qué ofrecemos en NZEB Ingeniería?
 
-Somos un grupo de personas multidisciplinar que abordamos cualquier tipo de proyecto relacionado con la **ingeniería**, **urbanismo** y **arquitectura**.
+Somos un grupo de personas multidisciplinares que abordamos cualquier tipo de proyecto relacionado con la **ingeniería**, **urbanismo** y **arquitectura**.
