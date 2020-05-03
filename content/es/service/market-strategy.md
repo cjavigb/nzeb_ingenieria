@@ -1,13 +1,12 @@
 +++
-bg_image = "images/background/page-title.jpg"
+bg_image = ""
 brochure = "#"
-date = 2018-09-29T05:54:02Z
+date = 2019-09-29T05:54:00Z
 description = "This is meta description"
-draft = true
 halfDay = "Thursday"
 halfTime = 2020-05-03T00:00:08Z
 icon = "ti-server"
-image = "images/service/service-3.jpg"
+image = "/images/Portada.jpg"
 offDay = "Friday"
 regularDay = "Sun-Tues"
 regularTime = 2020-05-03T00:00:08Z
