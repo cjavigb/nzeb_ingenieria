@@ -24,4 +24,4 @@ El Real Decreto 235/2013 para la certificación de la eficiencia energética de 
 
 [Más información del Ministerio.](https://energia.gob.es/desarrollo/EficienciaEnergetica/CertificacionEnergetica/Paginas/certificacion.aspx "Información del Ministerio")
 
-Recuerda, si vas a realizar cualquier transacción comercial de un inmueble (compra-venta o alquiler) deberás disponer del Certificado de Eficiencia Energética de este.
+Recuerda, si vas a realizar cualquier transacción comercial de un inmueble (compra-venta o alquiler) deberás disponer del Certificado de Eficiencia Energética de este. La vigencia del mismo será de 10 años.
