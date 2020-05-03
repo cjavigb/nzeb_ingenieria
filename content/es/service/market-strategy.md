@@ -10,7 +10,7 @@ image = "/images/Portada.jpg"
 offDay = "Friday"
 regularDay = "Sun-Tues"
 regularTime = 2020-05-03T00:00:08Z
-title = "Market Strategy"
+title = "NZEB - Passivhaus"
 
 +++
 ### 
