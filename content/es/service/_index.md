@@ -1,10 +1,10 @@
 ---
-title: "Service"
-date: 2018-07-12T18:19:33+06:00
+title: Servicios
+date: 2018-07-12T12:19:33.000+00:00
 bg_image: images/background/page-title.jpg
-description : "This is meta description"
+description: This is meta description
+
 ---
+## ¿Qué ofrecemos en NZEB Ingeniería?
 
-## Our Best Services
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod <br> tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.
+Somos un grupo de personas multidisciplinar que abordamos cualquier tipo de proyecto relacionado con la **ingeniería**, **urbanismo** y **arquitectura**.
