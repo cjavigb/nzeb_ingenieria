@@ -44,5 +44,6 @@ fields:
   name: type
   label: type
 pages:
+- content/es/service/certificaciones-energéticas.md
 - content/es/service/solar-fotovoltaica.md
 - content/es/service/solar-fotovoltaica.md
