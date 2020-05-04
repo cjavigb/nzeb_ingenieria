@@ -32,6 +32,6 @@ En NZEB Ingeniería realizamos todo tipo de Proyectos de urbanización.
 
 •Telecomunicaciones.
 
-![](/images/Cartuja Baja.JPG)
+![Urbanización 60 viviendas en La Cartuja Baja (Zaragoza).](/images/Cartuja Baja.JPG "Urbanización 60 viviendas en La Cartuja Baja (Zaragoza).")
 
-![](/images/Actur II.JPG)
+![Urbanización interior de 168 viviendas en Zaragoza.](/images/Actur II.JPG "Urbanización interior de 168 viviendas en Zaragoza.")
