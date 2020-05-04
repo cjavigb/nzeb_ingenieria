@@ -18,7 +18,7 @@ En NZEB Ingeniería nos encargamos, tras la visita obligada al inmueble, de real
 
 El **certificado de eficiencia energética** tiene por objeto proporcionar información objetiva sobre la eficiencia energética de los edificios para que el consumidor pueda comparar y evaluar este aspecto en su decisión de compra o alquiler.
 
-![](/images/Cert 10.jpg)
+![Páginas Certificación Energética](/images/Cert 10.jpg "Páginas Certificación Energética")
 
 El Real Decreto 235/2013 para la certificación de la eficiencia energética de los edificios establece que este documento es imprescindible siempre que se vendan o alquilen edificios o partes de los mismos, como pisos, apartamentos o locales comerciales. Este Certificado será emitido por **técnicos competentes.**
 
