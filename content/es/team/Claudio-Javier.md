@@ -1,62 +1,46 @@
 ---
-title: "Claudio Javier García Ballano"
-date: 2018-09-29T14:41:38+06:00
-description : "This is meta description"
+title: Claudio Javier García Ballano
+date: 2018-09-29T08:41:38.000+00:00
+description: This is meta description
 designation: CEO
-image : images/Screenshot_2020-04-23 Jitsi Meet.png
+image: "/images/P1109950.JPG"
 bg_image: images/background/page-title.jpg
-cv : "#"
-bio : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat irure dolor in reprehender.
-
-# information
+cv: "#"
+bio: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
+  incididunt ut labore et dolore magna aliqua.enim ad minim veniam, quis nostrud exercitation
+  ullamco laboris nisi ut aliquip ex ea commodo consequat irure dolor in reprehender.
 information:
-  - label : Projects Done
-    icon : ti-notepad
-    data : 32
-    
-  - label : Success Rate
-    icon : ti-medall
-    data : 96%
-    
-  - label : Experience Of
-    icon : ti-flag-alt
-    data : 13 Years
-    
-  - label : From
-    icon : ti-location-pin
-    data : San Diago. NY
-
-# contacts
+- label: Projects Done
+  icon: ti-notepad
+  data: 32
+- label: Success Rate
+  icon: ti-medall
+  data: 96%
+- label: Experience Of
+  icon: ti-flag-alt
+  data: 13 Years
+- label: From
+  icon: ti-location-pin
+  data: San Diago. NY
 contacts:
-  - icon : ti-mobile
-    id : +88 525 325 22
-    
-  - icon : ti-email
-    id : cjgarcia@nzebingenieria.es
-    
-  - icon : ti-location-pin
-    id : 2/A Southampton, Sandiago, USA.
-
-# skill
+- icon: ti-mobile
+  id: "+88 525 325 22"
+- icon: ti-email
+  id: cjgarcia@nzebingenieria.es
+- icon: ti-location-pin
+  id: 2/A Southampton, Sandiago, USA.
 skill:
-  - label : Branding
-    percentage : 85%
-    
-  - label : Consulting
-    percentage : 90%
-    
-  - label : Business
-    percentage : 75%
-
-# social links
+- label: Branding
+  percentage: 85%
+- label: Consulting
+  percentage: 90%
+- label: Business
+  percentage: 75%
 social:
-  - icon : ti-linkedin
-    link : "https://www.linkedin.com/in/cjgarciaballano/"
+- icon: ti-linkedin
+  link: https://www.linkedin.com/in/cjgarciaballano/
 
-# type
-type : team
 ---
-
 #### Work History  & Feedback
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis.
