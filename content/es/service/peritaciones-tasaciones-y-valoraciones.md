@@ -1,5 +1,5 @@
 +++
-bg_image = ""
+bg_image = "/images/Fondo informes.jpg"
 brochure = ""
 date = 2020-05-25T22:00:00Z
 description = ""
