@@ -5,6 +5,6 @@ bg_image: "/images/Servicios fondo web.jpg"
 description: This is meta description
 
 ---
-### ¿Qué ofrecemos en NZEB Ingeniería?
+#### ¿Qué ofrecemos en NZEB Ingeniería? Ingeniería, urbanismo y arquitectura.
 
 Somos un grupo de personas multidisciplinares que abordamos cualquier tipo de proyecto relacionado con la **ingeniería**, **urbanismo** y **arquitectura**.
