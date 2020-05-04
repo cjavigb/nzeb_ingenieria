@@ -24,4 +24,8 @@ Tanto en el área de las edificaciones industriales, colegios, centros de salud,
 
 En colaboración con [Viraje Arquitectura](https://viraje.es/ "Viraje Arquitectura")  y con [Ubiko](https://www.ubiko.es/ "Ubiko") realizamos los cálculos estructurales y los despieces de las viviendas de manera que se puedan prefabricar y conseguir los plazos más ajustados del mercado.
 
+![](/images/UBIKO_web_UP44_02_01.jpg)
+
 Estas soluciones modernas y funcionales son el futuro de la edificación residencial industrializada.
+
+![](/images/UBIKO_web_UP44_14.jpg)
