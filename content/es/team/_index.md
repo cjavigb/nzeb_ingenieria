@@ -1,10 +1,24 @@
 ---
-title: "Our Team"
-date: 2018-07-12T18:19:33+06:00
+title: Our Team
+date: 2018-07-12T12:19:33.000+00:00
 bg_image: images/background/page-title.jpg
-description : "This is meta description"
+description: This is meta description
+
 ---
+#### Un gran equipo multidisciplinar.
 
-## Our Awesome Team
+NZEB Ingeniería está formado por un equipo multidisciplinar para poder abordar todos los campos que demanden nuestros clientes.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod <br> tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.
+El equipo está formado por:
+
+Ingenieros Industriales.
+
+Ingenieros Técnicos.
+
+Ingenieros de Caminos, Canales y Puertos.
+
+Ingenieros de Telecomunicaciones.
+
+Arquitectos.
+
+Arquitectos Técnicos.
