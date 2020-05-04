@@ -22,6 +22,8 @@ Tanto en el área de las edificaciones industriales, colegios, centros de salud,
 
 ![Nave industrial multiplanta prefabricada](/images/1FH (17).JPG "Nave industrial prefabricada")
 
+![](/images/SECC 3.JPG)
+
 En colaboración con [Viraje Arquitectura](https://viraje.es/ "Viraje Arquitectura")  y con [Ubiko](https://www.ubiko.es/ "Ubiko") realizamos los cálculos estructurales y los despieces de las viviendas de manera que se puedan prefabricar y conseguir los plazos más ajustados del mercado.
 
 ![Vivienda prefabricada en Mallorca](/images/UBIKO_web_UP44_02_01.jpg "Vivienda prefabricada")
