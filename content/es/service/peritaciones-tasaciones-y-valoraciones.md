@@ -44,4 +44,4 @@ Los campos de actuación más habituales son las periciales en:
 
 •Urbanismo.
 
-![](/images/Periciales.jpg)
+![Informes periciales. Tasaciones y valoraciones.](/images/Periciales.jpg "Informes periciales. Tasaciones y valoraciones.")
