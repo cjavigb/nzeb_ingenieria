@@ -12,14 +12,9 @@ NZEB Ingeniería está formado por un equipo multidisciplinar para poder abordar
 
 El equipo está formado por:
 
-Ingenieros Industriales.
-
-Ingenieros Técnicos.
-
-Ingenieros de Caminos, Canales y Puertos.
-
-Ingenieros de Telecomunicaciones.
-
-Arquitectos.
-
-Arquitectos Técnicos.
+* Ingenieros Industriales.
+* Ingenieros Técnicos.
+* Ingenieros de Caminos, Canales y Puertos.
+* Ingenieros de Telecomunicaciones.
+* Arquitectos.
+* Arquitectos Técnicos.
