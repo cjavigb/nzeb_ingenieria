@@ -4,7 +4,7 @@ date: 2018-09-29T08:41:38.000+00:00
 description: This is meta description
 designation: CEO
 image: "/images/Foto_WEB.jpg"
-bg_image: images/background/page-title.jpg
+bg_image: "/images/Fondo equipo-1.jpg"
 cv: "#"
 bio: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
   incididunt ut labore et dolore magna aliqua.enim ad minim veniam, quis nostrud exercitation
