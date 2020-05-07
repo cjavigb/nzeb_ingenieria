@@ -6,9 +6,7 @@ designation: CEO
 image: "/images/Foto_WEB.jpg"
 bg_image: "/images/Fondo equipo-1.jpg"
 cv: "#"
-bio: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
-  incididunt ut labore et dolore magna aliqua.enim ad minim veniam, quis nostrud exercitation
-  ullamco laboris nisi ut aliquip ex ea commodo consequat irure dolor in reprehender.
+bio: "CEO de NZEB Ingenería. \n"
 information:
 - label: Projects Done
   icon: ti-notepad
@@ -41,14 +39,14 @@ social:
   link: https://www.linkedin.com/in/cjgarciaballano/
 
 ---
-#### Formación
+##### Formación
 
 * Ingeniero Industrial.
 * Diploma de Estudios Avanzados (DEA, equivalente a Máster). Universidad de Zaragoza. Área de Conocimiento de Ingeniería de la Construcción.
 * Máster en Investigación y Formación avanzada en Arquitectura por la Universidad San Jorge de Zaragoza.
 * Passivhaus Designer otorgado por el Passivhaus Institut.
 
-#### Ejercicio libre de la profesión.
+##### Ejercicio libre de la profesión.
 
 * Ejercicio libre de la profesión desde julio de 1.993 hasta la actualidad.
 * Proyectos y direcciones de obra de instalaciones.
@@ -57,7 +55,7 @@ social:
 * Cálculo de estructuras.
 * Certificaciones energéticas.
 
-#### Docencia
+##### Docencia
 
 Universidad San Jorge.
 
@@ -75,7 +73,7 @@ Universidad de Zaragoza. Centro Politécnico Superior
 * Profesor Asociado de Construcciones Industriales (4º curso).
 * Profesor Asociado de Servicios Industriales (4º curso).
 
-#### Ponencias.
+##### Ponencias.
 
 * Ponente en el II Congreso Iberoamericano de Ciudades Inteligentes (Soria). Organizado por la red CITIES. (Octubre de 2.019).
 * Responsable y ponente en el curso de “Soluciones prácticas para conseguir un Edificio de consumo de energía casi nulo (ECCN) ante el nuevo CTE”, de 40 horas de duración. Organizado por Colegio Oficial de Arquitectos de Aragón. (Octubre, Noviembre y Diciembre de 2.018).
@@ -86,7 +84,7 @@ Universidad de Zaragoza. Centro Politécnico Superior
 * Responsable y ponente en el curso de “Materiales Inteligentes para la mejora de la eficiencia urbana” programa europeo MED-MAIN organizado por SARGA. (Marzo de 2.015).
 * Responsable y ponente en el curso de “LIDER: Certificación energética” en la Escuela Técnica Superior de Arquitectura de la Universidad San Jorge de Zaragoza. (Febrero de 2.013).
 
-#### Prefabricado de hormigón.
+##### Prefabricado de hormigón.
 
 PREFABRICADOS TECNYCONTA S.L. (Noviembre de 1.997 a Noviembre de 2.002).
 
