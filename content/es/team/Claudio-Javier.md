@@ -75,7 +75,7 @@ Universidad de Zaragoza. Centro Politécnico Superior
 * Profesor Asociado de Construcciones Industriales (4º curso).
 * Profesor Asociado de Servicios Industriales (4º curso).
 
-#### Ponencias y cursos.
+#### Ponencias.
 
 * Ponente en el II Congreso Iberoamericano de Ciudades Inteligentes (Soria). Organizado por la red CITIES. (Octubre de 2.019).
 * Responsable y ponente en el curso de “Soluciones prácticas para conseguir un Edificio de consumo de energía casi nulo (ECCN) ante el nuevo CTE”, de 40 horas de duración. Organizado por Colegio Oficial de Arquitectos de Aragón. (Octubre, Noviembre y Diciembre de 2.018).
