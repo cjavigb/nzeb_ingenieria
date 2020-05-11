@@ -18,14 +18,15 @@ slider:
   - bg_image: images/banner/banner-2.jpg
     animation_from: up
     subtitle: Get your
-    title: Business Consultant
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor <br> incididunt ut labore et dolore magna aliqua.
+    title: Ponemos en marcha tu negocio
+    content: |-
+      ¿Necesitas la tramitación para poner en marcha tu negocio?
+      Déjalo en nuestras manos y nosotros nos encargamos de todo. Proyectos, licencias, autorizaciones ante Organismos Oficiales, etc. para que tu sólo te preocupes de abrir la puerta y comenzar con la actividad.
     pagination_icon: ti-bar-chart
     pagination_name: Marketing
     button:
       enable: true
-      label: More details
+      label: Mas detalles
       link: about
   - bg_image: images/banner/banner-3.jpg
     animation_from: down
