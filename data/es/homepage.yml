@@ -22,8 +22,8 @@ slider:
     content: |-
       ¿Necesitas la tramitación para poner en marcha tu negocio?
       Déjalo en nuestras manos y nosotros nos encargamos de todo. Proyectos, licencias, autorizaciones ante Organismos Oficiales, etc. para que tu sólo te preocupes de abrir la puerta y comenzar con la actividad.
-    pagination_icon: ti-bar-chart
-    pagination_name: Marketing
+    pagination_icon: ti-widget
+    pagination_name: Proyectos
     button:
       enable: true
       label: Mas detalles
