@@ -8,6 +8,18 @@ fields:
 - type: datetime
   name: date
   label: date
+  default: now
+- name: weight
+  type: number
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
+  label: Peso
+  description: 'Los servicios se ordenan en función de: 1) peso (orden creciente);  y
+    2) fecha (orden decreciente).<br>'
 - type: text
   name: description
   label: description
@@ -44,16 +56,10 @@ fields:
   name: type
   label: type
 pages:
-- content/es/service/certificaciones-energéticas.md
-- content/es/service/certificaciones-energéticas.md
 - content/es/service/cálculo-de-estructuras.md
 - content/es/service/cálculo-de-estructuras.md
 - content/es/service/docencia.md
 - content/es/service/docencia.md
-- content/es/service/instalaciones-de-climatización.md
-- content/es/service/instalaciones-de-climatización.md
-- content/es/service/instalaciones-eléctricas.md
-- content/es/service/instalaciones-eléctricas.md
 - content/es/service/mobiliario-urbano.md
 - content/es/service/mobiliario-urbano.md
 - content/es/service/peritaciones-tasaciones-y-valoraciones.md
