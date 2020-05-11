@@ -12,7 +12,7 @@ slider:
     pagination_icon: ti-comments
     pagination_name: Consultation
     button:
-      enable: false
+      enable: true
       label: Más información
       link: about
   - bg_image: images/banner/banner-2.jpg
