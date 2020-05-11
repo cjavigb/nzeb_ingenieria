@@ -13,7 +13,7 @@ slider:
     pagination_name: Consultoría
     button:
       enable: true
-      label: Más información
+      label: Conócenos
       link: about
   - bg_image: images/Pref_2.jpg
     animation_from: up
