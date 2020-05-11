@@ -4,7 +4,7 @@ date: 2018-09-29T08:41:38.000+00:00
 description: This is meta description
 designation: CEO
 image: "/images/Foto_WEB.jpg"
-bg_image: "/images/Fondo equipo-1.jpg"
+bg_image: "/images/Fondo equipo.jpg"
 cv: "#"
 bio: "CEO de NZEB Ingenería. \n"
 information:
