@@ -57,8 +57,8 @@ about:
   enable: true
   bg_image: images/background/about-bg.jpg
   title: "¿Quiénes somos?"
-  content: Excepteur sint occaecat cupidatat non proident sunt culpa qui officia deserunt
-    mollit anim id est laborum.
+  content: NZEB Ingeniería está formado por un equipo multidisciplinar para poder
+    abordar todos los campos que demanden nuestros clientes.
   bullet_point:
   - Business Services
   - Audit & Assurance
