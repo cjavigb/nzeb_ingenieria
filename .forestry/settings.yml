@@ -21,6 +21,11 @@ sections:
 - type: heading
   label: Contenido
 - type: directory
+  path: content/es/blog
+  label: Blog
+  create: all
+  match: "**/*"
+- type: directory
   path: content/es
   label: Español
   create: all
