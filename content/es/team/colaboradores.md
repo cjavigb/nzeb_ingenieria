@@ -14,6 +14,16 @@ title = "Colaboradores"
 type = ""
 
 +++
+En NZEB Ingeniería apostamos por colaborar con los especialistas que pueden dar mayor valor añadido a cada proyecto. 
+
+Es por ello que establecemos colaboraciones con distintos equipos de manera que "la unión haga la fuerza" y el resultado final para nuestro cliente sea el mejor.
+
+***
+
+[B+HAUS](https://www.bhaus.es/)
+
+***
+
 [Carlos Cámara. Arquitecto.](https://www.carloscamara.es/)
 
 ***
