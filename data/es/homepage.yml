@@ -30,15 +30,17 @@ slider:
       link: about
   - bg_image: images/banner/banner-3.jpg
     animation_from: down
-    subtitle: Start your
-    title: Future Plan
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor <br> incididunt ut labore et dolore magna aliqua.
+    subtitle: Comienza ya
+    title: Deja el comienzo de tu futuro en nuestras manos.
+    content: Nosotros nos encargamos de todo. Desde localizar la ubicación idónea,
+      diseñar el local para tu actividad, obtener licencias hasta seleccionar los
+      gremios para realizar la obra. Todo en perfecta coordinación de acuerdo a tus
+      necesidades.
     pagination_icon: ti-money
     pagination_name: Finance
     button:
       enable: true
-      label: More details
+      label: Más información
       link: about
   - bg_image: images/banner/banner-4.jpg
     animation_from: right
