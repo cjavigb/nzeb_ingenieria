@@ -15,6 +15,10 @@ sections:
 - type: document
   path: config.toml
   label: Configuración
+- type: document
+  path: data/es/services.yml
+  label: Widget Servicios
+  match: "**/*"
 - type: heading
   label: Contenido
 - type: directory
