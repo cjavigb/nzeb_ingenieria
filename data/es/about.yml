@@ -1,15 +1,11 @@
 ---
 philosophy:
   enable: true
-  subtitle: Know About
-  title: Our Philosophy
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit sed eiusmod tempor
-    didunt laboris nisi ut aliquip ex commodo consequat. duis aute irure dolor in
-    reprehenderivoluptate velit esse cillum dolore fugiat nulla pariatur.Excepteur
-    sint ocaecat cupidatat noproident sunt culpa qui officia deserunt mollit anim
-    id est laborum.<br> Sed perspiciatis unde omnisiste natus error sit voluptatem
-    accusantium.doloremque ladantium totam rem aperieaque ipsa quae ab illo inventore.veritatis.
-    et quasi architecto beatae vitae dicta sunt explicabo.
+  subtitle: Sobre nosotros
+  title: Nuestra filosofía
+  content: 'En NZEB Ingeniería somos expertos en ponernos en la piel de nuestros clientes.
+    Sólo así escuchamos, comprendemos y proyectamos las necesidades de ellos y conseguimos
+    poner en marcha los proyectos que nos encomiendan. '
   image: images/about/philosophy.jpg
 ceo:
   enable: true
@@ -26,7 +22,7 @@ ceo:
 mission:
   enable: true
 funfacts:
-  enable: true
+  enable: false
   bg_image: images/background/cta.jpg
   counter:
   - title: Projects Done
@@ -42,4 +38,4 @@ funfacts:
     icon: ti-cup
     count: "130"
 skill:
-  enable: true
+  enable: false
