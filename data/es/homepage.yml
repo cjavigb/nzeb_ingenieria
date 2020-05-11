@@ -4,15 +4,16 @@ slider:
   slider_Item:
   - bg_image: "/images/1200px-Campus_Villanueva_1.jpg"
     animation_from: left
-    subtitle: We are here to
-    title: Planning Business
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor <br> incididunt ut labore et dolore magna aliqua.
+    subtitle: En NZEB Ingeniería estamos aquí para
+    title: Hacer realidad su negocio
+    content: Un equipo de ingeniería, urbanismo y arquitectura para hacer realidad
+      cualquier necesidad que surja. Deje todo en nuestras manos y preocúpese sólo
+      de su verdadero negocio.
     pagination_icon: ti-comments
     pagination_name: Consultation
     button:
       enable: true
-      label: More details
+      label: Más información
       link: about
   - bg_image: images/banner/banner-2.jpg
     animation_from: up
