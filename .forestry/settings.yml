@@ -18,7 +18,6 @@ sections:
 - type: document
   path: data/es/services.yml
   label: Widget Servicios
-  match: "**/*"
 - type: heading
   label: Contenido
 - type: directory
