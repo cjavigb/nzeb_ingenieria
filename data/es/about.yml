@@ -19,7 +19,7 @@ ceo:
   name: Claudio Javier García Ballano
   designation: CEO. Ingeniero Industrial. Passivhaus Designer.
 mission:
-  enable: false
+  enable: true
 funfacts:
   enable: false
   bg_image: images/background/cta.jpg
