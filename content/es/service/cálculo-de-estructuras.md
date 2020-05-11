@@ -1,7 +1,7 @@
 +++
 bg_image = "/images/Pref 2.jpg"
 brochure = ""
-date = 2020-05-25T22:00:00Z
+date = 2020-05-10T22:00:00Z
 description = ""
 halfDay = ""
 halfTime = ""
@@ -16,10 +16,10 @@ type = ""
 +++
 Diseñamos y calculamos cualquier tipo de estructura: metálica, hormigón armado, hormigón pretensado, madera, trabajos con perfiles estructurales, etc.
 
-![](/images/Estructuras 2.jpg)
+![](/images/Estructuras_2.jpg)
 
 Realizamos planos de fabricación para estructura metálica, así como los planos de estructura para obra in-situ.
 
 En elementos prefabricados calculamos tanto estructura armada como estructura pretensada.
 
-![](/images/Estructuras 1.jpg)
+![](/images/Estructuras_1.jpg)

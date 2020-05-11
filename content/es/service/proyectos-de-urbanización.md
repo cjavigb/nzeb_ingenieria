@@ -1,7 +1,7 @@
 +++
 bg_image = "/images/Yéqueda 2-1.JPG"
 brochure = ""
-date = 2020-05-25T22:00:00Z
+date = 2018-05-25T22:00:00Z
 description = ""
 halfDay = ""
 halfTime = ""

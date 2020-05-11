@@ -2,7 +2,7 @@
 bg_image = "/images/Fondo-1.jpg"
 brochure = "#"
 date = 2019-09-29T05:54:00Z
-description = "This is meta description"
+description = ""
 halfDay = ""
 halfTime = ""
 icon = "ti-home"

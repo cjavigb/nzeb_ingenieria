@@ -1,7 +1,7 @@
 +++
 bg_image = "/images/Fondo 3.jpg"
 brochure = ""
-date = 2020-05-25T22:00:00Z
+date = 2020-05-10T22:00:00Z
 description = ""
 halfDay = ""
 halfTime = ""
