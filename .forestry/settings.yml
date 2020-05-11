@@ -25,6 +25,8 @@ sections:
   label: Blog
   create: all
   match: "**/*"
+  templates:
+  - blog-post
 - type: directory
   path: content/es
   label: Español
