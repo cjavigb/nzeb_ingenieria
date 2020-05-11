@@ -44,15 +44,17 @@ slider:
       link: about
   - bg_image: images/banner/banner-4.jpg
     animation_from: right
-    subtitle: We are always
-    title: Be Inspired By Best
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor <br> incididunt ut labore et dolore magna aliqua.
+    subtitle: Realizamos nuestro tranajo
+    title: Siempre bajo el criterio de la sostenibilidad
+    content: 'Estamos plenamente convencidos de que no ya el futuro sino el presente
+      de debe mover bajo parámetros de sostenibiliad y respeto al medio ambiente.
+      La eficiencia energética y los edificios NZEB / Passivhaus son nuestro objetivo
+      constante. '
     pagination_icon: ti-package
     pagination_name: Human Resources
     button:
       enable: true
-      label: More details
+      label: Más detalles
       link: about
 service:
   enable: true
