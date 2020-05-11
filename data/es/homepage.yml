@@ -15,7 +15,7 @@ slider:
       enable: true
       label: Más información
       link: about
-  - bg_image: images/banner/banner-2.jpg
+  - bg_image: images/Pref_2.jpg
     animation_from: up
     subtitle: Consíguelo
     title: Ponemos en marcha tu negocio
@@ -28,7 +28,7 @@ slider:
       enable: true
       label: Mas detalles
       link: about
-  - bg_image: images/banner/banner-3.jpg
+  - bg_image: images/Portada_web_OK.jpg
     animation_from: down
     subtitle: Comienza ya
     title: Deja el comienzo de tu futuro en nuestras manos.
@@ -42,7 +42,7 @@ slider:
       enable: true
       label: Más información
       link: about
-  - bg_image: images/banner/banner-4.jpg
+  - bg_image: images/Portada_web_OK.jpg
     animation_from: right
     subtitle: Realizamos nuestro trabajo
     title: Siempre bajo el criterio de la sostenibilidad

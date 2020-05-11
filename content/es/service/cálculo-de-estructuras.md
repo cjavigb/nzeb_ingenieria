@@ -12,6 +12,7 @@ regularDay = ""
 regularTime = ""
 title = "Cálculo de Estructuras"
 type = ""
+weight = 10
 
 +++
 Diseñamos y calculamos cualquier tipo de estructura: metálica, hormigón armado, hormigón pretensado, madera, trabajos con perfiles estructurales, etc.

@@ -6,6 +6,20 @@ paginate = "6"
 summaryLength = "10"
 theme = "biztrox-hugo"
 title = "NZEB Ingenería"
+
+[params]
+author = "themefisher"
+contact_form_action = "#"
+description = "NZEB Ingeniería"
+google_analitycs_id = "Your ID"
+logo = "images/logo-nzeb.png"
+logo_white = "images/logo-nzeb-footer.png"
+mail = "info@nzebingenieria.es"
+mailchimp_form_action = ""
+mailchimp_form_name = ""
+mobile = "1234565523"
+
+# Languages.
 [Languages.en]
 contentDir = "content/en"
 home = "Home"
@@ -24,10 +38,12 @@ languageCode = "es-es"
 languageName = "Es"
 weight = 1
 [Languages.es.params.footer]
-content = "Este es el footer en español"
+content = ""
 copyright = "Copyright &copy; 2019 a hugo theme by [themefisher.com](https://themefisher.com)"
 subscribe = "Suscríbete"
 subscribe_content = "Lorem ipsum dolor sit amet, consect etur adipisicing. elit sed do eiusmod."
+
+# Menus.
 [[menu.footer]]
 URL = "#"
 name = "Terms & Conditions"
@@ -44,10 +60,11 @@ weight = 2
 URL = "#"
 name = "Legal"
 weight = 1
+
 [[menu.main]]
 URL = "project"
 name = "Proyectos"
-parent = "Pages"
+# parent = "Pages"
 weight = 3
 [[menu.main]]
 URL = "contact"
@@ -69,26 +86,18 @@ weight = 1
 URL = "blog"
 name = "Blog"
 weight = 4
-[params]
-author = "themefisher"
-contact_form_action = "#"
-description = "NZEB Ingeniería"
-google_analitycs_id = "Your ID"
-logo = "images/logo-nzeb.png"
-logo_white = "images/logo-nzeb-footer.png"
-mail = "info@nzebingenieria.es"
-mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074"
-mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"
-mobile = "1234565523"
+
 [params.gmap]
-enable = true
+enable = false
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
 map_latitude = "51.5223477"
 map_longitude = "-0.1622023"
 map_marker = "images/marker.png"
+
 [params.nav_button]
 enable = true
 link = "contact"
+
 [[params.plugins.css]]
 URL = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
@@ -113,9 +122,13 @@ URL = "plugins/magnific-popup/magnific-popup.min.js"
 URL = "plugins/filterizr/jquery.filterizr.min.js"
 [[params.plugins.js]]
 URL = "plugins/google-map/gmap.js"
+
 [params.preloader]
 enable = true
 preloader = "images/preloader.gif"
+
+## Clientes
+
 [[params.clients_logo_slider]]
 link = "#"
 logo = "images/client-logo/client-logo-1.png"
@@ -134,6 +147,8 @@ logo = "images/client-logo/client-logo-5.png"
 [[params.clients_logo_slider]]
 link = "https://examplesite.com"
 logo = "images/client-logo/client-logo-3.png"
+
+# Contacts.
 [[params.contacts]]
 icon = "ti-mobile"
 [[params.contacts.contact]]
@@ -150,15 +165,17 @@ contact_item = "biztrox@email.com"
 icon = "ti-map-alt"
 [[params.contacts.contact]]
 contact_item = "24/B Garden Street. <br> Northambia, Weals, UK"
-[[params.social]]
-icon = "ti-facebook"
-link = "#"
-[[params.social]]
-icon = "ti-twitter-alt"
-link = "#"
-[[params.social]]
-icon = "ti-vimeo-alt"
-link = "#"
+
+# Social
+# [[params.social]]
+# icon = "ti-facebook"
+# link = "#"
+# [[params.social]]
+# icon = "ti-twitter-alt"
+# link = "#"
+# [[params.social]]
+# icon = "ti-vimeo-alt"
+# link = "#"
 [[params.social]]
 icon = "ti-linkedin"
 link = "https://www.linkedin.com/in/cjgarciaballano/"

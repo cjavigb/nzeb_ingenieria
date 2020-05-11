@@ -12,7 +12,6 @@ halfTime: ""
 offDay: ""
 
 ---
-### 
 
 La importancia de diseminar el conocimiento científico y tecnológico se hace cada vez mayor.
 

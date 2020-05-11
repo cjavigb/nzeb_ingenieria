@@ -1,10 +1,10 @@
 ---
-title: "Business Magnate"
-bg_image: images/background/page-title.jpg
-date: 2018-09-24T11:07:10+06:00
+title: "Pint of Science"
+bg_image: images/pint-of-science-19b.jpg
+date: 2019-05-22T11:07:10+06:00
 description : "This is meta description"
-author: John Doe
-image: images/blog/blog-3.jpg
+author: Claudio Javier
+image: images/pint-of-science-19.jpg
 categories: ["Company News"]
 tags: ["Advice"]
 type: post

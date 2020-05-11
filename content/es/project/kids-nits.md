@@ -1,17 +1,17 @@
 ---
-title: "Finance Consultancy"
+title: "Legalización oficinas"
 date: 2018-09-24T14:48:03+06:00
 description : "This is meta description"
 bg_image: images/background/page-title.jpg
-image : images/project/project-4.jpg
+image : images/KN_1.jpg
 live_demo : "#"
 case_study : "#"
-category: Financing
+category: marketing online
 
 # overview
 overview:
   - label : Client
-    data : Baximco Ltd.
+    data : Kids & Nits
     
   - label : Category
     data : Market Strategy
@@ -41,6 +41,8 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 ### Aftermath Of Apollo
 
+#### Market Analysis 2017
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex.Commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt.
 
 #### Market Analysis 2017
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex.Commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt.
