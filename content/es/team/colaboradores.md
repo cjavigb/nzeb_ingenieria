@@ -33,3 +33,7 @@ type = ""
 [ER Arquitectos](http://www.erarquitectos.com/es)
 
 ***
+
+[TANGRAM Arquitectura](https://www.tangramarquitectura.es/)
+
+***
