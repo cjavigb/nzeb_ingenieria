@@ -1,6 +1,6 @@
 ---
 title: Claudio Javier García Ballano
-date: 2018-09-29T08:41:38.000+00:00
+date: 2020-05-11T11:08:00+00:00
 description: This is meta description
 designation: CEO
 image: "/images/Foto_WEB.jpg"
