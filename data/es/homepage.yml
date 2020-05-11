@@ -2,7 +2,7 @@
 slider:
   enable: true
   slider_Item:
-  - bg_image: "/images/1200px-Campus_Villanueva_1.jpg"
+  - bg_image: "/images/Portada_web.jpg"
     animation_from: left
     subtitle: En NZEB Ingeniería estamos aquí para
     title: Hacer realidad su negocio
