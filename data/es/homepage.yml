@@ -9,8 +9,8 @@ slider:
     content: Un equipo de ingeniería, urbanismo y arquitectura para hacer realidad
       cualquier necesidad que surja. Deje todo en nuestras manos y preocúpese sólo
       de su verdadero negocio.
-    pagination_icon: ti-comments
-    pagination_name: Consultation
+    pagination_icon: ti-harddrives
+    pagination_name: Consultoría
     button:
       enable: true
       label: Más información
@@ -50,7 +50,7 @@ slider:
       de debe mover bajo parámetros de sostenibiliad y respeto al medio ambiente.
       La eficiencia energética y los edificios NZEB / Passivhaus son nuestro objetivo
       constante. '
-    pagination_icon: ti-reload
+    pagination_icon: ti-package
     pagination_name: Sostenibilidad
     button:
       enable: true
