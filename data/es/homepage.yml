@@ -26,8 +26,8 @@ slider:
     pagination_name: Proyectos
     button:
       enable: true
-      label: Mas detalles
-      link: about
+      label: Conoce nuestros servicios
+      link: service
   - bg_image: images/Portada_web_OK.jpg
     animation_from: down
     subtitle: Comienza ya
