@@ -18,19 +18,7 @@ type = ""
 
 ***
 
-[QS Arquitectos](https://qsarquitectos.com/)
-
-***
-
-[International Hospitality Projets](http://ihp-group.com/)
-
-***
-
-[Viraje Arquitectura](https://viraje.es/)
-
-***
-
-[Masquestudio Arquitectura](http://masquestudio.es/)
+[C.B.A. Arquitectura](http://www.cabarquitectura.es/)
 
 ***
 
@@ -38,10 +26,22 @@ type = ""
 
 ***
 
+[International Hospitality Projets](http://ihp-group.com/)
+
+***
+
+[Masquestudio Arquitectura](http://masquestudio.es/)
+
+***
+
+[QS Arquitectos](https://qsarquitectos.com/)
+
+***
+
 [TANGRAM Arquitectura](https://www.tangramarquitectura.es/)
 
 ***
 
-[C.B.A. Arquitectura](http://www.cabarquitectura.es/)
+[Viraje Arquitectura](https://viraje.es/)
 
 ***
