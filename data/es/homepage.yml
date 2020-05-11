@@ -2,7 +2,7 @@
 slider:
   enable: true
   slider_Item:
-  - bg_image: "/images/Portada_web-1.jpg"
+  - bg_image: "/images/Portada_web_OK.jpg"
     animation_from: left
     subtitle: En NZEB Ingeniería estamos aquí para
     title: Hacer realidad su negocio
