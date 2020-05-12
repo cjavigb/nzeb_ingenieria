@@ -20,11 +20,10 @@ slider:
     animation_from: up
     subtitle: Consíguelo
     title: Especialistas en construcción industrializada
-    content: El futuro de la construcción pasa por la industrialización de la misma.
-      Somos especialistas en construcción industrializada, tanto metálica como madera
-      y hormigón. La reducción de costes y plazos, así como la durabilidad y sostenibilidad
-      de la misma, está asegurada. Más de 25 años de experiencia en el sector nos
-      avalan.
+    content: Somos especialistas en construcción industrializada, tanto metálica como
+      madera y hormigón. La reducción de costes y plazos, así como la durabilidad
+      y sostenibilidad de la misma, está asegurada. Más de 25 años de experiencia
+      en el sector nos avalan.
     pagination_icon: ti-bar-chart
     pagination_name: Prefabricado
     button:
