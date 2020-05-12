@@ -12,6 +12,7 @@ regularDay = ""
 regularTime = ""
 title = "Prefabricado de hormigón"
 type = ""
+weight = 30
 
 +++
 En NZEB Ingeniería somos especialistas en desarrollo de edificaciones mediante elementos prefabricados. Una trayectoria en el sector de mas de 25 años nos avala.
