@@ -106,7 +106,7 @@ skill:
 project:
   enable: true
 mission:
-  enable: true
+  enable: false
   subtitle: Our Goal
   title: Company Mission
   content: Lorem ipsum dolor sit amet consectetur adipisicing elit sed eiusmod tempor
@@ -126,13 +126,13 @@ mission:
       dolore fugiat nulla pariatur.Excepteur sint ocaecat cupidatat non proident sunt
       culpa qui officia deserunt mollit anim id est laborum.
 promo_video:
-  enable: true
+  enable: false
   title: We Are Alawys <br> Comited
   bg_image: images/background/promo-video.jpg
   video_URL: https://www.youtube.com/watch?v=jrkvirglgaQ
   video_title: Lorem ipsum dolor <br> sit amet con.
 testimonial:
-  enable: true
+  enable: false
   subtitle: Clients
   title: What client Say
   image: images/client.png
