@@ -1,7 +1,7 @@
 +++
 bg_image = "/images/Fondo.JPG"
 brochure = ""
-date = 2020-04-29T23:00:00Z
+date = 2020-05-04T23:00:00Z
 description = "Esto es una descripción"
 halfDay = ""
 halfTime = ""
