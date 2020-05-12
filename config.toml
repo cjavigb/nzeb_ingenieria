@@ -78,9 +78,9 @@ logo_white = "images/logo-nzeb-footer.png"
 mail = "info@nzebingenieria.es"
 mailchimp_form_action = ""
 mailchimp_form_name = ""
-mobile = "1234565523"
+mobile = "+34 687 49 26 99"
 [params.gmap]
-enable = false
+enable = true
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
 map_latitude = "51.5223477"
 map_longitude = "-0.1622023"
