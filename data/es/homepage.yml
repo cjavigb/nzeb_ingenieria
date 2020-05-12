@@ -18,10 +18,11 @@ slider:
   - bg_image: "/images/Pref 2 BN.jpg"
     animation_from: up
     subtitle: Consíguelo
-    title: Ponemos en marcha tu negocio
-    content: |-
-      ¿Necesitas la tramitación para poner en marcha tu negocio?
-      Déjalo en nuestras manos y nosotros nos encargamos de todo. Proyectos, licencias, autorizaciones ante Organismos Oficiales, etc. para que tu sólo te preocupes de abrir la puerta y comenzar con la actividad.
+    title: Especialistas en construcción industrializada
+    content: El futuro de la construcción pasa por la industrialización de la misma.
+      Somos especialistas en construcción industrializada, tanto metálica como madera
+      y hormigón. La reducción de costes y plazos, así como la durabilidaa y sostenibilidad
+      de la misma está asegurada. Más de 25 años de experiencia en el sector nos avalan.
     pagination_icon: ti-bar-chart
     pagination_name: Prefabricado
     button:
