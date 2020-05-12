@@ -82,8 +82,8 @@ mobile = "+34 687 49 26 99"
 [params.gmap]
 enable = true
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
-map_latitude = "51.5223477"
-map_longitude = "-0.1622023"
+map_latitude = "41.650120"
+map_longitude = "-0.883358"
 map_marker = "images/marker.png"
 [params.nav_button]
 enable = false
