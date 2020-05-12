@@ -34,10 +34,12 @@ slider:
     animation_from: down
     subtitle: Comienza ya
     title: Deja el comienzo de tu futuro en nuestras manos.
-    content: Nosotros nos encargamos de todo. Desde localizar la ubicación idónea,
-      diseñar el local para tu actividad, obtener licencias hasta seleccionar los
-      gremios para realizar la obra. Todo en perfecta coordinación de acuerdo a tus
-      necesidades.
+    content: |-
+      ¿Necesitas la tramitación para poner en marcha tu negocio? Nosotros nos encargamos de todo.
+
+      Desde localizar la ubicación idónea, diseñar el local para tu actividad, obtener licencias hasta seleccionar los gremios para realizar la obra. Todo en perfecta coordinación de acuerdo a tus necesidades.
+
+      Déjalo en nuestras manos y nosotros nos encargamos de todo: proyectos, licencias, autorizaciones ante Organismos Oficiales, etc. para que tu sólo te preocupes de abrir la puerta y comenzar con la actividad.
     pagination_icon: ti-widget
     pagination_name: Proyectos
     button:
