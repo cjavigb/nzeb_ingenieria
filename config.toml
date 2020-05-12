@@ -131,8 +131,8 @@ logo = "/images/LOGOIHP.jpg"
 link = "https://viraje.es/"
 logo = "/images/LOGOVIRAJE.jpg"
 [[params.clients_logo_slider]]
-link = "https://examplesite.com"
-logo = "images/client-logo/client-logo-4.png"
+link = "https://qsarquitectos.com/"
+logo = "/images/LOGOQS.jpg"
 [[params.clients_logo_slider]]
 link = "#"
 logo = "images/client-logo/client-logo-5.png"
