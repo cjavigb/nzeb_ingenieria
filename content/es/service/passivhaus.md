@@ -11,6 +11,7 @@ offDay = ""
 regularDay = ""
 regularTime = ""
 title = "NZEB - Passivhaus"
+weight = 10
 
 +++
 ### 
