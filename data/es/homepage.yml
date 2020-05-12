@@ -158,7 +158,7 @@ cta:
   title: Biztrox give the smart solution for your business
   button:
     enable: true
-    label: get a quote
+    label: Contacto
     link: contact
 blog:
   enable: false
