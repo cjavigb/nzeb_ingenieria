@@ -36,7 +36,7 @@ slider:
       diseñar el local para tu actividad, obtener licencias hasta seleccionar los
       gremios para realizar la obra. Todo en perfecta coordinación de acuerdo a tus
       necesidades.
-    pagination_icon: ti-money
+    pagination_icon: ti-widget
     pagination_name: Proyectos
     button:
       enable: true
