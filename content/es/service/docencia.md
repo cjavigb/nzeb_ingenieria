@@ -1,7 +1,7 @@
 +++
 bg_image = "/images/1200px-Campus_Villanueva_1.jpg"
 brochure = ""
-date = 2020-05-10T22:00:00Z
+date = 2020-05-04T22:00:00Z
 description = ""
 halfDay = ""
 halfTime = ""
@@ -12,9 +12,9 @@ regularDay = ""
 regularTime = ""
 title = "Docencia"
 type = ""
+weight = 120
 
 +++
-
 Es de obligación en las carreras de índole técnico el acercar "la calle" al aula. La responsabilidad que implica la docencia en grados habilitantes o para profesionales del sector hace que el reciclaje tenga que ser constante. La puesta al día tanto en normativa como en avances tecnológicos es para NZEB Ingeniería  nuestto gran reto diario.
 
 ![Logo Universidad San Jorge.](/images/USJ.jpg "Logo USJ")
