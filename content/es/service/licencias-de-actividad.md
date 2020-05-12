@@ -11,6 +11,7 @@ offDay = ""
 regularDay = ""
 regularTime = 2020-04-30T10:59:44Z
 title = "Licencias de apertura y actividad"
+weight = 20
 
 +++
 ### ¿Quieres abrir un negocio?
