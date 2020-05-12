@@ -96,7 +96,7 @@ skill:
     progress: 90%
   - title: Docencia e Investigación
     progress: 75%
-  - title: Promotion
+  - title: Eficiencia energética
     progress: 90%
 project:
   enable: true
