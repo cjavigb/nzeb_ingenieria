@@ -117,7 +117,7 @@ enable = true
 preloader = "images/preloader.gif"
 [[params.clients_logo_slider]]
 link = "http://www.cabarquitectura.es/"
-logo = "/images/CBA.JPG"
+logo = "/images/LOGOCAB.jpg"
 [[params.clients_logo_slider]]
 link = "https://www.bhaus.es/"
 logo = "/images/LOGOB HAUS.jpg"
