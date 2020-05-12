@@ -16,7 +16,7 @@ slider:
       enable: true
       label: Conócenos
       link: about
-  - bg_image: "/images/pref1-1.jpg"
+  - bg_image: "/images/pref10.jpg"
     animation_from: up
     subtitle: Consíguelo
     title: Especialistas en construcción industrializada
