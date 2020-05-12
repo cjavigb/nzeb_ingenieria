@@ -129,7 +129,7 @@ link = "http://ihp-group.com/"
 logo = "/images/LOGOIHP.jpg"
 [[params.clients_logo_slider]]
 link = "https://viraje.es/"
-logo = "/images/Viraje.jpg"
+logo = "/images/LOGOVIRAJE.jpg"
 [[params.clients_logo_slider]]
 link = "https://examplesite.com"
 logo = "images/client-logo/client-logo-4.png"
