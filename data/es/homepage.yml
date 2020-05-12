@@ -50,7 +50,7 @@ slider:
       de debe mover bajo parámetros de sostenibiliad y respeto al medio ambiente.
       La eficiencia energética y los edificios NZEB / Passivhaus son nuestro objetivo
       constante. '
-    pagination_icon: ti-package
+    pagination_icon: ti-loop
     pagination_name: Sostenibilidad
     button:
       enable: true
