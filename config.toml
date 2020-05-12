@@ -138,7 +138,7 @@ link = "https://www.tangramarquitectura.es/"
 logo = "/images/Tangram.jpg"
 [[params.clients_logo_slider]]
 link = "https://viraje.es/"
-logo = "/images/LOGOVIRAJE.jpg"
+logo = "/images/Viraje.jpg"
 [[params.contacts]]
 icon = "ti-mobile"
 [[params.contacts.contact]]
