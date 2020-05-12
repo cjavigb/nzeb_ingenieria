@@ -1,7 +1,7 @@
 +++
 bg_image = "/images/Fondo mobiliario.jpg"
 brochure = ""
-date = 2018-05-25T22:00:00Z
+date = 2020-05-04T22:00:00Z
 description = ""
 halfDay = ""
 halfTime = ""
@@ -12,6 +12,7 @@ regularDay = ""
 regularTime = ""
 title = "Mobiliario Urbano"
 type = ""
+weight = 110
 
 +++
 En NZEB Ingeniería colaboramos con distintos profesionales en el diseño y desarrollo de mobiliario urbano.
