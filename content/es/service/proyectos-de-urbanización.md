@@ -1,7 +1,7 @@
 +++
 bg_image = "/images/Yéqueda 2-1.JPG"
 brochure = ""
-date = 2018-05-25T22:00:00Z
+date = 2020-05-04T22:00:00Z
 description = ""
 halfDay = ""
 halfTime = ""
@@ -12,6 +12,7 @@ regularDay = ""
 regularTime = ""
 title = "Proyectos de urbanización"
 type = ""
+weight = 70
 
 +++
 En NZEB Ingeniería realizamos todo tipo de Proyectos de urbanización.
