@@ -2,7 +2,7 @@
 bg_image = "/images/Fondo informes.jpg"
 brochure = ""
 date = 2020-05-04T22:00:00Z
-description = "140"
+description = "135"
 halfDay = ""
 halfTime = ""
 icon = "ti-hummer"
