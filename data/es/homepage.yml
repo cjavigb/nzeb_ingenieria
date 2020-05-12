@@ -37,7 +37,7 @@ slider:
       gremios para realizar la obra. Todo en perfecta coordinación de acuerdo a tus
       necesidades.
     pagination_icon: ti-money
-    pagination_name: Finance
+    pagination_name: Proyectos
     button:
       enable: true
       label: Más información
