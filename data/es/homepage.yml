@@ -4,8 +4,8 @@ slider:
   slider_Item:
   - bg_image: "/images/banner/portada_banner.jpg"
     animation_from: left
-    subtitle: En NZEB Ingeniería estamos aquí para
-    title: Hacer realidad su negocio
+    subtitle: 'En NZEB Ingeniería '
+    title: Estamos aquí para hacer realidad su negocio
     content: Un equipo de ingeniería, urbanismo y arquitectura para hacer realidad
       cualquier necesidad que surja. Deje todo en nuestras manos y preocúpese sólo
       de su verdadero negocio.
