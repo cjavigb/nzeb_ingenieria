@@ -30,7 +30,7 @@ slider:
       enable: true
       label: Conoce nuestros servicios
       link: service
-  - bg_image: images/Portada_web_OK.jpg
+  - bg_image: "/images/Portada_idea.jpg"
     animation_from: down
     subtitle: Comienza ya
     title: Deja el comienzo de tu futuro en nuestras manos.
