@@ -2,7 +2,7 @@
 slider:
   enable: true
   slider_Item:
-  - bg_image: "/images/Portada_web_OK-1.jpg"
+  - bg_image: "/images/banner/portada_banner.jpg"
     animation_from: left
     subtitle: En NZEB Ingeniería estamos aquí para
     title: Hacer realidad su negocio
@@ -15,7 +15,7 @@ slider:
       enable: true
       label: Conócenos
       link: about
-  - bg_image: "/images/Pref 2 BN.jpg"
+  - bg_image: "/images/banner/portada_pref.jpg"
     animation_from: up
     subtitle: Consíguelo
     title: Especialistas en construcción industrializada
@@ -30,7 +30,7 @@ slider:
       enable: true
       label: Conoce nuestros servicios
       link: service
-  - bg_image: "/images/Portada_idea.jpg"
+  - bg_image: "/images/banner/portada_idea.jpg"
     animation_from: down
     subtitle: Comienza ya
     title: Deja el comienzo de tu futuro en nuestras manos.
@@ -46,7 +46,7 @@ slider:
       enable: true
       label: Más información
       link: about
-  - bg_image: "/images/Portada_sost.jpg"
+  - bg_image: "/images/banner/portada_sost.jpg"
     animation_from: right
     subtitle: Realizamos nuestro trabajo
     title: Siempre bajo el criterio de la sostenibilidad
