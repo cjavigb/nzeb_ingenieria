@@ -87,7 +87,7 @@ skill:
     title: Clientes satisfechos
     count: 744
   - icon: ti-bar-chart-alt
-    title: Obras en prefabricados realizadas
+    title: Obras en prefabricado realizadas
     count: 580
   progressbar:
   - title: Proyectos
