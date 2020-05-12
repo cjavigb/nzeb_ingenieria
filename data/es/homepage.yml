@@ -46,7 +46,7 @@ slider:
       enable: true
       label: Más información
       link: about
-  - bg_image: "/images/banner/portada_sost.jpg"
+  - bg_image: "/images/Portada_sost-1.jpg"
     animation_from: right
     subtitle: Realizamos nuestro trabajo
     title: Siempre bajo el criterio de la sostenibilidad
