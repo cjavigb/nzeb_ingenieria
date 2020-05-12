@@ -12,6 +12,7 @@ regularDay = ""
 regularTime = ""
 title = "Instalaciones eléctricas"
 type = ""
+weight = 50
 
 +++
 En NZEB ingeniería realizamos proyectos y direcciones de obra de **instalaciones eléctricas** :
