@@ -1,7 +1,7 @@
 +++
 bg_image = "/images/Pref 2.jpg"
 brochure = ""
-date = 2020-05-10T22:00:00Z
+date = 2020-05-04T22:00:00Z
 description = ""
 halfDay = ""
 halfTime = ""
@@ -12,7 +12,7 @@ regularDay = ""
 regularTime = ""
 title = "Cálculo de Estructuras"
 type = ""
-weight = 10
+weight = 100
 
 +++
 Diseñamos y calculamos cualquier tipo de estructura: metálica, hormigón armado, hormigón pretensado, madera, trabajos con perfiles estructurales, etc.
