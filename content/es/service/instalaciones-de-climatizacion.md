@@ -1,7 +1,7 @@
 +++
 bg_image = "/images/Fondo clima.jpg"
 brochure = ""
-date = 2020-05-25T22:00:00Z
+date = 2020-05-04T22:00:00Z
 description = ""
 halfDay = ""
 halfTime = ""
