@@ -12,6 +12,7 @@ regularDay = ""
 regularTime = ""
 title = "Instalaciones solares fotovoltaicas"
 type = ""
+weight = 40
 
 +++
 Nuestro equipo dará respuesta a cualquier necesidad en materia de energía solar y eficiencia energética.
