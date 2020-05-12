@@ -25,7 +25,7 @@ languageName = "Es"
 weight = 1
 [Languages.es.params.footer]
 content = ""
-copyright = "Copyright &copy; 2019 a hugo theme by [themefisher.com](https://themefisher.com)"
+copyright = "Copyright &copy; 2020 by NZEB Ingeniería"
 subscribe = "Suscríbete"
 subscribe_content = "Lorem ipsum dolor sit amet, consect etur adipisicing. elit sed do eiusmod."
 [[menu.footer]]
