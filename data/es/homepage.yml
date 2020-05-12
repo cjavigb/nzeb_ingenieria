@@ -86,8 +86,8 @@ skill:
   - icon: ti-face-smile
     title: Clientes satisfechos
     count: 644
-  - icon: ti-thumb-up
-    title: Cup Of Coffee
+  - icon: ti-bar-chart-alt
+    title: Obras en prefabricados realizadas
     count: 580
   progressbar:
   - title: Branding
