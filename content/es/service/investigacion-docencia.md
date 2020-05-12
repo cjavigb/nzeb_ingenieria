@@ -1,18 +1,18 @@
 ---
 title: Investigación. Difusión del conocimiento.
-date: 2018-09-29T05:51:17+00:00
+date: 2020-05-05T05:51:17+00:00
 description: This is meta description
 image: "/images/III Congreso ECCN 2.JPG"
 bg_image: "/images/Fondo.jpg"
 icon: ti-thought
-brochure: ""
-regularTime: ""
-halfDay: ""
-halfTime: ""
-offDay: ""
+brochure: ''
+regularTime: 
+halfDay: ''
+halfTime: 
+offDay: ''
+weight: 130
 
 ---
-
 La importancia de diseminar el conocimiento científico y tecnológico se hace cada vez mayor.
 
 ![Foto de la exposición en el II Congreso ECCN. Madrid 2016](/images/III Congreso ECCN 3-1.JPG "II Congreso ECCN. Madrid 2016")
