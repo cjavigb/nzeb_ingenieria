@@ -15,7 +15,7 @@ slider:
       enable: true
       label: Conócenos
       link: about
-  - bg_image: images/Pref_2.jpg
+  - bg_image: "/images/Pref 2 BN.jpg"
     animation_from: up
     subtitle: Consíguelo
     title: Ponemos en marcha tu negocio
