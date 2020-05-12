@@ -12,6 +12,7 @@ regularDay = ""
 regularTime = ""
 title = "Instalaciones de Climatización."
 type = ""
+weight = 60
 
 +++
 En NZEB ingeniería realizamos para viviendas, colegios, centros socioculturales, centros religiosos, etc. proyectos y direcciones de obra de Instalaciones de Climatización.
