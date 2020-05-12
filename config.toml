@@ -128,6 +128,9 @@ logo = "/images/LOGOER.jpg"
 link = "http://ihp-group.com/"
 logo = "/images/LOGOIHP.jpg"
 [[params.clients_logo_slider]]
+link = "https://gingolfin.wixsite.com/pac17arquitectura"
+logo = "/images/PAC17.jpg"
+[[params.clients_logo_slider]]
 link = "https://qsarquitectos.com/"
 logo = "/images/LOGOQS.jpg"
 [[params.clients_logo_slider]]
