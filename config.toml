@@ -154,7 +154,7 @@ contact_item = "cjgarcia@nzebingenieria.es"
 [[params.contacts]]
 icon = "ti-map-alt"
 [[params.contacts.contact]]
-contact_item = "24/B Garden Street. <br> Northambia, Weals, UK"
+contact_item = "Paseo de la Independencia 24-26. 50004 Zaragoza (España)"
 [[params.social]]
 icon = "ti-linkedin"
 link = "https://www.linkedin.com/in/cjgarciaballano/"
