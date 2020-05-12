@@ -116,7 +116,7 @@ URL = "plugins/google-map/gmap.js"
 enable = true
 preloader = "images/preloader.gif"
 [[params.clients_logo_slider]]
-link = ""
+link = "https://examplesite.com"
 logo = "/images/B haus2.png"
 [[params.clients_logo_slider]]
 link = "#"
