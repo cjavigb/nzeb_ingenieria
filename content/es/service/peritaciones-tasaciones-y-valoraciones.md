@@ -2,7 +2,7 @@
 bg_image = "/images/Fondo informes.jpg"
 brochure = ""
 date = 2020-05-04T22:00:00Z
-description = "135"
+description = ""
 halfDay = ""
 halfTime = ""
 icon = "ti-hummer"
@@ -12,7 +12,7 @@ regularDay = ""
 regularTime = ""
 title = "Peritaciones, tasaciones y valoraciones."
 type = ""
-weight = nil
+weight = 140
 
 +++
 Nuestro equipo multidisciplinar realiza cualquier tipo de **peritaciones, valoraciones o tasaciones.**
