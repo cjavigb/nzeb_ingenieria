@@ -136,9 +136,6 @@ logo = "/images/LOGOQS.jpg"
 [[params.clients_logo_slider]]
 link = "https://www.tangramarquitectura.es/"
 logo = "/images/LOGOTANGRAM.jpg"
-[[params.clients_logo_slider]]
-link = "https://examplesite.com"
-logo = "images/client-logo/client-logo-3.png"
 [[params.contacts]]
 icon = "ti-mobile"
 [[params.contacts.contact]]
