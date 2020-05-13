@@ -67,11 +67,16 @@ about:
   content: NZEB Ingeniería está formado por un equipo multidisciplinar para poder
     abordar todos los campos que demanden nuestros clientes.
   bullet_point:
-  - Licencias de apertura y actividad
-  - Prefabricado de hormigón
   - NZEB-Passivhaus
+  - Cálculo de Estructuras
+  - Proyectos de urbanización
+  - Proyectos de Instalaciones
+  - Solar fotovoltaica
+  - Prefabricado de hormigón
+  - Licencias de apertura y actividad
   - Certificaciones energéticas
   - Investigación y docencia
+  - Mobiliario Urbano
   button:
     enable: true
     label: Conócenos
