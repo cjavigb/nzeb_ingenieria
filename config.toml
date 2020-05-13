@@ -30,44 +30,40 @@ subscribe = "Suscríbete"
 subscribe_content = "Lorem ipsum dolor sit amet, consect etur adipisicing. elit sed do eiusmod."
 [[menu.footer]]
 URL = "#"
-name = "Terms & Conditions"
-weight = 4
-[[menu.footer]]
-URL = "#"
-name = "Privacy Policy"
-weight = 3
+name = "Legal"
+weight = 1
 [[menu.footer]]
 URL = "#"
 name = "Sitemap"
 weight = 2
 [[menu.footer]]
 URL = "#"
-name = "Legal"
-weight = 1
+name = "Privacy Policy"
+weight = 3
+[[menu.footer]]
+URL = "#"
+name = "Terms & Conditions"
+weight = 4
 [[menu.main]]
 URL = "project"
 name = "Proyectos"
 weight = 3
 [[menu.main]]
-URL = "contact"
-name = "Contacto"
-weight = 6
-[[menu.main]]
-URL = "team"
-name = "Equipo"
-weight = 5
-[[menu.main]]
-URL = "service"
-name = "Servicios"
-weight = 2
+URL = "blog"
+name = "Blog"
+weight = 4
 [[menu.main]]
 URL = "about"
 name = "Acerca de"
 weight = 1
 [[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 4
+URL = "service"
+name = "Servicios"
+weight = 2
+[[menu.main]]
+URL = "team"
+name = "Equipo"
+weight = 5
 [params]
 author = "themefisher"
 contact_form_action = "#"
