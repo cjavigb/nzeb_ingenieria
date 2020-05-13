@@ -1218,6 +1218,12 @@ code{
   letter-spacing: 2px;
 }
 
+.hero-content p {
+  font-size: 125%;
+  color: #000 !important;
+  text-shadow: 2px 2px 4px white;
+}
+
 /* 5. progrgess bar start */
 .progressbar-title {
   font-size: 17px;
