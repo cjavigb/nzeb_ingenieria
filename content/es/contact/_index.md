@@ -5,6 +5,7 @@ bg_image: images/background/page-title.jpg
 description: This is meta description
 email: info@nzebingenieria.es
 social: []
+image: "/images/ER.jpg"
 menu:
   main:
     URL: contact
