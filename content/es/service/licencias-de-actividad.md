@@ -10,7 +10,7 @@ image = "/images/KN_1-1.jpg"
 offDay = ""
 regularDay = ""
 regularTime = 2020-04-30T10:59:44Z
-title = "Licencias de apertura y actividad"
+title = "Licencias urbanísticas y de actividad"
 weight = 20
 
 +++
