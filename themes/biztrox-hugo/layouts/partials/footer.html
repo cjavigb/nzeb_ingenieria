@@ -19,21 +19,28 @@
 							{{ end }}
 						</ul>
 					</div>
+					<div>
+						<p class="text-white text-center text-md-left">Paseo de la Independencia 24-26 50004 Zaragoza (España)</p>
+						<p class="text-white text-center text-md-left">+34 687 49 26 99</p>
+						<p class="text-white text-center text-md-left">info@nzebingenieria.es</p>
+					</div>
 				</div>
 				{{ "<!-- footer links -->" | safeHTML }}
 				<div class="col-lg-2 col-md-4 col-6">
-					<h4 class="text-white mb-4">{{ i18n "services" }}</h4>
+					<h4 class="text-white mb-4">Servicios</h4>
 					<ul class="footer-links">
-						{{ range ( where .Site.RegularPages "Type" "service") }}
-						<li><a href="{{ .Permalink }}">{{ .Title | markdownify }}</a></li>
+						{{ range .Site.Menus.services }}
+						{{ if not .HasChildren }}
+						<li><a href="{{ .URL | relLangURL }}">{{ .Name }}</a></li>
+						{{ end }}
 						{{ end }}
 					</ul>
 				</div>
 				{{ "<!-- footer links -->" | safeHTML }}
 				<div class="col-lg-2 col-md-4 col-6">
-					<h4 class="text-white mb-4">{{ i18n "quick_links" }}</h4>
+					<h4 class="text-white mb-4">+ Servicios</h4>
 					<ul class="footer-links">
-						{{ range .Site.Menus.main }}
+						{{ range .Site.Menus.services2 }}
 						{{ if not .HasChildren }}
 						<li><a href="{{ .URL | relLangURL }}">{{ .Name }}</a></li>
 						{{ end }}
@@ -43,7 +50,7 @@
 				{{ "<!-- subscribe form -->" | safeHTML }}
 				<div class="col-lg-3 col-md-12 offset-lg-1">
 					<div class="mt-5 mt-lg-0 text-center text-md-left">
-						{{ with .Site.Params.footer.subscribe}} <h4 class="mb-4 text-white">{{ . }}</h4> {{ end }}
+						<!-- {{ with .Site.Params.footer.subscribe}} <h4 class="mb-4 text-white">{{ . }}</h4> {{ end }}
 						{{ with .Site.Params.footer.subscribe_content}} <p class="text-white mb-4">{{ . }}</p> {{ end }}
 						<div id="mc_embed_signup">
 							<form action="{{ .Site.Params.mailchimp_form_action }}" method="post" id="mc-embedded-subscribe-form"
@@ -59,7 +66,15 @@
 									</div>
 								</div>
 							</form>
-						</div>
+						</div> -->
+						<h4 class="text-white mb-4">{{ i18n "quick_links" }}</h4>
+						<ul class="footer-links">
+							{{ range .Site.Menus.main }}
+							{{ if not .HasChildren }}
+							<li><a href="{{ .URL | relLangURL }}">{{ .Name }}</a></li>
+							{{ end }}
+							{{ end }}
+						</ul>
 					</div>
 				</div>
 			</div>
