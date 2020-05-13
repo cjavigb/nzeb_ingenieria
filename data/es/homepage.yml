@@ -75,9 +75,9 @@ about:
     link: about
 skill:
   enable: true
-  subtitle: Nuestras habilidades
+  subtitle: Nuestras fortalezas
   title: "¿Porqué nos debe elegir?"
-  content: Más de 25 años ejerciendo la profesión, nos avale. Somos un equipo multidisciplinar
+  content: Más de 25 años ejerciendo la profesión, nos avalan. Somos un equipo multidisciplinar
     de profesionales que resolveremos sus necesidades de manera rápida y eficiente.
   funfacts:
   - icon: ti-server
@@ -90,14 +90,14 @@ skill:
     title: Obras en prefabricado realizadas
     count: 580
   progressbar:
+  - title: Eficiencia energética
+    progress: 90%
   - title: Proyectos
     progress: 85%
   - title: Obras en prefabricado
     progress: 90%
   - title: Docencia e Investigación
     progress: 75%
-  - title: Eficiencia energética
-    progress: 90%
 project:
   enable: true
 mission:
