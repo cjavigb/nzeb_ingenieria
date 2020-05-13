@@ -1,30 +1,25 @@
 ---
-title: "Ubiko"
-date: 2018-09-24T14:48:03+06:00
-description : "This is meta description"
-bg_image: images/background/page-title.jpg
-image : images/UBIKO_web_UP44_02_01.jpg
-live_demo : ""
-case_study : ""
+title: Ubiko
+date: 2018-09-24T08:48:03.000+00:00
+description: This is meta description
+bg_image: "/images/pref10.jpg"
+image: images/UBIKO_web_UP44_02_01.jpg
+live_demo: ''
+case_study: ''
 category: mobiliario urbano
-
-# overview
 overview:
-  - label : Client
-    data : Consorcio de Transportes del Área de Zaragoza.
-    
-  - label : Category
-    data : Mobiliario Urbano
-        
-  - label : Date
-    data : 22 nov, 2019
+- label: Client
+  data: Viraje - Ubiko
+- label: Category
+  data: Mobiliario Urbano
+- label: Date
+  data: 22 nov, 2019
 
-# type
-type : project
 ---
+Cálculo de estructura y despiece del proyecto de Viraje Arquitectura para esta vivienda sita en Mallorca.
 
-Diseñadas _ex profeso_ por el equipo de [TANGRAM Arquitectura y Diseño]() en colaboración con Santiago Elía para el Consorcio de Transportes del Área de Zaragoza.
+![](/images/UBIKO_web_UP44_12.jpg)
 
-Mediante módulos de energía solar fotovoltaica y acumulación se convierten en marquesinas autosuficientes proporcionando tanto iluminación como tiempo real de llegada de los autobuses.
+La vivienda en planta baja junto con sus anexos ha sido desarrollada íntegramente con elementos prefabricados de hormigón, realizando su montaje en tiempo récord.
 
-![Marquesina autosuficiente para el Consorcio de transportes de Zaragoza en la Plaza del Emperador Carlos. Zaragoza.](/images/Marquesina-1.jpg "Marquesina autosuficiente, Plaza del Emperador Carlos. Zaragoza.")
+![](/images/UBIKO_web_UP44_14-1.jpg)
