@@ -6,12 +6,12 @@ bg_image: "/images/pref10.jpg"
 image: images/UBIKO_web_UP44_02_01.jpg
 live_demo: ''
 case_study: ''
-category: mobiliario urbano
+category: prefabricado de hormigón
 overview:
 - label: Client
   data: Viraje - Ubiko
 - label: Category
-  data: Mobiliario Urbano
+  data: ''
 - label: Date
   data: 22 nov, 2019
 
