@@ -18,18 +18,12 @@ overview:
   data: "2015"
 
 ---
-### Centros Kids and Nits y adiós piojitos Zaragoza
+### Centros Kids & Nits y adiós piojitos! Zaragoza
 
 Proyecto urbanístico y licencia de apertura de los Centros de Kids and Nits en Zaragoza.
 
-En esta ocasión gestionamos el paquete completo de petición de ofertas, contratación y dirección de obra, realizando la misma en un mes y medio, cumpliendo los plazos previstos para la apertura.
+En esta ocasión gestionamos el paquete completo de tramitación de las licencias ante el Ayuntamiento de Zaragoza, la petición de ofertas, contratación y dirección de obra.
 
-### Aftermath Of Apollo
+La ejecución de los trabajos se llevó a cabo en menos de un mes y medio, cumpliendo los plazos previstos para la apertura.
 
-#### Market Analysis 2017
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex.Commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt.
-
-#### Market Analysis 2017
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex.Commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt.
+![](/images/KN_2.jpg)
