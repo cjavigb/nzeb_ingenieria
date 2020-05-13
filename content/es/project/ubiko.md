@@ -1,6 +1,6 @@
 ---
-title: Ubiko
-date: 2018-09-24T08:48:03.000+00:00
+title: Vivienda prefabricada
+date: 2020-05-04T22:00:00+00:00
 description: This is meta description
 bg_image: "/images/pref10.jpg"
 image: images/UBIKO_web_UP44_02_01.jpg
@@ -13,7 +13,7 @@ overview:
 - label: Category
   data: ''
 - label: Date
-  data: 22 nov, 2019
+  data: "2020"
 
 ---
 Cálculo de estructura y despiece del proyecto de Viraje Arquitectura para esta vivienda sita en Mallorca.
