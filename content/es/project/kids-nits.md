@@ -6,16 +6,16 @@ bg_image: "/images/background/page-title.jpg"
 image: images/KN_1.jpg
 live_demo: "#"
 case_study: "#"
-category: Licencias de apertura y actividad
+category: Licencias urbanísticas y de actividad
 overview:
 - label: Client
   data: Kids and Nits y adiós piojitos Zaragoza
 - label: Category
-  data: Licencias urbanísticas y actividad
+  data: Licencias urbanísticas y de actividad
 - label: Expertise
   data: Mobile App
 - label: Date
-  data: 22 nov, 2019
+  data: "2015"
 
 ---
 ### Apollo For Baximco Inc. Australia
