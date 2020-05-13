@@ -11,7 +11,7 @@ overview:
 - label: Client
   data: Viraje - Ubiko
 - label: Category
-  data: ''
+  data: Prefabricados de hormigón
 - label: Date
   data: "2020"
 
