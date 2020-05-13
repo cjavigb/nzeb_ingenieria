@@ -107,7 +107,7 @@ skill:
   - title: Docencia e Investigación
     progress: 75%
 project:
-  enable: false
+  enable: true
 mission:
   enable: false
   subtitle: Our Goal
