@@ -86,7 +86,7 @@ map_latitude = "41.650120"
 map_longitude = "-0.883358"
 map_marker = "/images/LOGOTANGRAM.jpg"
 [params.nav_button]
-enable = true
+enable = false
 link = "contact"
 [[params.plugins.css]]
 URL = "plugins/bootstrap/bootstrap.min.css"
