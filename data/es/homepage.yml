@@ -2,7 +2,7 @@
 slider:
   enable: true
   slider_Item:
-  - bg_image: "/images/banner/portada_banner.jpg"
+  - bg_image: "/images/portada_web_ok_soft.jpg"
     animation_from: left
     subtitle: 'En NZEB Ingeniería '
     title: Estamos aquí para hacer realidad su negocio
@@ -47,7 +47,7 @@ slider:
   - bg_image: "/images/banner/portada_sost.jpg"
     animation_from: right
     subtitle: Realizamos nuestro trabajo siempre bajo el criterio de la
-    title:  Sostenibilidad y el ahorro energético
+    title: Sostenibilidad y el ahorro energético
     content: 'Estamos plenamente convencidos de que no ya el futuro sino el presente
       de debe mover bajo parámetros de sostenibiliad y respeto al medio ambiente.
       La eficiencia energética y los edificios NZEB / Passivhaus son nuestro objetivo
