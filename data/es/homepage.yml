@@ -44,7 +44,7 @@ slider:
       enable: true
       label: Más información
       link: about
-  - bg_image: "/images/banner/portada_sost.jpg"
+  - bg_image: "/images/portada_sost_soft.jpg"
     animation_from: right
     subtitle: Realizamos nuestro trabajo siempre bajo el criterio de la
     title: Sostenibilidad y el ahorro energético
