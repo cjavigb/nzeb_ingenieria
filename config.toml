@@ -77,7 +77,7 @@ mailchimp_form_name = ""
 mobile = "+34 687 49 26 99"
 [params.gmap]
 enable = true
-gmap_api = "https://goo.gl/maps/Sg77aLs7XpwSUiybA"
+gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
 map_latitude = "41.650100"
 map_longitude = "-0.883295"
 map_marker = ""
