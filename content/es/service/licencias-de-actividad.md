@@ -12,6 +12,8 @@ regularDay = ""
 regularTime = "2020-04-30T10:59:44.000+00:00"
 title = "Licencias urbanísticas y de actividad"
 weight = 20
+[menu.services]
+weight = 2
 
 +++
 ### ¿Quieres abrir un negocio?
