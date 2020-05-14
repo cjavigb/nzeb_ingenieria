@@ -9,6 +9,6 @@ image: ''
 menu:
   main:
     URL: contact
-    weight: 7
+    weight: 6
 
 ---
