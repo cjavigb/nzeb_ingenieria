@@ -1,7 +1,7 @@
 +++
 bg_image = "/images/Cariñena 1-1.jpg"
 brochure = ""
-date = 2020-05-05T05:51:17Z
+date = "2020-05-05T05:51:17.000+00:00"
 description = ""
 halfDay = ""
 halfTime = ""
@@ -12,6 +12,9 @@ regularDay = ""
 regularTime = ""
 title = "Cumplimiento HE0 y HE1. HULC."
 weight = 80
+[menu.services2]
+name = "Cumplimiento HE0 y HE1. HULC"
+weight = 1
 
 +++
 Mediante la Herramienta Unificada Líder Calener ( HULC ) en NZEB Ingeniería justificamos el cumplimiento del DB-HE del CTE ofreciendo un **completo informe**.

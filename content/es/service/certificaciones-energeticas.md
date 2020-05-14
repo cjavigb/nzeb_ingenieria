@@ -1,7 +1,7 @@
 +++
 bg_image = "/images/Fondo 3.jpg"
 brochure = ""
-date = 2020-05-04T22:00:00Z
+date = "2020-05-04T22:00:00.000+00:00"
 description = ""
 halfDay = ""
 halfTime = ""
@@ -13,6 +13,8 @@ regularTime = ""
 title = "Certificaciones Energéticas"
 type = ""
 weight = 90
+[menu.services2]
+weight = 2
 
 +++
 En NZEB Ingeniería nos encargamos, tras la visita obligada al inmueble, de realizar un completo Certificado de Eficiencia Energética y tramitarlo antes los Organismos responsables de cada Comunidad Autónoma.

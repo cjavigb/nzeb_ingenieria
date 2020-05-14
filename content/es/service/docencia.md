@@ -13,6 +13,8 @@ regularTime = ""
 title = "Docencia"
 type = ""
 weight = 120
+[menu.services2]
+weight = 5
 
 +++
 Es de obligación en las carreras de índole técnico el acercar "la calle" al aula. La responsabilidad que implica la docencia en grados habilitantes o para profesionales del sector hace que el reciclaje tenga que ser constante. La puesta al día tanto en normativa como en avances tecnológicos es para NZEB Ingeniería  nuestto gran reto diario.

@@ -13,6 +13,8 @@ regularTime = ""
 title = "Peritaciones, tasaciones y valoraciones."
 type = ""
 weight = 140
+[menu.services2]
+weight = 7
 
 +++
 Nuestro equipo multidisciplinar realiza cualquier tipo de **peritaciones, valoraciones o tasaciones.**

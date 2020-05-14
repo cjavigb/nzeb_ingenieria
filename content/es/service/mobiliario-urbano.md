@@ -13,6 +13,8 @@ regularTime = ""
 title = "Mobiliario Urbano"
 type = ""
 weight = 110
+[menu.services2]
+weight = 4
 
 +++
 En NZEB Ingeniería colaboramos con distintos profesionales en el diseño y desarrollo de mobiliario urbano.
