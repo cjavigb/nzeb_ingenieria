@@ -12,9 +12,6 @@ regularDay = ""
 regularTime = ""
 title = "NZEB - Passivhaus"
 weight = 10
-[menu.services2]
-URL = "about"
-weight = 1
 
 +++
 ### 

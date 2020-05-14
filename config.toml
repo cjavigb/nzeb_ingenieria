@@ -64,10 +64,6 @@ weight = 2
 URL = "team"
 name = "Equipo"
 weight = 5
-[[menu.services]]
-URL = "about"
-name = "Acerca de"
-weight = 1
 [params]
 author = "themefisher"
 contact_form_action = "#"
