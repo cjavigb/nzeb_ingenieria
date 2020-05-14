@@ -1,7 +1,7 @@
 +++
 bg_image = "/images/Fondo-1.jpg"
 brochure = "#"
-date = 2020-05-05T05:54:00Z
+date = "2020-05-05T05:54:00.000+00:00"
 description = ""
 halfDay = ""
 halfTime = ""
@@ -12,6 +12,9 @@ regularDay = ""
 regularTime = ""
 title = "NZEB - Passivhaus"
 weight = 10
+[menu.services2]
+URL = "about"
+weight = 1
 
 +++
 ### 

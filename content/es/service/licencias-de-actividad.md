@@ -1,17 +1,19 @@
 +++
 bg_image = "/images/Fondo-1.JPG"
 brochure = ""
-date = 2020-05-05T05:51:17Z
+date = "2020-05-05T05:51:17.000+00:00"
 description = "This is meta description"
 halfDay = ""
-halfTime = 2020-04-30T10:59:58Z
+halfTime = "2020-04-30T10:59:58.000+00:00"
 icon = "ti-credit-card"
 image = "/images/KN_1-1.jpg"
 offDay = ""
 regularDay = ""
-regularTime = 2020-04-30T10:59:44Z
+regularTime = "2020-04-30T10:59:44.000+00:00"
 title = "Licencias urbanísticas y de actividad"
 weight = 20
+[menu.services2]
+weight = 2
 
 +++
 ### ¿Quieres abrir un negocio?
