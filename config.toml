@@ -80,7 +80,7 @@ enable = true
 gmap_api = ""
 map_latitude = "41.650100"
 map_longitude = "-0.883295"
-map_marker = ""
+map_marker = "/images/logo-nzeb.png"
 [params.nav_button]
 enable = false
 link = "contact"
