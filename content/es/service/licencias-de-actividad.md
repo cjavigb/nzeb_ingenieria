@@ -1,15 +1,15 @@
 +++
 bg_image = "/images/Fondo-1.JPG"
 brochure = ""
-date = "2020-05-05T05:51:17.000+00:00"
+date = 2020-05-05T05:51:17Z
 description = "This is meta description"
 halfDay = ""
-halfTime = "2020-04-30T10:59:58.000+00:00"
+halfTime = 2020-04-30T10:59:58Z
 icon = "ti-credit-card"
 image = "/images/KN_1-1.jpg"
 offDay = ""
 regularDay = ""
-regularTime = "2020-04-30T10:59:44.000+00:00"
+regularTime = 2020-04-30T10:59:44Z
 title = "Licencias urbanísticas y de actividad"
 weight = 20
 [menu.services]
@@ -20,7 +20,7 @@ weight = 2
 
 En NZEB Ingeniería realizamos todos tipo de trámites para poder conseguirlo.
 
-La licencia de apertura y actividad es una **licencia municipal** obligatoria para que en una nave, oficina o local se pueda ejercer la actividad correspondiente. Consiste en un documento que acredita el cumplimiento de las condiciones de habitabilidad y uso de esa actividad determinada. Es concedida por el Ayuntamiento de la localidad.
+La licencia de apertura y actividad es una <span style="color:#2AB441";>**licencia municipal**</span> obligatoria para que en una nave, oficina o local se pueda ejercer la actividad correspondiente. Consiste en un documento que acredita el cumplimiento de las condiciones de habitabilidad y uso de esa actividad determinada. Es concedida por el Ayuntamiento de la localidad.
 
 ![Centro Kids and Nits y adiós piojitos Zaragoza.](/images/KN_web-1.jpg "Kids and Nits y adiós piojitos")
 
