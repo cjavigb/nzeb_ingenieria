@@ -17,7 +17,7 @@ weight = 40
 weight = 4
 
 +++
-Nuestro equipo dará respuesta a cualquier necesidad en materia de energía solar y eficiencia energética.
+Nuestro equipo dará respuesta a cualquier necesidad en materia de <span style="color:#2AB441";>**energía solar y eficiencia energética**. </span>
 
 Aportamos soluciones rentables y sostenibles justificado el retorno de inversión a nuestros clientes.
 
@@ -27,6 +27,6 @@ Monitorizamos las instalaciones con reportes de producción, consumo, intensidad
 
 ![Foto de una captura de pantalla de monitorización de instalación solar fotovoltaica.](/images/20200403.JPG "Monitorización instalación solar fotovoltaica.")
 
-Siguiendo las indicaciones del [Real Decreto 244/2019, de 5 de abril](https://www.boe.es/eli/es/rd/2019/04/05/244 "Real Decreto 244/2019, de 5 de abril"), por el que se regulan las condiciones administrativas, técnicas y económicas del autoconsumo de energía eléctrica legalizamos su instalación consiguiendo no sólo reducir la factura de electricidad sino poder compensar los excedentes de producción acortando los plazos de amortización de la instalación.
+Siguiendo las indicaciones del [Real Decreto 244/2019, de 5 de abril](https://www.boe.es/eli/es/rd/2019/04/05/244 "Real Decreto 244/2019, de 5 de abril"), por el que se regulan las condiciones administrativas, técnicas y económicas del <span style="color:#2AB441";>**autoconsumo de energía**</span> eléctrica legalizamos su instalación consiguiendo no sólo reducir la factura de electricidad sino poder compensar los excedentes de producción acortando los plazos de amortización de la instalación.
 
 ![Foto de marquesina autosuficiente. Plaza del Emperador Carlos. Zaragoza](/images/Marquesina.jpg "Marquesina autosuficiente.")
