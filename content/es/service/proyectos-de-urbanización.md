@@ -17,7 +17,7 @@ weight = 70
 weight = 7
 
 +++
-En NZEB Ingeniería realizamos todo tipo de <span style="color:#2AB441";>**Proyectos de urbanización**.</span>
+En NZEB Ingeniería realizamos todo tipo de <span style="color:#2AB441";>**proyectos de urbanización**.</span>
 
 •Media Tensión.
 
