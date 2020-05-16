@@ -17,7 +17,7 @@ weight = 25
 weight = 3
 
 +++
-Diseñamos y calculamos cualquier tipo de estructura: metálica, hormigón armado, hormigón pretensado, madera, trabajos con perfiles estructurales, etc.
+<span style="color:#2AB441";>**Diseñamos y calculamos**</span> cualquier tipo de <span style="color:#2AB441";>estructura</span>: metálica, hormigón armado, hormigón pretensado, madera, trabajos con perfiles estructurales, etc.
 
 ![](/images/Estructuras_2.jpg)
 
