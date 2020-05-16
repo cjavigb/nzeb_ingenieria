@@ -17,9 +17,9 @@ weight = 140
 weight = 6
 
 +++
-Nuestro equipo multidisciplinar realiza cualquier tipo de **peritaciones, valoraciones o tasaciones.**
+Nuestro equipo multidisciplinar realiza cualquier tipo de <span style="color:#2AB441";>**peritaciones, valoraciones o tasaciones.** </span>
 
-Como ingenieros industriales y miembros del listado de Ingenieros Peritos Judiciales del Colegio Oficial de Ingenieros Industriales de Aragón y La Rioja, realizamos de manera habitual **informes periciales** para Juzgados y DGA. También contamos con un equipo de ingenieros de caminos, ingenieros de telecomunicaciones, arquitectos y aparejadores.
+Como ingenieros industriales y miembros del listado de Ingenieros Peritos Judiciales del Colegio Oficial de Ingenieros Industriales de Aragón y La Rioja, realizamos de manera habitual <span style="color:#2AB441";>**informes periciales** </span>para Juzgados y DGA. También contamos con un equipo de ingenieros de caminos, ingenieros de telecomunicaciones, arquitectos y aparejadores.
 
 Los campos de actuación más habituales son las periciales en:
 
