@@ -10,7 +10,7 @@ image = "/images/1.jpg"
 offDay = ""
 regularDay = ""
 regularTime = ""
-title = "Instalaciones solares fotovoltaicas"
+title = "Instalaciones Solares Fotovoltaicas"
 type = ""
 weight = 40
 [menu.services]
