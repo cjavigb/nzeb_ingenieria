@@ -32,10 +32,6 @@ Nuestros estudios consiguen que, tanto en obra nueva como en rehabilitación, lo
 
 ![Imagenes de capturas de pantallas del software PHPP](/images/PHPP_WEB.jpg "PHPP")
 
-Hemos participado en Congresos internacionales exponiendo los resultados de <body>
-
-  <p style="color:#FF0000";>Red paragraph text</p>
-
-</body> **edificios monitorizados** que conseguimos un COP mayor de 80 dependiendo de los periodos estacionales.
+Hemos participado en Congresos internacionales exponiendo los resultados de <body><p style="color:#90EE90";>Red paragraph text</p></body> **edificios monitorizados** que conseguimos un COP mayor de 80 dependiendo de los periodos estacionales.
 
 ![Foto de los tubos canadienses en el edificio CIEM. Zaragoza.](/images/Tubos.jpg "Tubos canadienses. Edificio CIEM")
