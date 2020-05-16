@@ -1,7 +1,7 @@
 +++
 bg_image = "/images/Fondo-1.jpg"
-brochure = "#"
-date = "2020-05-05T05:54:00.000+00:00"
+brochure = ""
+date = 2020-05-05T05:54:00Z
 description = ""
 halfDay = ""
 halfTime = ""
