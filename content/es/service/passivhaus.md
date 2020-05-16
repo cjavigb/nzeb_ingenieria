@@ -34,6 +34,6 @@ Nuestros estudios consiguen que, tanto en obra nueva como en rehabilitación, lo
 
 Hemos participado en Congresos internacionales exponiendo los resultados de
 
-<body> <p style="color:red;">Red paragraph text</p> </body> **edificios monitorizados** en los que conseguimos un COP mayor de 80 dependiendo de los periodos estacionales.
+<body> <p style="color:ligthgreen;"> </body> **edificios monitorizados** </p>en los que conseguimos un COP mayor de 80 dependiendo de los periodos estacionales.
 
 ![Foto de los tubos canadienses en el edificio CIEM. Zaragoza.](/images/Tubos.jpg "Tubos canadienses. Edificio CIEM")
