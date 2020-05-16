@@ -1,7 +1,7 @@
 +++
 bg_image = ""
 brochure = ""
-date = "2020-05-04T22:00:00.000+00:00"
+date = 2020-05-04T22:00:00Z
 description = ""
 halfDay = ""
 halfTime = ""
@@ -17,7 +17,7 @@ weight = 50
 weight = 5
 
 +++
-En NZEB ingeniería realizamos proyectos y direcciones de obra de **instalaciones eléctricas** :
+En NZEB ingeniería realizamos proyectos y direcciones de obra de <span style="color:#2AB441";>**instalaciones eléctricas**: </span>
 
 •Baja tensión.
 
