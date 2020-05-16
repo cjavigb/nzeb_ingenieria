@@ -10,7 +10,7 @@ image = "/images/Cuadro.jpg"
 offDay = ""
 regularDay = ""
 regularTime = ""
-title = "Instalaciones eléctricas"
+title = "Instalaciones Eléctricas"
 type = ""
 weight = 50
 [menu.services]
@@ -37,10 +37,10 @@ En NZEB ingeniería realizamos proyectos y direcciones de obra de <span style="c
 
 •Instalaciones solares fotovoltaicas.
 
-•Instalación de carga de vehículo eléctrico.
+•Instalación de carga de <span style="color:#2AB441";>**vehículo eléctrico**. </span>
 
 ![Instalación de carga vehículo eléctrico.](/images/tesla.jpg "Instalación de carga vehículo eléctrico.")
 
-**Auditorías energéticas:**
+<span style="color:#2AB441";>**Auditorías energéticas:** </span>
 
 Mediante el estudio energético de los consumos actuales somos capaces de realizar una auditoría energética. Esto nos permite ajustar la contratación eléctrica a la adecuada y mediante diferentes acciones conseguir reducir la factura energética al máximo.
