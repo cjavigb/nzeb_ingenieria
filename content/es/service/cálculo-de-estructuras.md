@@ -12,7 +12,7 @@ regularDay = ""
 regularTime = ""
 title = "Cálculo de Estructuras"
 type = ""
-weight = 100
+weight = 25
 [menu.services2]
 weight = 3
 
