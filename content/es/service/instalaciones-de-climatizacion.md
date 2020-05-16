@@ -1,7 +1,7 @@
 +++
 bg_image = "/images/Fondo clima.jpg"
 brochure = ""
-date = "2020-05-04T22:00:00.000+00:00"
+date = 2020-05-04T22:00:00Z
 description = ""
 halfDay = ""
 halfTime = ""
@@ -18,7 +18,7 @@ name = "Instalaciones de Climatización"
 weight = 6
 
 +++
-En NZEB ingeniería realizamos para viviendas, colegios, centros socioculturales, centros religiosos, etc. proyectos y direcciones de obra de Instalaciones de Climatización.
+En NZEB ingeniería realizamos para viviendas, colegios, centros socioculturales, centros religiosos, etc. proyectos y direcciones de obra de <span style="color:#2AB441";>**Instalaciones de Climatización**. </span>
 
 •Proyectos de climatización.
 
