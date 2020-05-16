@@ -14,7 +14,7 @@ title = "Cálculo de Estructuras"
 type = ""
 weight = 25
 [menu.services2]
-weight = 3
+weight = 1
 
 +++
 <span style="color:#2AB441";>**Diseñamos y calculamos**</span> cualquier tipo de <span style="color:#2AB441";>estructura</span>: metálica, hormigón armado, hormigón pretensado, madera, trabajos con perfiles estructurales, etc.
