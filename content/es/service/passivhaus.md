@@ -24,11 +24,11 @@ Disponemos de la Certificación Passivhaus Designer.
 
 ![Imagen de Certificado Passivhaus Designer.](/images/Passihaus Designer.jpg "Certificado Passivhaus Designer")
 
-Siguiendo todas las directrices europeas que ya desde 2010 imponían la obligatoriedad de que los edificios se transformen en edificios de consumo casi nulo, para NZEB Ingeniería esto siempre ha sido nuestro principal objetivo.
+Siguiendo todas las directrices europeas que ya desde 2010 imponían la obligatoriedad de que los edificios se transformen en <span style="color:#2AB441";>**edificios de consumo casi nulo**</span>, para NZEB Ingeniería esto siempre ha sido nuestro principal objetivo.
 
 ![Recuperador de calor y estudio puentes témicos mediante software THERM.](/images/Passiv.jpg "Recuperador de calor y estudio puentes témicos.")
 
-Nuestros estudios consiguen que, tanto en obra nueva como en rehabilitación, los edificios no sólo prácticamente no consuman energía sino que se conviertan en edificios productores de esta. Estamos ante **edificios energéticamente positivos**.
+Nuestros estudios consiguen que, tanto en obra nueva como en rehabilitación, los edificios no sólo prácticamente no consuman energía sino que se conviertan en edificios productores de esta. Estamos ante <span style="color:#2AB441";>**edificios energéticamente positivo**</span>.
 
 ![Imagenes de capturas de pantallas del software PHPP](/images/PHPP_WEB.jpg "PHPP")
 
