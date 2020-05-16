@@ -21,7 +21,7 @@ En NZEB Ingeniería colaboramos con distintos profesionales en el diseño y desa
 
 Nuestra especialidad son los elementos energéticamente autosuficientes, respetuosos con el medio ambiente y que potencien el uso de las energías renovables.
 
-**Literas QapSula**
+<span style="color:#2AB441";>**Literas QapSula**</span>
 
 Proyectadas y diseñadas para el Botanic Hostel por QS arquitectos, incorporan luz, climatización individual y demás dispositivos pensados para el mayor confort del usuario.
 
@@ -29,7 +29,7 @@ Proyectadas y diseñadas para el Botanic Hostel por QS arquitectos, incorporan l
 
 [Literas en el Botanic Hostel.](https://qsarquitectos.com/the-botanic-hostel/ "Literas en el Botanic Hostel") Literas climatizadas, con iluminación y cargador para móvil/tablet.
 
-**Marquesina autosuficiente**
+<span style="color:#2AB441";>**Marquesina autosuficiente**</span>
 
 Diseñadas ex profeso por el equipo de TANGRAM Arquitectura y Diseño en colaboración con Santiago Elía para el Consorcio de Transportes del Área de Zaragoza.
 
@@ -43,7 +43,7 @@ Accésit en la categoría de arquitectura / Premios 3 de Abril 2018.
 
 [Marquesina Autosuficiente](https://www.tangramarquitectura.es/2017/07/primeras-imagenes-del-reportaje.html#more "Marquesina autosuficiente")
 
-**Aparcamiento seguro para bicicletas:**
+<span style="color:#2AB441";>**Aparcamiento seguro para bicicletas:**</span>
 
 Sistema modular de aparcamiento seguro para bicicletas para la red BIZIA
 
