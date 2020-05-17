@@ -4,7 +4,7 @@ bg_image: images/pint-of-science-19b.jpg
 date: 2016-05-24T17:00:00+00:00
 description: Pint of Science 2016
 author: Claudio Javier García Ballano
-image: ''
+image: "/images/pint-of-science-19b.jpg"
 categories:
 - Company News
 tags:
@@ -22,6 +22,9 @@ Los tubos canadienses son una construcción sencilla y barata que utiliza el sue
 
 ¿No te lo crees? Pues los números no engañan, además de ser uno de los edificios de mayor confort gracias a la renovación total del aire siete veces a la hora, con lo que jamás se convertirá en un “edificio enfermo”.
 
-1. Tubos canadienses.
+1. Tubos canadienses
 2. Geotermia
 3. Acumulación estacional de energía
+4. Edificios de Consumo Casi Nulo
+5. Passivhaus
+6. Síndrome del Edificio Enfermo
