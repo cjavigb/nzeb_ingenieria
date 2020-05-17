@@ -1,29 +1,23 @@
 ---
-title: "Pint of Science"
+title: Pint of Science 2016
 bg_image: images/pint-of-science-19b.jpg
-date: 2019-05-22T11:07:10+06:00
-description : "This is meta description"
-author: Claudio Javier
+date: 2016-05-24T17:00:00+00:00
+description: Pint of Science 2016
+author: Claudio Javier García Ballano
 image: images/pint-of-science-19.jpg
-categories: ["Company News"]
-tags: ["Advice"]
+categories:
+- Company News
+tags:
+- Advice
 type: post
+
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex. Commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt.
-
->Excepteur sint occaecat cupidatat non proident sunt culpa officia deserunt mollit anim id est laborum.Sed ut perspiciatis unde omnis.
-
-1. Business Services
-2. Audit & Assurance
-3. IT Control Solutions
-
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex. Commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt.
-
 ## Syntax
 
-`
-<h1> Title </h1> 
-<span> Hello World </span>
-`
+`<h1> Title </h1> <span> Hello World </span>`
+
+Me molas por un tubo.
+
+¿Quieres obtener frío en verano y calor en invierno gratis? Existen muchas maneras, pero vamos a ver como la geotermia, con intercambio tierra-aire, es muy sencilla y efectiva. Explicaremos un ejemplo práctico, de un edificio aquí en Zaragoza, donde la relación KW de frio/calor recibido por KW consumido llega a ser de un 80:1
+
+¿No te lo crees? Pues los números no engañan, además de ser uno de los edificios de mayor confort gracias a la renovación total del aire siete veces a la hora, con lo que jamás se convertirá en un “edificio enfermo”.
