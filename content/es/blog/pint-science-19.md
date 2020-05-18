@@ -1,7 +1,7 @@
 ---
 title: Pint of Science 2016
 bg_image: "/images/cartel-png.png"
-date: 2016-05-17T22:00:00+00:00
+date: 2016-05-24T18:00:00+00:00
 description: Pint of Science 2016
 author: Claudio Javier García Ballano
 image: "/images/cartel-png.png"
