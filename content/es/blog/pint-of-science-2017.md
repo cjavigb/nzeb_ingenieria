@@ -2,7 +2,7 @@
 author = "Claudio Javier García Ballano"
 bg_image = "images/pint-of-science-19b.jpg"
 categories = ["Company News"]
-date = 2017-05-16T17:00:00Z
+date = 2019-05-22T18:00:00Z
 description = "Pint of Science 2019"
 image = "/images/pint-of-science-19.jpg"
 tags = ["Advice"]
