@@ -20,7 +20,11 @@ En esta ocasión explicamos que es un edificio Zero Emisiones, porque los llamam
 
 > Con unas sencillas premisas diseñamos y ejecutamos edificios que, con un precio acotado, son respetuosos con el medio ambiente y eficientes energéticamente.
 
+![Pint of Science 2016 Zaragoza](/images/dsc03755.jpg "Pint of Science 2016 Zaragoza")
+
 Dimos datos reales sobre edificios ejecutados, donde primando el confort se han conseguido unos consumos energéticos mínimos. Incluso alguno de los ejemplos mostrados no sólo son edificios que no consumen energía sino que son productores de la misma obteniendo beneficios por sus excedentes.
+
+![Público Pint of Science 2016 Zaragoza](/images/20160524_210014.jpg "Público Pint of Science 2016 Zaragoza")
 
 1. Eficiencia energética
 2. Sostenibilidad
