@@ -18,7 +18,7 @@ weight = 1
 +++
 ### 
 
-En ZNEB Ingeniería somos especialistas en construir **edificios de consumo casi nulo** o **Passivhaus**.
+En ZNEB Ingeniería somos especialistas en construir <span style="color:#2AB441";>**edificios de consumo casi nulo** o **Passivhaus**.</span>
 
 Disponemos de la Certificación Passivhaus Designer.
 
