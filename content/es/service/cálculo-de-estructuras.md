@@ -1,12 +1,12 @@
 +++
-bg_image = "/images/Pref 2.jpg"
+bg_image = ""
 brochure = ""
 date = 2020-05-04T22:00:00Z
 description = ""
 halfDay = ""
 halfTime = ""
 icon = "ti-pencil-alt"
-image = "/images/P1060236-2.JPG"
+image = "/images/principal_estructuras.jpg"
 offDay = ""
 regularDay = ""
 regularTime = ""
