@@ -4,17 +4,15 @@ date: 2018-09-24T08:48:03.000+00:00
 description: This is meta description
 bg_image: "/images/background/page-title.jpg"
 image: images/KN_1.jpg
-live_demo: "#"
-case_study: "#"
+live_demo: ''
+case_study: ''
 category: Licencias urbanísticas y de actividad
 overview:
-- label: Client
+- label: Cliente
   data: Kids and Nits y adiós piojitos Zaragoza
-- label: Category
+- label: Categoría
   data: Licencias urbanísticas y de actividad
-- label: Expertise
-  data: Mobile App
-- label: Date
+- label: Fecha
   data: "2015"
 
 ---
