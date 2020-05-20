@@ -1,6 +1,6 @@
 ---
 title: Marquesina Autosuficiente
-date: 2018-09-26T08:48:03+00:00
+date: 2018-09-26T08:48:03.000+00:00
 description: This is meta description
 bg_image: images/background/page-title.jpg
 image: images/Marquesina 10.jpg
@@ -8,7 +8,7 @@ live_demo: ''
 case_study: ''
 category: mobiliario urbano
 overview:
-- label: Client
+- label: Cliente
   data: Consorcio de Transportes del Área de Zaragoza.
 - label: Category
   data: Mobiliario Urbano
