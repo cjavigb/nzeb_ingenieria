@@ -34,10 +34,10 @@ slider:
     animation_from: down
     subtitle: Comienza ya
     title: Deja el comienzo de tu futuro en nuestras manos.
-    content: "¿Necesitas la tramitación para poner en marcha tu negocio? Nosotros
-      nos encargamos de todo. Desde localizar la ubicación idónea, diseñar el local
-      para tu actividad, obtener licencias hasta seleccionar los gremios para realizar
-      la obra. Todo en perfecta coordinación de acuerdo a tus necesidades."
+    content: "¿Necesita la tramitación para poner en marcha su negocio? Nosotros nos
+      encargamos de todo. Desde localizar la ubicación idónea, diseñar el local para
+      su actividad, obtener licencias hasta seleccionar los gremios para realizar
+      la obra. Todo en perfecta coordinación de acuerdo a sus necesidades."
     pagination_icon: ti-widget
     pagination_name: Proyectos
     button:
