@@ -16,7 +16,7 @@ overview:
   data: "2018"
 
 ---
-Diseñadas _ex profeso_ por el equipo de [TANGRAM Arquitectura y Diseño]() en colaboración con Santiago Elía para el Consorcio de Transportes del Área de Zaragoza.
+Diseñadas _ex profeso_ por el equipo de [TANGRAM Arquitectura y Diseño](https://www.tangramarquitectura.es/) en colaboración con Santiago Elía para el Consorcio de Transportes del Área de Zaragoza.
 
 Mediante módulos de energía solar fotovoltaica y acumulación se convierten en marquesinas autosuficientes proporcionando tanto iluminación como tiempo real de llegada de los autobuses.
 
