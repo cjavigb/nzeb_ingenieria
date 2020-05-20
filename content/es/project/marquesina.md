@@ -10,9 +10,9 @@ category: mobiliario urbano
 overview:
 - label: Cliente
   data: Consorcio de Transportes del Área de Zaragoza.
-- label: Category
+- label: Categoría
   data: Mobiliario Urbano
-- label: Date
+- label: Fecha
   data: "2018"
 
 ---
