@@ -1,6 +1,6 @@
 ---
 title: Vivienda prefabricada
-date: 2020-05-04T22:00:00+00:00
+date: 2020-05-04T22:00:00.000+00:00
 description: This is meta description
 bg_image: "/images/pref10.jpg"
 image: images/UBIKO_web_UP44_02_01.jpg
@@ -8,11 +8,11 @@ live_demo: ''
 case_study: ''
 category: prefabricado de hormigón
 overview:
-- label: Client
+- label: Cliente
   data: Viraje - Ubiko
-- label: Category
+- label: Categoría
   data: Prefabricados de hormigón
-- label: Date
+- label: Fecha
   data: "2020"
 
 ---
