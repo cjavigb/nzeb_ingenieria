@@ -45,7 +45,7 @@ URL = "#"
 name = "Legal"
 weight = 1
 [[menu.main]]
-URL = "/es/contact"
+URL = "contacts"
 name = "Contacto"
 weight = "5"
 [[menu.main]]
