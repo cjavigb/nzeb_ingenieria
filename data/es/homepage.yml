@@ -15,7 +15,7 @@ slider:
     button:
       enable: true
       label: Conócenos
-      link: about
+      link: service
   - bg_image: "/images/pref10soft.jpg"
     animation_from: up
     subtitle: Prefabricado.
