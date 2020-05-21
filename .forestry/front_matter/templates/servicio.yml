@@ -57,7 +57,6 @@ fields:
   label: type
 pages:
 - content/es/Docencia e investigación/docencia-1.md
-- content/es/Docencia e investigación/docencia.md
 - content/es/Docencia e investigación/investigacion.difusion-del-conocimiento.md
 - content/es/service/cálculo-de-estructuras.md
 - content/es/service/docencia.md
