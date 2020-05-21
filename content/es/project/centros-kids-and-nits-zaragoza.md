@@ -1,30 +1,34 @@
 +++
 bg_image = "/images/background/page-title.jpg"
 case_study = ""
-category = "Licencias urbanísticas y de actividad"
+category = "Proyectos de urbanización"
 date = 2020-04-07T08:48:03Z
 description = "This is meta description"
-draft = true
-image = "images/KN_1.jpg"
+image = "/images/Yéqueda.JPG"
 live_demo = ""
-title = "Centros Kids and Nits Zaragoza"
+title = "Urbanización Las Lomas de Yequeda (Huesca)"
 [[overview]]
-data = "Kids and Nits y adiós piojitos Zaragoza"
+data = "Junta de Compensación Las Villas de Yéqueda"
 label = "Cliente"
 [[overview]]
-data = "Licencias urbanísticas y de actividad"
+data = "Proyectos de urbanización"
 label = "Categoría"
 [[overview]]
-data = "2015"
+data = "1995"
 label = "Fecha"
 
 +++
-### Centros Kids & Nits y adiós piojitos! Zaragoza
+### Urbanización Las Villas de Yéqueda.
 
-Proyecto urbanístico y licencia de apertura de los Centros de Kids and Nits en Zaragoza.
+Proyectos de urbanización para 134 viviendas y zonas comunes:
 
-En esta ocasión gestionamos el paquete completo de tramitación de las licencias ante el Ayuntamiento de Zaragoza, la petición de ofertas, contratación y dirección de obra.
+* Media tensión.
+* Centro de transformación.
+* Alumbrado público.
+* Baja tensión.
+* Gas.
+* Telefonía.
 
-La ejecución de los trabajos se llevó a cabo en menos de un mes y medio, cumpliendo los plazos previstos para la apertura.
+![](/images/Yéqueda 2.JPG)
 
-![](/images/KN_2.jpg)
+![](/images/CT1.png)
