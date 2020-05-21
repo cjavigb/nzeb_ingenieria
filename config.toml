@@ -45,10 +45,6 @@ URL = "#"
 name = "Legal"
 weight = 1
 [[menu.main]]
-URL = "docencia"
-name = "Docencia e Investigación"
-weight = "6"
-[[menu.main]]
 URL = "team"
 name = "Equipo"
 weight = 5
