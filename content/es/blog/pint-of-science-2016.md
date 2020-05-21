@@ -10,9 +10,9 @@ title = "Pint of Science 2017"
 type = "post"
 
 +++
-## Me molas por un tubo.
+#### Me molas por un tubo.
 
-¿Quieres obtener frío en verano y calor en invierno gratis? Existen muchas maneras, pero vamos a ver como la geotermia, con intercambio tierra-aire, es muy sencilla y efectiva. 
+¿Quieres obtener frío en verano y calor en invierno gratis? Existen muchas maneras, pero vamos a ver como la geotermia, con intercambio tierra-aire, es muy sencilla y efectiva.
 
 Los tubos canadienses son una construcción sencilla y barata que utiliza el suelo como acumulador estacional de energía pudiendo aprovechar esa energía en las estaciones siguientes.
 
