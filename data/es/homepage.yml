@@ -57,7 +57,7 @@ slider:
     button:
       enable: true
       label: Más detalles
-      link: about
+      link: service
 service:
   enable: true
 about:
