@@ -1,7 +1,7 @@
 ---
 title: Pint of Science 2016
 bg_image: "/images/cartel-png.png"
-date: 2016-05-24T18:00:00+00:00
+date: 2016-05-24T18:00:00.000+00:00
 description: Pint of Science 2016
 author: Claudio Javier García Ballano
 image: "/images/cartel-png.png"
@@ -12,7 +12,7 @@ tags:
 type: post
 
 ---
-## Un Zero Emisiones y no "morir" en el intento.
+Un Zero Emisiones y no "morir" en el intento.
 
 ¿Qué es un edificio Zero Emisiones?
 
