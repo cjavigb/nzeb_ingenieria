@@ -15,5 +15,5 @@ satisfied_clients:
     
 ##################################### call to action #################################
 testimonial:
-  enable : true
+  enable : false
   # testimonial content comes from "data/*/homepage.yml" file
