@@ -1,6 +1,6 @@
 ---
 title: Centros Kids and Nits Zaragoza
-date: 2018-09-24T08:48:03.000+00:00
+date: 2020-04-07T08:48:03+00:00
 description: This is meta description
 bg_image: "/images/background/page-title.jpg"
 image: images/KN_1.jpg
