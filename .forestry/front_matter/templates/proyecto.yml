@@ -40,3 +40,5 @@ fields:
 - type: text
   name: type
   label: type
+pages:
+- content/es/project/silo-para-sal-de-100-tn.md
