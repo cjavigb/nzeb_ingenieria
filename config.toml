@@ -45,6 +45,10 @@ URL = "#"
 name = "Legal"
 weight = 1
 [[menu.main]]
+URL = "/es/contact"
+name = "Contacto"
+weight = "5"
+[[menu.main]]
 URL = "docencia"
 name = "Docencia e Investigación"
 weight = "5"
