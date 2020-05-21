@@ -4,7 +4,7 @@ case_study = ""
 category = "Cálculo de Estructuras"
 date = 2019-05-17T07:57:52Z
 description = ""
-image = "/images/P1060236.JPG"
+image = "/images/p1060281.JPG"
 live_demo = ""
 overview = []
 title = "Silo 100 Tn. para cloruro sódico."
@@ -12,6 +12,8 @@ type = ""
 
 +++
 Desarrollo completo de un silo de 100 Tn. para contener cloruro sódico (sal).
+
+![](/images/P1060236.JPG)
 
 En este caso el cliente, [Equipos Invernales](https://equiposinvernales.es/web/ "EQUIN") nos encomendó el diseño y desarrollo de un silo de una capacidad neta de 100 Tn. de cloruro sódico. Las premisas iniciales eran que todos los elementos que conforman el pie del mismo fueran galvanizados y que la totalidad del silo se pudiera transportar en un único transporte especial.
 
