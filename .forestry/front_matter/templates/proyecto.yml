@@ -41,4 +41,5 @@ fields:
   name: type
   label: type
 pages:
+- content/es/project/instalacion-solar-fotovoltaica-para-autoconsumo.md
 - content/es/project/silo-para-sal-de-100-tn.md
