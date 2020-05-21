@@ -43,7 +43,7 @@ slider:
     button:
       enable: true
       label: Más información
-      link: about
+      link: service
   - bg_image: "/images/portada_sost_soft.jpg"
     animation_from: right
     subtitle: Realizamos nuestro trabajo siempre bajo el criterio de la
