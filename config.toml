@@ -51,7 +51,7 @@ weight = "8"
 [[menu.main]]
 URL = "docencia"
 name = "Docencia e Investigación"
-weight = "5"
+weight = "4"
 [[menu.main]]
 URL = "team"
 name = "Equipo"
