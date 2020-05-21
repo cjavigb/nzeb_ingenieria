@@ -53,6 +53,13 @@ sections:
   templates:
   - proyecto
 - type: directory
+  path: content/es/docencia
+  label: Docencia
+  create: all
+  match: "**/*"
+  templates:
+  - servicio
+- type: directory
   path: content/es/team
   label: Miembros del equipo
   create: all
