@@ -45,7 +45,7 @@ URL = "#"
 name = "Legal"
 weight = 1
 [[menu.main]]
-URL = "docencia-e-investigacion"
+URL = "docencia"
 name = "Docencia e Investigación"
 weight = "6"
 [[menu.main]]
