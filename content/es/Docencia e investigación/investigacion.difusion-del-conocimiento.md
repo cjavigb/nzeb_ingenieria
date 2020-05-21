@@ -3,6 +3,7 @@ bg_image = "/images/Fondo.jpg"
 brochure = ""
 date = 2020-05-05T03:01:32Z
 description = ""
+draft = true
 halfDay = ""
 halfTime = ""
 icon = "ti-thought"
