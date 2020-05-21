@@ -7,7 +7,7 @@ description = ""
 image = "/images/P1060236.JPG"
 live_demo = ""
 overview = []
-title = "Silo para sal de 100 Tn"
+title = "Silo 100 Tn. para cloruro sódico."
 type = ""
 
 +++
