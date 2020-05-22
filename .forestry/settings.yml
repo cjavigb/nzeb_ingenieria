@@ -74,6 +74,11 @@ sections:
   templates:
   - autor
 - type: directory
+  path: content/es/contact
+  label: Contacto
+  create: all
+  match: "**/*"
+- type: directory
   path: content
   label: Pages
   create: all
