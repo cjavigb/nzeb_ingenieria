@@ -1,9 +1,14 @@
 ---
 title: Nuestro equipo
-date: 2018-07-12T12:19:33.000+00:00
+date: '2018-07-12T12:19:33.000+00:00'
 bg_image: "/images/Fondo equipo.jpg"
 description: This is meta description
 image: "/images/Equipo-1.jpg"
+menu:
+  main:
+    URL: team
+    name: Equipo
+    weight: 5
 
 ---
 #### Un gran equipo multidisciplinar.

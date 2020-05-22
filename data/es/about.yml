@@ -38,3 +38,8 @@ funfacts:
     count: "130"
 skill:
   enable: false
+menu:
+  main:
+    URL: about
+    name: Acerca de
+    weight: 1

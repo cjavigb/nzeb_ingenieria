@@ -44,34 +44,6 @@ weight = 2
 URL = "#"
 name = "Legal"
 weight = 1
-[[menu.main]]
-URL = "contact"
-name = "Contacto"
-weight = "7"
-[[menu.main]]
-URL = "docencia"
-name = "Docencia e Investigación"
-weight = "4"
-[[menu.main]]
-URL = "team"
-name = "Equipo"
-weight = 5
-[[menu.main]]
-URL = "service"
-name = "Servicios"
-weight = 2
-[[menu.main]]
-URL = "about"
-name = "Acerca de"
-weight = 1
-[[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = "6"
-[[menu.main]]
-URL = "project"
-name = "Proyectos"
-weight = 3
 [params]
 author = "themefisher"
 contact_form_action = "#"
