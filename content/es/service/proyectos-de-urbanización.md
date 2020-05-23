@@ -10,7 +10,7 @@ image = "/images/Yéqueda.JPG"
 offDay = ""
 regularDay = ""
 regularTime = ""
-title = "Proyectos de urbanización"
+title = "Proyectos de Urbanización"
 type = ""
 weight = 70
 [menu.services]
