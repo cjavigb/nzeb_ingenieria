@@ -16,10 +16,25 @@
 				<h2 class="section-title section-title-border">{{ i18n "service_title" }}</h2>
 			</div>
 			{{ range $index, $element:= where .Site.RegularPages "Type" "service" }}
-			{{ if lt $index 3 }}
+			{{ if lt $index 5 }}
 			{{ .Render "service" }}
 			{{ end }}
 			{{ end }}
+			<div class="col-lg-4 col-sm-6 mb-5">
+				<div class="card text-center">
+					<h4>Listado de servicios</h4>
+					<div class="card-body p-0">
+						<!-- <p class="card-text mx-2 mb-0">{{ .Render "service" }}</p> -->
+						<ul>
+							{{ range first 500 (where .Site.RegularPages "Type" "service") }}
+								<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+							{{ end }}
+						</ul>
+						<a class="btn btn-secondary translateY-25" href="/services">Ver todos</a>
+					</div>
+				</div>
+			
+			</div>
 		</div>
 	</div>
 </section>
