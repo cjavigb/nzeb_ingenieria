@@ -1,3 +1,9 @@
+- id: categories
+  translation: Categorías
+- id: recent_news
+  translation: Últimos posts
+- id: tags
+  translation: Etiquetas
 - id: nav_button
   translation: get a quote
 - id: service_subtitle
