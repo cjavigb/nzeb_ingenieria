@@ -461,6 +461,13 @@ button {
   top: 2px;
   height: 12px;
 }
+.breadcrumb .active a::before {
+  content: '';
+  right: -17px;
+  top: 2px;
+  height: 12px;
+  font-weight: bolder;
+}
 
 /* 1.2.2 404 page start */
 .page-404 {
