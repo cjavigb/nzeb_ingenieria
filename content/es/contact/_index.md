@@ -12,6 +12,3 @@ menu:
     weight: 6
 
 ---
-
-Estamos en El Caracol, de X a Y de la mañana.
-Llámanos.
