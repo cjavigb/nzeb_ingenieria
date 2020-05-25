@@ -61,10 +61,10 @@ gmap_api = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d745.3152749214
 map_latitude = "45.3152749214223"
 map_longitude = "-0.8837821528587955"
 map_marker = "/images/logo-nzeb-1.png"
-point = new GPoint (map_longitude, map_latitude);
-nombre = "Puerta de Alcalá";
-marker = createMarker (point, nombre);
-map.addOverlay(marker);
+point = new GPoint (map_longitude, map_latitude)
+nombre = "Puerta de Alcalá"
+marker = createMarker (point, nombre)
+map.addOverlay(marker)
 [params.nav_button]
 enable = false
 link = "contact"
