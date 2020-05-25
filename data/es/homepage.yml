@@ -14,7 +14,7 @@ slider:
     pagination_name: Consultoría
     button:
       enable: true
-      label: Conócenos
+      label: Conozca nuestros servicios
       link: service
   - bg_image: "/images/pref10soft.jpg"
     animation_from: up
