@@ -7,6 +7,6 @@ image: "/images/Equipo-1.jpg"
 menu:
   main:
     URL: service
-    weight: 2
+    weight: 1
 
 ---
