@@ -92,14 +92,14 @@ URL = "plugins/google-map/gmap.js"
 enable = false
 preloader = "images/preloader.gif"
 [[params.clients_logo_slider]]
-link = "https://equiposinvernales.es/web/"
-logo = "/images/equin.jpg"
-[[params.clients_logo_slider]]
 link = "https://www.bhaus.es/"
 logo = "/images/BHAUS.jpg"
 [[params.clients_logo_slider]]
 link = "http://www.cabarquitectura.es/"
 logo = "/images/CAB.jpg"
+[[params.clients_logo_slider]]
+link = "https://equiposinvernales.es/web/"
+logo = "/images/equin.jpg"
 [[params.clients_logo_slider]]
 link = "http://www.erarquitectos.com/es"
 logo = "/images/ER.jpg"
