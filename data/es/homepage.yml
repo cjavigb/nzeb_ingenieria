@@ -18,18 +18,19 @@ slider:
       link: service
   - bg_image: "/images/pref10soft.jpg"
     animation_from: up
-    subtitle: Prefabricado.
-    title: Especialistas en construcción industrializada
-    content: Somos especialistas en construcción industrializada, tanto metálica como
-      madera y hormigón. La reducción de costes y plazos, así como la durabilidad
-      y sostenibilidad de la misma, está asegurada. Más de 25 años de experiencia
-      en el sector nos avalan.
+    subtitle: Cálculo de Estructuras. Prefabricado.
+    title: Especialistas en cálculo de estructuras y construcción industrializada
+    content: Somos especialistas en cálculo de estructuras y en onstrucción industrializada,
+      tanto metálica como madera y hormigón. La reducción de costes y plazos, así
+      como la durabilidad y sostenibilidad de la misma, está asegurada. Más de 25
+      años de experiencia en el sector y más de 3.000.000 de m<sup>2</sup> de estructura
+      calculada nos avalan.
     pagination_icon: ti-bar-chart
     pagination_name: Prefabricado
     button:
       enable: true
       label: Conoce nuestros servicios
-      link: service
+      link: Cálculo de estructuras
   - bg_image: "/images/portada_idea_soft.jpg"
     animation_from: down
     subtitle: "¿Desea emprender?"
