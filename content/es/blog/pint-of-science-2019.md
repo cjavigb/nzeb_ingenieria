@@ -1,13 +1,13 @@
 +++
 author = "Claudio Javier García Ballano"
-bg_image = "images/pint-of-science-19b.jpg"
-categories = ["Company News"]
-date = 2019-05-22T18:00:00Z
+bg_image = "/images/img-20200526-wa0019.jpg"
+categories = []
+date = 2020-01-31T09:00:00Z
 description = "Pint of Science 2019"
 draft = true
-image = "/images/pint-of-science-19.jpg"
-tags = ["Advice"]
-title = "Pint of Science 2019"
+image = "/images/img-20200526-wa0020.jpg"
+tags = []
+title = "Visita de los alumnos de CIRCE al edificio del CIEM"
 type = "post"
 
 +++
