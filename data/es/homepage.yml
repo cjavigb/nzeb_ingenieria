@@ -53,9 +53,10 @@ slider:
     subtitle: Realizamos nuestro trabajo siempre bajo el criterio de la
     title: Sostenibilidad y el ahorro energético
     content: 'Estamos plenamente convencidos de que no ya el futuro sino el presente,
-      se debe mover bajo parámetros de sostenibiliad y respeto al medio ambiente.
-      La eficiencia energética y los edificios NZEB / Passivhaus son nuestro objetivo
-      constante. '
+      se debe mover bajo parámetros de<span style="color:#2AB441";><strong>sostenibiliad
+      y respeto al medio ambiente</strong></span>. La eficiencia energética y los
+      edificios <span style="color:#2AB441";><strong>NZEB / Passivhaus</strong></span>
+      son nuestro objetivo constante. '
     pagination_icon: ti-loop
     pagination_name: Sostenibilidad
     button:
