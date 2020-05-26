@@ -58,7 +58,7 @@ slider:
     button:
       enable: true
       label: Más detalles
-      link: service
+      link: service/passivhaus
 service:
   enable: true
 about:
