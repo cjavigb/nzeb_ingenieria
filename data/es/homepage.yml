@@ -67,7 +67,7 @@ service:
   enable: true
 about:
   enable: true
-  bg_image: "/images/equipo_obra_losa.jpg"
+  bg_image: "/images/equipo_obra_losa_postensada.jpg"
   title: "¿Quiénes somos?"
   content: NZEB Ingeniería está formado por un equipo multidisciplinar para poder
     abordar todos los campos que demanden nuestros clientes.
