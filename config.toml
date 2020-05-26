@@ -105,7 +105,7 @@ link = "https://equiposinvernales.es/web/"
 logo = "/images/EQUIN.jpg"
 [[params.clients_logo_slider]]
 link = "http://www.erarquitectos.com/es"
-logo = "/images/ER-1.jpg"
+logo = "/images/er-1.jpg"
 [[params.clients_logo_slider]]
 link = "http://ihp-group.com/"
 logo = "/images/IHP-1.jpg"
