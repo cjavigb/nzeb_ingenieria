@@ -5,7 +5,7 @@ description: This is meta description
 designation: Colaborador
 image: "/images/carlos_camara.jpg"
 bg_image: "/images/Fondo equipo.jpg"
-cv: "#"
+cv: ''
 bio: Arquitecto. Investigador.
 skill:
 - label: Desarrollo web
