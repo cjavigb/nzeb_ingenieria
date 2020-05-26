@@ -37,10 +37,11 @@ slider:
     animation_from: down
     subtitle: "¿Desea emprender?"
     title: Deja el comienzo de tu futuro en nuestras manos.
-    content: "¿Necesita la tramitación para poner en marcha su negocio? Nosotros nos
-      encargamos de todo. Desde localizar la ubicación idónea, diseñar el local para
-      su actividad, obtener licencias hasta seleccionar los gremios para realizar
-      la obra. Todo en perfecta coordinación de acuerdo a sus necesidades."
+    content: ¿Necesita la <span style="color:#2AB441";><strong>tramitación</strong></span>
+      para <span style="color:#2AB441";><strong>poner en marcha su negocio</strong></span>?
+      Nosotros nos encargamos de todo. Desde localizar la ubicación idónea, diseñar
+      el local para su actividad, obtener licencias hasta seleccionar los gremios
+      para realizar la obra. Todo en perfecta coordinación de acuerdo a sus necesidades.
     pagination_icon: ti-widget
     pagination_name: Proyectos
     button:
