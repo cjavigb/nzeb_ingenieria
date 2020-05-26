@@ -29,8 +29,8 @@ slider:
     pagination_name: Prefabricado
     button:
       enable: true
-      label: Conoce nuestros servicios
-      link: Cálculo de estructuras
+      label: Conozca nuestros servicios
+      link: content-es-service-calculo-de-estructuras-md
   - bg_image: "/images/portada_idea_soft.jpg"
     animation_from: down
     subtitle: "¿Desea emprender?"
