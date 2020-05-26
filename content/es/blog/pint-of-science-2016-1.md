@@ -1,33 +1,41 @@
 +++
 author = "Claudio Javier García Ballano"
-bg_image = "/images/cartel-png.png"
-categories = ["Company News"]
-date = 2016-05-24T18:00:00Z
-description = "Pint of Science 2016"
-draft = true
-image = "/images/cartel-png.png"
-tags = ["Advice"]
-title = "Pint of Science 2016"
+bg_image = "/images/img_20171017_104610.jpg"
+categories = []
+date = 2017-10-17T08:00:00Z
+description = "Visita a una vivienda Passivhaus en Fiscal (Huesca)"
+image = "/images/img_20171017_125054.jpg"
+tags = []
+title = "Visita a una vivienda Passivhaus en Fiscal (Huesca)"
 type = "post"
 
 +++
-Un Zero Emisiones y no "morir" en el intento.
 
-¿Qué es un edificio Zero Emisiones?
+Siempre es gratificante ver la teoría del aula puesta en práctica en la obra.
 
-En esta ocasión explicamos que es un edificio Zero Emisiones, porque los llamamos así y porque han venido para quedarse.
+Esta vez visitamos con los alumnos de 5º curso de Arquitectura de la Universidad San Jorge de Zaragoza la vivienda de Albert Arpón la primera vivienda Passivhaus de madera hecha en Aragon.
 
-> Con unas sencillas premisas diseñamos y ejecutamos edificios que, con un precio acotado, son respetuosos con el medio ambiente y eficientes energéticamente.
+Albert nos dio todo lujo de detalles sobre ella ya que además de promotor ha sido el director técnico de la obra.
 
-![Pint of Science 2016 Zaragoza](/images/dsc03755.jpg "Pint of Science 2016 Zaragoza")
+Reforzamos los cinco principios básicos del estándar Passivhaus: 
 
-Dimos datos reales sobre edificios ejecutados, donde primando el confort se han conseguido unos consumos energéticos mínimos. Incluso alguno de los ejemplos mostrados no sólo son edificios que no consumen energía sino que son productores de la misma obteniendo beneficios por sus excedentes.
+> * Aislamiento.
+> * Hermeticidad.
+> * Carpintería de altas prestaciones.
+> * Ausencia de puentes térmicos.
+> * Ventilación controlada con recuperación de calor.
 
-![Público Pint of Science 2016 Zaragoza](/images/20160524_210014.jpg "Público Pint of Science 2016 Zaragoza")
+![Visita de los alumnos de 5 de Arquitectura de la Universidad San Jorge a una vivienda Passivhaus en Fiscal (Huesca)](/images/img_20171017_125946.jpg "Visita a vivienda Passivhaus")
+
+En esta casa pasiva de Fiscal se ha buscado que la vivienda se ajuste además a criterios de sostenibilidad. Los aislamientos son de fibras de madera, materiales naturales, tableros de madera. Esta vivienda se ha realizado en los talleres de Jesfer en Almudévar y se han montado en la parcela que Albert disponía en Fiscal. Esta prefabricación supone además de la rapidez en la ejecución unos controles de calidad que en la obra son mucho más complejos de llevarlos a cabo.
+
+Desde estas líneas queremos dar las gracias tanto a Albert Arpón (promotor) como a Sergio Buil (Jesfer) por el exquisito trato que nos han dispensado resolviendo en todo momento las dudas que les han planteado.
+
+![](/images/passivhaus_fiscal.jpg)
 
 1. Eficiencia energética
 2. Sostenibilidad
-3. Generación de energía
+3. Passivhaus
 4. Edificios de Consumo Casi Nulo
-5. Passivhaus
-6. Energías renovables
+5. Fiscal (Huesca)
+6. Viviendas en los Pirineos
