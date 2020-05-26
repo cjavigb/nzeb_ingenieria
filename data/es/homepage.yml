@@ -30,7 +30,7 @@ slider:
     button:
       enable: true
       label: Conozca nuestros servicios
-      link: service
+      link: service/cálculo-de-estructuras
   - bg_image: "/images/portada_idea_soft.jpg"
     animation_from: down
     subtitle: "¿Desea emprender?"
