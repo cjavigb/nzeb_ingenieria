@@ -1,12 +1,12 @@
 ---
 title: Carlos Cámara Menoyo
-date: 2018-05-11T11:08:00+00:00
+date: 2018-05-11T11:08:00.000+00:00
 description: This is meta description
 designation: Colaborador
-image: "/images/team/claudio.jpg"
+image: "/images/carlos_camara.jpg"
 bg_image: "/images/Fondo equipo.jpg"
 cv: "#"
-bio: "Arquitecto. Investigador."
+bio: Arquitecto. Investigador.
 skill:
 - label: Desarrollo web
   percentage: 75%
