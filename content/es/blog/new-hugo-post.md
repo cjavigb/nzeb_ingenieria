@@ -12,6 +12,7 @@ tags:
 - Marketing
 - Revenue
 type: post
+draft: true
 
 ---
 Prueba del blog
