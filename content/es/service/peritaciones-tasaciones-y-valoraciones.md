@@ -14,7 +14,7 @@ title = "Peritaciones, tasaciones y valoraciones."
 type = ""
 weight = 140
 [menu.services2]
-weight = 6
+weight = 5
 
 +++
 Nuestro equipo multidisciplinar realiza cualquier tipo de <span style="color:#2AB441";>**peritaciones, valoraciones o tasaciones.** </span>

@@ -56,13 +56,7 @@ fields:
   name: type
   label: type
 pages:
-- content/es/Docencia e investigación/docencia-1.md
-- content/es/Docencia e investigación/investigacion.difusion-del-conocimiento.md
-- content/es/docencia/Docencia/prueba-docencia.md
-- content/es/docencia/aaaa.md
-- content/es/docencia/docencia.md
 - content/es/service/cálculo-de-estructuras.md
-- content/es/service/docencia.md
 - content/es/service/mobiliario-urbano.md
 - content/es/service/peritaciones-tasaciones-y-valoraciones.md
 - content/es/service/prefabricado-de-hormigón.md

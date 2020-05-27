@@ -13,8 +13,6 @@ regularTime = ""
 title = "Proyectos de Urbanización"
 type = ""
 weight = 70
-[menu.services]
-weight = 7
 
 +++
 En NZEB Ingeniería realizamos todo tipo de <span style="color:#2AB441";>**proyectos de urbanización**.</span>
