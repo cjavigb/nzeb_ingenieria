@@ -12,7 +12,7 @@ type = "post"
 +++
 Siempre es gratificante ver la teoría del aula puesta en práctica en la obra.
 
-Esta vez visitamos con los alumnos de 5º curso de Arquitectura de la Universidad San Jorge de Zaragoza la vivienda de Albert Arpón; primera vivienda Passivhaus de madera hecha en Aragon.
+Esta vez visitamos con los alumnos de 5º curso de Arquitectura de la Universidad San Jorge de Zaragoza la vivienda de Albert Arpón; primera vivienda Passivhaus de madera hecha en Aragón.
 
 Albert nos dio todo lujo de detalles sobre ella ya que además de promotor ha sido el director técnico de la obra.
 
@@ -32,9 +32,9 @@ Desde estas líneas queremos dar las gracias tanto a Albert Arpón (promotor) co
 
 ![](/images/passivhaus_fiscal.jpg)
 
-1. Eficiencia energética
-2. Sostenibilidad
-3. Passivhaus
-4. Edificios de Consumo Casi Nulo
-5. Fiscal (Huesca)
-6. Viviendas en los Pirineos
+1. Eficiencia energética.
+2. Sostenibilidad.
+3. Passivhaus.
+4. Edificios de Consumo Casi Nulo.
+5. Fiscal (Huesca).
+6. Viviendas en los Pirineos.
