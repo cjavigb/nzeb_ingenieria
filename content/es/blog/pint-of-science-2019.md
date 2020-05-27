@@ -14,13 +14,13 @@ type = "post"
 
 Está vez hemos guiado una visita al edificio del CIEM.
 
-El edificio se concibió para ser un edificio Zero emisiones. La generación de energía eléctrica mediante <span style="color:#2AB441";>**captadores solares fotovoltaicos**</span> así como el uso de <span style="color:#2AB441";>**otras energías renovables como es la geotérmica**</span> mediante los tubos canadienses instalados, hace que el consumo final del edificio sea muy bajo.
+El edificio se concibió para ser un edificio Zero emisiones. La generación de energía eléctrica mediante **captadores solares fotovoltaicos** así como el uso de **otras energías renovables como es la geotérmica** mediante los tubos canadienses instalados, hace que el consumo final del edificio sea muy bajo.
 
 > El CIEM fue el primer edificio municipal en Zaragoza considerado un ECCN
 
 Se explicó el funcionamiento del edificio, tanto en modalidad de invierno como en la de verano y se recorrió el mismo.
 
-Pudimos observar la ganancia térmica que se producía en el aire de entrada al sistema de climatización con un salto térmico de 17ºC exclusivamente por hacer circular el aire de la calle a través de los <span style="color:#2AB441";>**tubos canadienses**</span>.
+Pudimos observar la ganancia térmica que se producía en el aire de entrada al sistema de climatización con un salto térmico de 17ºC exclusivamente por hacer circular el aire de la calle a través de los **tubos canadienses**.
 
 ![](/images/img-20200526-wa0019.jpg)
 
