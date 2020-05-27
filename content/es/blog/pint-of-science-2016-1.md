@@ -28,6 +28,8 @@ Albert nos dio todo lujo de detalles sobre ella ya que además de promotor ha si
 
 En esta casa pasiva de Fiscal se ha buscado que la vivienda se ajuste además a criterios de sostenibilidad. Los aislamientos son de fibras de madera, materiales naturales, tableros de madera. Esta vivienda se ha realizado en los talleres de Jesfer en Almudévar y se han montado en la parcela que Albert disponía en Fiscal. Esta prefabricación supone además de la rapidez en la ejecución unos controles de calidad que en la obra son mucho más complejos de llevarlos a cabo.
 
+![](/images/img_20171017_104610.jpg)
+
 Desde estas líneas queremos dar las gracias tanto a Albert Arpón (promotor) como a Sergio Buil (Jesfer) por el exquisito trato que nos han dispensado resolviendo en todo momento las dudas que les han planteado.
 
 ![](/images/passivhaus_fiscal.jpg)
