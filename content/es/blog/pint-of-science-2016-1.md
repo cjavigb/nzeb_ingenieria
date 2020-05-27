@@ -10,15 +10,14 @@ title = "Visita a una vivienda Passivhaus en Fiscal (Huesca)"
 type = "post"
 
 +++
-
 Siempre es gratificante ver la teoría del aula puesta en práctica en la obra.
 
-Esta vez visitamos con los alumnos de 5º curso de Arquitectura de la Universidad San Jorge de Zaragoza la vivienda de Albert Arpón la primera vivienda Passivhaus de madera hecha en Aragon.
+Esta vez visitamos con los alumnos de 5º curso de Arquitectura de la Universidad San Jorge de Zaragoza la vivienda de Albert Arpón; primera vivienda Passivhaus de madera hecha en Aragon.
 
 Albert nos dio todo lujo de detalles sobre ella ya que además de promotor ha sido el director técnico de la obra.
 
-Reforzamos los cinco principios básicos del estándar Passivhaus: 
-
+> Reforzamos los cinco principios básicos del estándar Passivhaus:
+>
 > * Aislamiento.
 > * Hermeticidad.
 > * Carpintería de altas prestaciones.
