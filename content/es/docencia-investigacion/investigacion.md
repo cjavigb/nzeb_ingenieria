@@ -1,20 +1,16 @@
 +++
-bg_image = "/images/Fondo.jpg"
-brochure = ""
-date = 2020-05-05T03:01:32Z
-description = ""
-draft = true
-halfDay = ""
-halfTime = ""
-icon = "ti-thought"
-image = "/images/III Congreso ECCN 2.JPG"
-offDay = ""
-regularDay = ""
-regularTime = ""
 title = "Investigación. Difusión del conocimiento."
-type = ""
-weight = 20
-
+date = "2020-05-05T05:51:17.000+00:00"
+description = "This is meta description"
+image = "/images/III Congreso ECCN 2.JPG"
+bg_image = "/images/Fondo.jpg"
+icon = "ti-thought"
+brochure = ''
+regularTime = '' 
+halfDay=  ''
+halfTime = ''
+offDay = ''
+weight = 130
 +++
 La importancia de <span style="color:#2AB441";>**diseminar el conocimiento científico**</span> y tecnológico se hace cada vez mayor.
 

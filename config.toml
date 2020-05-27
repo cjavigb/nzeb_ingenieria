@@ -28,6 +28,9 @@ content = ""
 copyright = "Copyright &copy; 2020 by NZEB Ingeniería"
 subscribe = "Suscríbete"
 subscribe_content = "Lorem ipsum dolor sit amet, consect etur adipisicing. elit sed do eiusmod."
+
+  
+
 [[menu.footer]]
 URL = "#"
 name = "Terms & Conditions"
