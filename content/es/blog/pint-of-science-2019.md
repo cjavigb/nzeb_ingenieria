@@ -22,6 +22,8 @@ Se explicó el funcionamiento del edificio, tanto en modalidad de invierno como 
 
 Pudimos observar la ganancia térmica que se producía en el aire de entrada al sistema de climatización con un salto térmico de 17ºC exclusivamente por hacer circular el aire de la calle a través de los <span style="color:#2AB441";>**tubos canadienses**</span>.
 
+![](/images/img-20200526-wa0019.jpg)
+
 Agradecer la siempre disponibilidad que por parte de Romy Piñeiroa, gerente del CIEM, para poder realizar esta interesantísima visita.
 
 1. Geotermia.
