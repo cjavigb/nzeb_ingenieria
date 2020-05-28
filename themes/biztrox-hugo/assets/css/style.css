@@ -814,9 +814,9 @@ code{
 
 .navigation .navbar-brand img {
   position: relative;
-  top: 75%;
-  -webkit-transform: translateY(-75%);
-          transform: translateY(-75%);
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
 }
 
 .navigation .navbar .nav-item {
