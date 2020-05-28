@@ -789,8 +789,8 @@ code{
   position: absolute;
   left: 0;
   top: -52px;
-  height: 680px;
-  width: 880px;
+  height: 340px;
+  width: 440px;
   background: #fff;
   text-align: center;
   box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.1);
@@ -814,9 +814,9 @@ code{
 
 .navigation .navbar-brand img {
   position: relative;
-  top: 50%;
-  -webkit-transform: translateY(-50%);
-          transform: translateY(-50%);
+  top: 75%;
+  -webkit-transform: translateY(-75%);
+          transform: translateY(-75%);
 }
 
 .navigation .navbar .nav-item {
