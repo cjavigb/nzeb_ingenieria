@@ -5,7 +5,7 @@ disqusShortname = ""
 paginate = "6"
 summaryLength = "10"
 theme = "biztrox-hugo"
-title = "NZEB Ingenería"
+title = "NZEB Ingeniería"
 [Languages.en]
 contentDir = "content/en"
 home = "Home"
