@@ -20,9 +20,7 @@ overview:
 
 Proyectos urbanísticos y licencia de apertura de los Centros de Kids and Nits en Zaragoza.
 
-La franquicia Kids and Nits, lider en Centros de eliminación de piojos, dispone de dos centros en Zaragoza (Actur 2014 y C.C. El Caracol 2015)
-
-En este caso a 
+La franquicia Kids and Nits, lider en Centros de eliminación de piojos, dispone de dos centros en Zaragoza (Actur 2014 y C.C. El Caracol 2015).
 
 En esta ocasión se nos encomendó la gestión del paquete completo: tramitación de las licencias urbanística y de apertura ante el Ayuntamiento de Zaragoza, petición de ofertas, contratación y dirección de obra.
 
