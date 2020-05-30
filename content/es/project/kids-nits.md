@@ -3,7 +3,7 @@ title: Centros Kids and Nits Zaragoza
 date: 2020-04-07T08:48:03.000+00:00
 description: Centros Kids and Nits Zaragoza
 bg_image: "/images/background/page-title.jpg"
-image: "/images/_mg_1563.jpg"
+image: "/images/_mg_1563_rec.jpg"
 live_demo: ''
 case_study: ''
 category: Licencias urbanísticas y de actividad
