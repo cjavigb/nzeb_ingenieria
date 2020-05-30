@@ -1,10 +1,10 @@
 +++
-bg_image = "/images/Fondo.JPG"
+bg_image = "/images/portada_sost_soft.jpg"
 case_study = ""
 category = "Instalaciones Solares Fotovoltaicas"
 date = 2019-05-17T08:19:18Z
 description = ""
-image = "/images/1.jpg"
+image = "/images/1_solar_rec.jpg"
 live_demo = ""
 title = "Instalación solar fotovoltaica para autoconsumo"
 type = ""
