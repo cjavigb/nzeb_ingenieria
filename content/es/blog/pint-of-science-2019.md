@@ -1,7 +1,7 @@
 +++
 author = "Claudio Javier García Ballano"
 bg_image = "/images/img-20200526-wa0019.jpg"
-categories = []
+categories = ["Docencia"]
 date = 2020-01-31T09:00:00Z
 description = "Visita al CIEM por parte de los alumnos de CIRCE"
 image = "/images/img-20200526-wa0020.jpg"
