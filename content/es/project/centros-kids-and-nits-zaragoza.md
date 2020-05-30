@@ -4,7 +4,7 @@ case_study = ""
 category = "Proyectos de urbanización"
 date = 2020-04-07T08:48:03Z
 description = "This is meta description"
-image = "/images/Yéqueda.JPG"
+image = "/images/yequeda_rec.JPG"
 live_demo = ""
 title = "Urbanización Las Lomas de Yequeda (Huesca)"
 [[overview]]
