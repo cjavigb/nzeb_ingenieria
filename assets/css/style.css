@@ -1495,7 +1495,7 @@ code{
 
 /* 14.4 process */
 .process-item {
-  width: 330px;
+  width: 370px;
 }
 
 @media (max-width: 1199px) {
