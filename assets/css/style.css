@@ -1159,7 +1159,7 @@ code{
 
 @media (max-width: 575px) {
   .hero-slider .slick-dots li {
-    width: 25%;
+    width: 40%;
   }
 }
 
