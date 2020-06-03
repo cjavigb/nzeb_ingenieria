@@ -810,7 +810,7 @@ code{
   position: absolute;
   left: 0;
   top: -52px;
-  height: 200px;
+  height: 220px;
   width: 370px;
   background: #fff;
   text-align: center;
@@ -1159,7 +1159,7 @@ code{
 
 @media (max-width: 575px) {
   .hero-slider .slick-dots li {
-    width: 40%;
+    width: 25%;
   }
 }
 
