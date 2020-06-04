@@ -5,8 +5,7 @@ contacts = []
 cv = ""
 date = 2020-06-03T22:00:00Z
 description = ""
-designation = ""
-draft = true
+designation = "Especialista en Estructuras"
 image = "/images/foto_despacho_bn.jpg"
 information = []
 skill = []
@@ -17,13 +16,13 @@ icon = "ti-linkedin"
 link = "•\twww.linkedin.com/in/antonio-gil-mombiela-b28a9634"
 
 +++
-#### Formación
+##### Formación
 
 Arquitectura Técnica / Grado en Arquitectura Técnica.
 
 Máster en Ingeniería de las Estructuras de la Edificación.
 
-#### Ejercicio libre de la profesión.
+##### Ejercicio libre de la profesión.
 
 Ejercicio libre de la profesión desde abril de 2017 hasta la actualidad.
 
@@ -39,7 +38,7 @@ Proyectos para Licencias de Apertura.
 
 Certificaciones energéticas.
 
-#### Trabajador por cuenta ajena
+##### Trabajador por cuenta ajena
 
 SOCOTEC IBERIA / OCA ICP S.A.U.
 
@@ -60,3 +59,9 @@ Técnico de control de construcción desde julio de 2002 hasta mayo de 2004
 Estudio de patologías y diagnosis de edificios existentes.
 
 Control Técnico (OCT) en multitud de obras residenciales y del sector público.
+
+##### Contacto
+
+Móvil: 650 914 500
+
+Email: agil@nzebingenieria.es
