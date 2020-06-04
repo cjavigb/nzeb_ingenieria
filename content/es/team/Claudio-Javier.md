@@ -1,39 +1,21 @@
 ---
 title: Claudio Javier García Ballano
-date: 2020-05-11T11:08:00+00:00
+date: 2020-05-11T11:08:00.000+00:00
 description: This is meta description
 designation: CEO
 image: "/images/team/claudio.jpg"
 bg_image: "/images/Fondo equipo.jpg"
 cv: "#"
 bio: "CEO de NZEB Ingenería. \n"
-information:
-- label: Projects Done
-  icon: ti-notepad
-  data: 32
-- label: Success Rate
-  icon: ti-medall
-  data: 96%
-- label: Experience Of
-  icon: ti-flag-alt
-  data: 13 Years
-- label: From
-  icon: ti-location-pin
-  data: San Diago. NY
+information: []
 contacts:
 - icon: ti-mobile
-  id: "+88 525 325 22"
+  id: "+34 687 49 26 99"
 - icon: ti-email
   id: cjgarcia@nzebingenieria.es
 - icon: ti-location-pin
-  id: 2/A Southampton, Sandiago, USA.
-skill:
-- label: Branding
-  percentage: 85%
-- label: Consulting
-  percentage: 90%
-- label: Business
-  percentage: 75%
+  id: Paseo de la Independencia 24-26 (Zaragoza)
+skill: []
 social:
 - icon: ti-linkedin
   link: https://www.linkedin.com/in/cjgarciaballano/
