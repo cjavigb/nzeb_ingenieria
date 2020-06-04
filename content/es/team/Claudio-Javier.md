@@ -6,7 +6,7 @@ designation: CEO de NZEB Ingeniería.
 image: "/images/team/claudio.jpg"
 bg_image: "/images/Fondo equipo.jpg"
 cv: ''
-bio: "CEO de NZEB Ingeniería. \n"
+bio: ''
 information: []
 contacts:
 - icon: ti-mobile
