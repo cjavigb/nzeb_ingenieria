@@ -2,10 +2,10 @@
 title: Claudio Javier García Ballano
 date: 2020-05-11T11:08:00.000+00:00
 description: This is meta description
-designation: CEO
+designation: ''
 image: "/images/team/claudio.jpg"
 bg_image: "/images/Fondo equipo.jpg"
-cv: "#"
+cv: ''
 bio: "CEO de NZEB Ingenería. \n"
 information: []
 contacts:
