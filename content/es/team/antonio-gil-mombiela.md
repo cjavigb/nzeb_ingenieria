@@ -15,7 +15,7 @@ icon = "ti-mobile"
 id = "+34 650 914 500"
 [[contacts]]
 icon = "ti-email"
-id = "agil@nzebingenieria.es"
+id = "mailto:agil@nzebingenieria.es"
 [[social]]
 icon = "ti-linkedin"
 link = "https://www.linkedin.com/in/antonio-gil-mombiela-b28a9634/?originalSubdomain=es"
