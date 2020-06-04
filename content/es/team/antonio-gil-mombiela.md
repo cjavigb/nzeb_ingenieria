@@ -1,19 +1,27 @@
 +++
 bg_image = "/images/Fondo equipo.jpg"
 bio = ""
-contacts = []
 cv = ""
 date = 2020-05-03T22:00:00Z
 description = ""
 designation = "Especialista en Estructuras"
 image = "/images/foto_despacho_bn.jpg"
-information = []
 skill = []
 title = "Antonio Gil Mombiela"
 type = ""
+[[contacts]]
+icon = "ti-mobile"
+id = "+34 650 914 500"
+[[contacts]]
+icon = "ti-email"
+id = "agil@nzebingenieria.es"
+[[information]]
+data = nil
+icon = ""
+label = ""
 [[social]]
 icon = "ti-linkedin"
-link = "•\twww.linkedin.com/in/antonio-gil-mombiela-b28a9634"
+link = "https://www.linkedin.com/in/antonio-gil-mombiela-b28a9634/?originalSubdomain=es"
 
 +++
 ##### Formación
