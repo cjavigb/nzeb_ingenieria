@@ -58,7 +58,7 @@ Evaluación de Patologías en la Edificación.
 
 Elaboración de informes ITE y Certificados de Eficiencia Energética.
 
-Inspeción reglamentaria de aparatos elevadores (ascensores).
+Inspección reglamentaria de aparatos elevadores (ascensores).
 
 LABORATORIOS PROYEX – UTEBO-
 
@@ -67,9 +67,3 @@ Técnico de control de construcción desde julio de 2002 hasta mayo de 2004
 Estudio de patologías y diagnosis de edificios existentes.
 
 Control Técnico (OCT) en multitud de obras residenciales y del sector público.
-
-##### Contacto
-
-Móvil: 650 914 500
-
-Email: agil@nzebingenieria.es
