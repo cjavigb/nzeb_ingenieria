@@ -1,5 +1,5 @@
 +++
-bg_image = ""
+bg_image = "/images/Fondo equipo.jpg"
 bio = ""
 contacts = []
 cv = ""
