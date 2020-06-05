@@ -774,7 +774,11 @@ code{
 
 @media (max-width: 575px) {
   .top-header ul li {
+<<<<<<< HEAD
     margin: 0px 0;
+=======
+    margin: 2px 0;
+>>>>>>> Cambia tamaño logo en versión movil.
   }
 }
 
@@ -824,11 +828,11 @@ code{
     height: unset;
     width: unset;
     box-shadow: none;
-    top: 24px;
+    top: 30px;
     background: none;
   }
   .navigation .navbar-brand img {
-    height: 50px;
+    height: 70px;
     width: auto;
   }
 }
