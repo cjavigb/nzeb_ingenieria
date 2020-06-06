@@ -13,9 +13,10 @@ ceo:
   bg_image: "/images/Foto_WEB.jpg"
   title: " Somos eficientes para hacer crecer su negocio."
   content: "Realizamos cualquier proyecto relacionado con la ingeniería, el urbanismo
-    y la arquitectura. \nNuestro objetivo es relacionar dichos proyectos con la eficiencia
-    energética y la reducción de emisiones de gases de efecto invernadero de manera
-    que sean sostenibles y económicamente rentables,"
+    y la arquitectura. \nNuestro objetivo es relacionar dichos <span style=\"color:#209119\";><strong>proyectos</strong></span>
+    con la eficiencia energética y la reducción de emisiones de gases de efecto invernadero
+    de manera que sean <span style=\"color:#209119\";><strong>sostenibles y económicamente
+    rentables.</strong></span> "
   signature: "/images/Firma R.png"
   name: Claudio Javier García Ballano
   designation: CEO. Ingeniero Industrial. Passivhaus Designer.
