@@ -24,9 +24,9 @@ slider:
     content: En NZEB Ingeniería somos especialistas en  <span style="color:#209119";><strong>cálculo
       de estructuras</strong></span> y en <span style="color:#209119";><strong>construcción
       industrializada</strong></span>, tanto metálica como madera y hormigón. La reducción
-      de costes y plazos, así como la durabilidad y sostenibilidad de la misma, está
-      asegurada. Más de 25 años de experiencia en el sector y más de 3.000.000 de
-      m<sup>2</sup> de estructura calculada nos avalan.
+      de costes y plazos, así como la durabilidad y sostenibilidad de la misma, están
+      asegurados. Más de 25 años de experiencia en el sector y más de 3.000.000 de
+      m<sup>2</sup> de estructura calculada y ejecutada nos avalan.
     pagination_icon: ti-bar-chart
     pagination_name: Estructuras / Prefabricado
     button:
@@ -36,23 +36,24 @@ slider:
   - bg_image: "/images/portada_idea_soft.jpg"
     animation_from: down
     subtitle: "¿Desea emprender?"
-    title: Deja el comienzo de tu futuro en nuestras manos.
+    title: Deje el comienzo o mejora de su futuro en nuestras manos.
     content: ¿Necesita la <span style="color:#209119";><strong>tramitación</strong></span>
       para <span style="color:#209119";><strong>poner en marcha su negocio</strong></span>?
       Nosotros nos encargamos de todo. Desde localizar la ubicación idónea, diseñar
-      el local para su actividad, obtener licencias hasta seleccionar los gremios
-      para realizar la obra. Todo en perfecta coordinación de acuerdo a sus necesidades.
+      el local para su actividad y obtener licencias hasta seleccionar los gremios
+      para realizar la obra. Todo en perfecta coordinación con usted para cumplir
+      al 100% sus necesidades.
     pagination_icon: ti-widget
     pagination_name: Proyectos
     button:
       enable: true
       label: Más información
-      link: service
+      link: service/licencias-de-actividad
   - bg_image: "/images/portada_sost_soft.jpg"
     animation_from: right
     subtitle: Realizamos nuestro trabajo siempre bajo el criterio de la
     title: Sostenibilidad y el ahorro energético
-    content: 'Estamos plenamente convencidos de que no ya el futuro sino el presente,
+    content: 'Estamos plenamente convencidos de que no ya el futuro sino el presente
       se debe mover bajo parámetros de <span style="color:#209119";><strong>sostenibiliad
       y respeto al medio ambiente</strong></span>. La eficiencia energética y los
       edificios <span style="color:#209119";><strong>NZEB / Passivhaus</strong></span>
