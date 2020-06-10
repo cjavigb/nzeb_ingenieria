@@ -1,5 +1,5 @@
 +++
-bg_image = "/images/Fondo equipo.jpg"
+bg_image = "/images/fondo_equipo_bn.jpg"
 bio = ""
 cv = ""
 date = 2020-05-03T22:00:00Z
