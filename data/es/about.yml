@@ -6,7 +6,7 @@ philosophy:
   content: '<span style="color:#209119";><strong>En NZEB Ingeniería</strong></span>
     somos expertos en ponernos en la piel de nuestros clientes. Sólo así, escuchamos,
     <span style="color:#209119";><strong>comprendemos y proyectamos sus necesidades</strong></span>
-    y conseguimos poner en marcha los proyectos que nos encomiendan. '
+    consiguiendo poner en marcha los proyectos que nos encomiendan. '
   image: "/images/cliente.jpg"
 ceo:
   enable: true
