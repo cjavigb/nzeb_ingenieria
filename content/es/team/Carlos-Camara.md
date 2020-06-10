@@ -4,7 +4,7 @@ date: 2018-05-11T11:08:00.000+00:00
 description: This is meta description
 designation: Colaborador
 image: "/images/carlos_camara.jpg"
-bg_image: "/images/Fondo equipo.jpg"
+bg_image: "/images/fondo_equipo_bn.jpg"
 cv: ''
 bio: Arquitecto. Investigador.
 skill:
@@ -17,7 +17,6 @@ social:
   link: https://www.linkedin.com/in/carlescamara/
 
 ---
-
 ##### Formación
 
 * Arquitecto (Universitat Politècnica de Cataluyna).
@@ -32,4 +31,3 @@ Universidad San Jorge.
 * Profesor titular de Urbanismo 1
 * Profesor de Urbanismo 6
 * Profesor de Aula Abierta
-
