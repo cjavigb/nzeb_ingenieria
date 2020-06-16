@@ -25,7 +25,7 @@ link = "www.linkedin.com/in/rafael-gonzález-barriada-67282748"
 
 Ingeniero Industrial.
 
-Vocal de la Junta de Gobierno del Colegio Oficial de Ingenieros industriales de Aragón y la Rioja (desde 2012)
+Vocal de la Junta de Gobierno del Colegio Oficial de Ingenieros Industriales de Aragón y la Rioja (desde 2012)
 
 Presidente de la Agrupación de Aragón de la Asociación Técnica Española  de Climatización y Refrigeración (ATECYR). Años 2000 y 2001
 
@@ -51,8 +51,8 @@ Certificaciones energéticas.
 
 ##### Trabajador por cuenta ajena
 
-1985-87: FORESCAL CASTILLA LA MANCHA S.A. Empresa dedicada a la fabricación y comercialización de combustibles sólidos elaborados a partir de residuos agrícolas y forestales, y de instalaciones y equipos de combustión para dichos residuos. 
+1985-87: FORESCAL CASTILLA LA MANCHA S.A. Empresa dedicada a la fabricación y comercialización de combustibles sólidos elaborados a partir de residuos agrícolas y forestales, y de instalaciones y equipos de combustión para dichos residuos.
 
-1987-1990. DIPUTACIÓN GENERAL DE ARAGÓN Asesor energético en el Servicio de Asesorías Energéticas de la Dirección General  de Industria, Energía y Minas de éste organismo autonómico, realizando las siguientes actividades: 
+1987-1990. DIPUTACIÓN GENERAL DE ARAGÓN Asesor energético en el Servicio de Asesorías Energéticas de la Dirección General  de Industria, Energía y Minas de éste organismo autonómico, realizando las siguientes actividades:
 
 1991-98. HOSPITAL CLÍNICO UNIVERSITARIO DE ZARAGOZA Jefe de Servicio de Ingeniería y Mantenimiento de dicho centro hospitalario,
