@@ -15,7 +15,7 @@ icon = "ti-mobile"
 id = "+34 630 937 759"
 [[contacts]]
 icon = "ti-email"
-id = "rafaelp.gonzalez72@gmail.com"
+id = "rgonzalez@nzebingenieria.es"
 [[social]]
 icon = "ti-linkedin"
 link = "https://www.linkedin.com/in/rafael-gonz%C3%A1lez-barriada-67282748/?originalSubdomain=es"
