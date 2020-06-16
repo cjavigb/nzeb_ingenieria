@@ -2,21 +2,20 @@
 bg_image = "/images/fondo_equipo_bn.jpg"
 bio = ""
 cv = ""
-date = 2020-05-03T22:00:00Z
+date = 2020-05-02T22:00:00Z
 description = ""
-designation = "Especialista en Estructuras"
-draft = true
-image = "/images/foto_despacho.jpg"
+designation = "Especialista en Instalaciones en edificios"
+image = "/images/rafa_800.jpg"
 information = []
 skill = []
-title = "Antonio Gil Mombiela-(copy)"
+title = "Rafael González Barriada"
 type = ""
 [[contacts]]
 icon = "ti-mobile"
-id = "+34 650 914 500"
+id = "+34 630 937 759"
 [[contacts]]
 icon = "ti-email"
-id = "agil@nzebingenieria.es"
+id = "rafaelp.gonzalez72@gmail.com"
 [[social]]
 icon = "ti-linkedin"
 link = "https://www.linkedin.com/in/antonio-gil-mombiela-b28a9634/?originalSubdomain=es"
@@ -24,15 +23,21 @@ link = "https://www.linkedin.com/in/antonio-gil-mombiela-b28a9634/?originalSubdo
 +++
 ##### Formación
 
-Arquitectura Técnica / Grado en Arquitectura Técnica.
+Ingeniero Industrial.
 
-Máster en Ingeniería de las Estructuras de la Edificación.
+Vocal de la Junta de Gobierno del Colegio Oficial de Ingenieros industriales de Aragón y la Rioja (desde 2012)
+
+Presidente de la Agrupación de Aragón de la Asociación Técnica Española  de Climatización y Refrigeración (ATECYR). Años 2000 y 2001
 
 ##### Ejercicio libre de la profesión.
 
-Ejercicio libre de la profesión desde abril de 2017 hasta la actualidad.
+Ejercicio libre de la profesión desde abril de 1988 hasta la actualidad.
 
-Cálculo de estructuras.
+Instalaciones Eléctricas.
+
+Instalaciones de Climatización
+
+Gases combustibles
 
 Organización y control de Obras.
 
@@ -46,22 +51,8 @@ Certificaciones energéticas.
 
 ##### Trabajador por cuenta ajena
 
-SOCOTEC IBERIA / OCA ICP S.A.U.
+1985-87: FORESCAL CASTILLA LA MANCHA S.A. Empresa dedicada a la fabricación y comercialización de combustibles sólidos elaborados a partir de residuos agrícolas y forestales, y de instalaciones y equipos de combustión para dichos residuos. 
 
-Técnico de control de construcción desde mayo de 2004 hasta febrero de 2017.
+1987-1990. DIPUTACIÓN GENERAL DE ARAGÓN Asesor energético en el Servicio de Asesorías Energéticas de la Dirección General  de Industria, Energía y Minas de éste organismo autonómico, realizando las siguientes actividades: 
 
-Control Técnico (OCT) en multitud de obras, a destacar: Centro Comercial Aragonia, Centro Comercial Puerto Venecia, Residencia de Ancianos de Utebo o el I.E.S. Valdespartera, entre multitud de edificios residenciales.
-
-Evaluación de Patologías en la Edificación.
-
-Elaboración de informes ITE y Certificados de Eficiencia Energética.
-
-Inspección reglamentaria de aparatos elevadores (ascensores).
-
-LABORATORIOS PROYEX – UTEBO-
-
-Técnico de control de construcción desde julio de 2002 hasta mayo de 2004
-
-Estudio de patologías y diagnosis de edificios existentes.
-
-Control Técnico (OCT) en multitud de obras residenciales y del sector público.
+1991-98. HOSPITAL CLÍNICO UNIVERSITARIO DE ZARAGOZA Jefe de Servicio de Ingeniería y Mantenimiento de dicho centro hospitalario,
