@@ -6,7 +6,7 @@ description = ""
 halfDay = ""
 halfTime = ""
 icon = "ti-loop"
-image = "/images/Portada-2.jpg"
+image = "/images/edifcio_administrativo.jpg"
 offDay = ""
 regularDay = ""
 regularTime = ""
@@ -22,6 +22,10 @@ En NZEB ingeniería realizamos para viviendas, colegios, centros socioculturales
 
 •Proyectos de climatización.
 
+![Unida de Tratamiento de Aire en un Centro Docente](/images/uta_centro_docente.jpg "UTA Centro Docente")
+
+![Distribución de calefacción y Agua Caliente Sanitaria en residencia de ancianos](/images/residencia_ancianos.jpg "Distribución de calefacción y ACS en residencia de ancianos")
+
 •_Aerotermia_
 
 •_Suelo radiante-refrescante._
@@ -35,6 +39,10 @@ En NZEB ingeniería realizamos para viviendas, colegios, centros socioculturales
 •_Geotermia tierra-aire._
 
 •_Geotermia agua-agua._
+
+![sala de calderas en residencia de ancianos](/images/sala_calderas_residencia_ancianos.jpg "sala de calderas en residencia de ancianos")
+
+![Instalación de Geotermia agua-agua](/images/Portada-2.jpg "Geotermia agua-agua")
 
 •_Conductos textiles._
 
