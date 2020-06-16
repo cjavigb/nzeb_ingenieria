@@ -18,7 +18,7 @@ icon = "ti-email"
 id = "rafaelp.gonzalez72@gmail.com"
 [[social]]
 icon = "ti-linkedin"
-link = "www.linkedin.com/in/rafael-gonzález-barriada-67282748"
+link = "https://www.linkedin.com/in/rafael-gonz%C3%A1lez-barriada-67282748/?originalSubdomain=es"
 
 +++
 ##### Formación
