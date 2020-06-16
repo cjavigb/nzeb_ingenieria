@@ -31,7 +31,7 @@ Presidente de la Agrupación de Aragón de la Asociación Técnica Española  de
 
 ##### Ejercicio libre de la profesión.
 
-Ejercicio libre de la profesión desde abril de 1988 hasta la actualidad.
+Ejercicio libre de la profesión desde abril de 1998 hasta la actualidad.
 
 Instalaciones Eléctricas.
 
