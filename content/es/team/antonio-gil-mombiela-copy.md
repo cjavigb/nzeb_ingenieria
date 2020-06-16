@@ -18,7 +18,7 @@ icon = "ti-email"
 id = "rafaelp.gonzalez72@gmail.com"
 [[social]]
 icon = "ti-linkedin"
-link = "https://www.linkedin.com/in/antonio-gil-mombiela-b28a9634/?originalSubdomain=es"
+link = "www.linkedin.com/in/rafael-gonzález-barriada-67282748"
 
 +++
 ##### Formación
