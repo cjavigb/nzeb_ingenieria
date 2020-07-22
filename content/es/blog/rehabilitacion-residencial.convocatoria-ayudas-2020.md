@@ -1,6 +1,6 @@
 +++
 author = "Claudio Javier García Ballano"
-bg_image = "/images/lineas_ayudas-2.JPG"
+bg_image = "/images/fondo_ayudas.JPG"
 categories = []
 date = 2020-07-17T22:00:00Z
 description = "Convocatoria ayudas 2020"
