@@ -60,4 +60,4 @@ _Actuaciones subvencionables:_ Aquellas que se produzcan en el interior de la vi
 
 _Cuantía de la ayuda:_ Hasta el 50% del presupuesto subvencionable con un límite de 6.000 € por vivienda.
 
-Toda la información [aquí]().
+[Bases de la convocatoria.](https://www.ayudasrehabilitacionzaragoza.es/wp-content/uploads/2020/07/Bases-de-la-Convocatoria-de-Ayudas-a-la-Rehabilitacio%CC%81n-2020.pdf)
