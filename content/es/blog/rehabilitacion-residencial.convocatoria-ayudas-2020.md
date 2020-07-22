@@ -6,7 +6,7 @@ date = 2020-07-17T22:00:00Z
 description = "Convocatoria ayudas 2020"
 image = "/images/rehabilitation.jpg"
 tags = []
-title = "Rehabilitación Residencial.Convocatoria Ayudas 2020"
+title = "Rehabilitación Residencial. Convocatoria Ayudas 2020"
 type = ""
 
 +++
