@@ -44,7 +44,7 @@ Es por ello que establecemos colaboraciones con distintos equipos de manera que 
 
 ***
 
-[PAC 17 Arquitectura](https://gingolfin.wixsite.com/pac17arquitectura)
+[PAC 17 Arquitectura](http://www.pac17arquitectura.com/Inicio/)
 
 ***
 
